@@ -180,7 +180,12 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
                         # Find the next error message after this case header
                         search_start = case_match.end()
 
+                        # DEBUG: Show what we're searching in
+                        search_text = student_section[search_start:search_start+500]
+                        print(f"      DEBUG: Searching in: {repr(search_text[:100])}")
+
                         for error_pattern in error_patterns:
+                            print(f"      DEBUG: Trying pattern: {error_pattern}")
                             error_match = re.search(error_pattern, student_section[search_start:search_start+500])
                             if error_match:
                                 # Calculate position in student section
