@@ -167,6 +167,10 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
                     # Find and replace the placeholder text within this student's section
                     case_pattern = re.escape(f"### {case_type} AI Case")
 
+                    # DEBUG: Show what we're looking for and where
+                    print(f"      DEBUG: Looking for pattern: {case_pattern}")
+                    print(f"      DEBUG: Student section preview: {repr(student_section[:200])}")
+
                     # Pattern to match the error/no transcript message
                     error_patterns = [
                         r'\*No transcript found[^*]*\*',
@@ -176,6 +180,7 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
 
                     # Find the case section within the student's section
                     case_match = re.search(case_pattern, student_section)
+                    print(f"      DEBUG: Case match found: {case_match is not None}")
                     if case_match:
                         # Find the next error message after this case header
                         search_start = case_match.end()
