@@ -30,6 +30,7 @@ def remove_timestamps(text):
     - 00:00:12 --> 00:00:15
     - [00:00:12]
     - 0:12 - 0:15
+    - 0:01 (standalone timestamps)
     - Sequence numbers (1, 2, 3, etc.)
     """
     lines = text.split('\n')
@@ -44,6 +45,10 @@ def remove_timestamps(text):
 
         # Skip sequence numbers (just digits on their own line)
         if line.isdigit():
+            continue
+
+        # Skip lines that are ONLY timestamps (like "0:01" or "1:23:45")
+        if re.match(r'^\d{1,2}:\d{2}(:\d{2})?$', line):
             continue
 
         # Skip SRT timestamp lines (00:00:12 --> 00:00:15)
