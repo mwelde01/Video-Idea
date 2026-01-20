@@ -182,37 +182,70 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
                     case_match = re.search(case_pattern, student_section)
                     print(f"      DEBUG: Case match found: {case_match is not None}")
                     if case_match:
-                        # Find the next error message after this case header
+                        # Find the content after this case header
+                        # Content starts after the header and any blank lines
                         search_start = case_match.end()
 
                         # DEBUG: Show what we're searching in
                         search_text = student_section[search_start:search_start+500]
                         print(f"      DEBUG: Searching in: {repr(search_text[:100])}")
 
+                        # Find where content ends (next ### or ---)
+                        # This captures everything between the case header and the next section
+                        content_end_match = re.search(r'\n(###|---)', student_section[search_start:])
+
+                        if content_end_match:
+                            content_end = search_start + content_end_match.start()
+                        else:
+                            # If no next section found, go to end of student section
+                            content_end = len(student_section)
+
+                        # Extract the current content (might be error message or existing transcript)
+                        current_content = student_section[search_start:content_end].strip()
+                        print(f"      DEBUG: Current content length: {len(current_content)} chars")
+                        print(f"      DEBUG: Current content preview: {repr(current_content[:80])}")
+
+                        # Check if it's an error message or if we should replace it
+                        is_error = False
                         for error_pattern in error_patterns:
-                            print(f"      DEBUG: Trying pattern: {error_pattern}")
-                            error_match = re.search(error_pattern, student_section[search_start:search_start+500])
-                            if error_match:
-                                # Calculate position in student section
-                                section_start = search_start + error_match.start()
-                                section_end = search_start + error_match.end()
-
-                                # Calculate actual position in full content
-                                actual_start = student_start + section_start
-                                actual_end = student_start + section_end
-
-                                # Replace the error message with the transcript
-                                content = content[:actual_start] + transcript + content[actual_end:]
-
-                                # Update the student section for next iteration
-                                student_section = student_section[:section_start] + transcript + student_section[section_end:]
-                                # Adjust student_end since content length changed
-                                length_diff = len(transcript) - (section_end - section_start)
-                                student_end += length_diff
-
-                                print(f"    ✓ Updated {case_type} AI Case")
-                                updates_made += 1
+                            if re.search(error_pattern, current_content):
+                                is_error = True
+                                print(f"      DEBUG: Matched error pattern: {error_pattern}")
                                 break
+
+                        # Also check if it contains auto-generated transcript note or starts with [
+                        if '[Auto-generated transcript' in current_content:
+                            print(f"      DEBUG: Found auto-generated transcript marker - will replace")
+                            is_error = True  # Treat it as replaceable
+
+                        if is_error or len(current_content) > 0:
+                            # Replace the content
+                            # Calculate positions in the full document
+                            # We want to replace everything from after the header to before the next section
+                            # But preserve the newlines structure
+
+                            section_start = search_start
+                            section_end = content_end
+
+                            actual_start = student_start + section_start
+                            actual_end = student_start + section_end
+
+                            # Create the replacement with proper formatting
+                            replacement = f"\n\n{transcript}\n"
+
+                            # Replace in the full content
+                            content = content[:actual_start] + replacement + content[actual_end:]
+
+                            # Update the student section for next iteration
+                            student_section = student_section[:section_start] + replacement + student_section[section_end:]
+                            # Adjust student_end since content length changed
+                            length_diff = len(replacement) - (section_end - section_start)
+                            student_end += length_diff
+
+                            print(f"    ✓ Updated {case_type} AI Case")
+                            updates_made += 1
+                        else:
+                            print(f"      DEBUG: No content to replace found")
 
                 # Found the student, no need to try other name variants
                 break
