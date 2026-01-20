@@ -1,0 +1,11 @@
+# Example Panopto URLs for batch processing
+# Lines starting with # are comments and will be ignored
+# Add one URL per line
+
+# Example URL (replace with your actual Panopto URLs)
+https://louisville.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4335bd73-57a0-4730-b44c-b3d401582ab9
+
+# Add more URLs below:
+# https://your-site.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=VIDEO-ID-1
+# https://your-site.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=VIDEO-ID-2
+# https://your-site.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=VIDEO-ID-3
