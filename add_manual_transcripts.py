@@ -138,6 +138,22 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
             if re.search(section_pattern, content):
                 print(f"  Found section for: {name_variant}")
 
+                # Find the student's section boundaries
+                student_section_match = re.search(section_pattern, content)
+                if not student_section_match:
+                    continue
+
+                student_start = student_section_match.start()
+
+                # Find the next student section (next ##) to determine end boundary
+                next_section_match = re.search(r'\n## ', content[student_start + 1:])
+                if next_section_match:
+                    student_end = student_start + 1 + next_section_match.start()
+                else:
+                    student_end = len(content)
+
+                student_section = content[student_start:student_end]
+
                 for case_type, filename in cases.items():
                     print(f"    Processing {case_type} AI Case from {filename}")
 
@@ -148,11 +164,7 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
                         print(f"    ⚠ {transcript}")
                         continue
 
-                    # Find and replace the placeholder text
-                    # Look for patterns like:
-                    # ### Positive AI Case
-                    # *No transcript found...*  OR  *Error: ...*
-
+                    # Find and replace the placeholder text within this student's section
                     case_pattern = re.escape(f"### {case_type} AI Case")
 
                     # Pattern to match the error/no transcript message
@@ -162,21 +174,31 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
                         r'\*No captions available[^*]*\*'
                     ]
 
-                    # Find the case section
-                    case_match = re.search(case_pattern, content)
+                    # Find the case section within the student's section
+                    case_match = re.search(case_pattern, student_section)
                     if case_match:
                         # Find the next error message after this case header
                         search_start = case_match.end()
 
                         for error_pattern in error_patterns:
-                            error_match = re.search(error_pattern, content[search_start:search_start+500])
+                            error_match = re.search(error_pattern, student_section[search_start:search_start+500])
                             if error_match:
+                                # Calculate position in student section
+                                section_start = search_start + error_match.start()
+                                section_end = search_start + error_match.end()
+
                                 # Calculate actual position in full content
-                                actual_start = search_start + error_match.start()
-                                actual_end = search_start + error_match.end()
+                                actual_start = student_start + section_start
+                                actual_end = student_start + section_end
 
                                 # Replace the error message with the transcript
                                 content = content[:actual_start] + transcript + content[actual_end:]
+
+                                # Update the student section for next iteration
+                                student_section = student_section[:section_start] + transcript + student_section[section_end:]
+                                # Adjust student_end since content length changed
+                                length_diff = len(transcript) - (section_end - section_start)
+                                student_end += length_diff
 
                                 print(f"    ✓ Updated {case_type} AI Case")
                                 updates_made += 1
