@@ -174,7 +174,7 @@ def update_compiled_document(manual_transcripts, compiled_file='compiled_transcr
                     # Pattern to match the error/no transcript message
                     error_patterns = [
                         r'\*No transcript found[^*]*\*',
-                        r'\*Error:[^*]*\*',
+                        r'\*Error[^*]*\*',  # Matches *Error:...* or *Error extracting...*
                         r'\*No captions available[^*]*\*'
                     ]
 
