@@ -99,12 +99,13 @@ def read_and_clean_transcript(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
             raw_text = f.read()
 
-        # First try SRT parser (handles SRT format specifically)
-        cleaned = parse_srt_content(raw_text)
+        # Use the comprehensive timestamp remover that handles all formats
+        # including standalone timestamps like 0:01, 0:06, etc.
+        cleaned = remove_timestamps(raw_text)
 
-        # If that didn't work well, use the general timestamp remover
+        # If that didn't work, try the SRT parser as fallback
         if not cleaned or len(cleaned) < 50:
-            cleaned = remove_timestamps(raw_text)
+            cleaned = parse_srt_content(raw_text)
 
         return cleaned
     except Exception as e:
