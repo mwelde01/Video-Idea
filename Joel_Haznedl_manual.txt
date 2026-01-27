@@ -1,0 +1,68 @@
+This, assignment I applied AI chat bot to real workflow for my current role at Embraer's Aircraft Maintenance Services teams.
+0:01
+Uh, I work in aircraft maintenance, repair and overhaul environment, commonly referred to as MRO.
+0:09
+In this setting, logistics and supply chain teams frequently need to communicate operational issues such as past delays, kit shortages.
+0:16
+And schedule impacts across multiple stakeholders, including maintenance, planning and leadership.
+0:26
+The objective of this exercise was to evaluate whether an AI chat bot could help transform unstructured, religious well notes into a clear,
+0:34
+professional, decision ready summary more efficiently while still maintaining human oversight and accuracy.
+0:42
+I selected ChatGPT as, uh, as the AI tool, uh,
+0:51
+for this task because it fits into the chat bot category discussed in this module and is
+0:56
+well suited for language based tasks such as summarization and professional restructuring.
+1:01
+I use the public version of the tool. So I intentionally avoided any proprietary, sensitive or identifiable and share data.
+1:09
+All examples shown are representative and sanitize.
+1:20
+Key constraints include maintaining their privacy.
+1:27
+Verifying outputs manually and treating the AI strictly as a support tool, not a decision making system.
+1:31
+The word love begins with the set of unstructured Elizabeth notes, similar to what might be captured during day to day operations.
+1:41
+For example, I know my read part delayed from supplier aircraft grounded maintenance.
+1:49
+Waiting on ETA. Planning needs updated.
+1:56
+Before using AI, this information would typically need to be written manually into a structured update for planners or supervisors.
+2:03
+Using ChatGPT, I created a prompt. That provided context and as the tool to reorganize the information into a structured operational summary.
+2:13
+The requested output included a situation overview, operational impact, current constraints and recommend the next steps.
+2:26
+The I produced a clear professional draft that could be quickly reviewed, edited and shared.
+2:37
+This significantly reduced the time required to prepare the communication.
+2:46
+The primary value of the tool was speed and structure.
+2:52
+The tasks that previously took approximately 15 minutes were reduced to about 3 to 5 minutes.
+2:56
+Rather than replace in human judgment. Dear.
+3:03
+I function as accelerator allowed me to focus more on validation, accuracy and alignment with their operational needs.
+3:06
+The two also had clear limitations.
+3:15
+It does not understand real time inventory systems, contractual constraints or aircraft specific technical nuance to address a manual.
+3:18
+Manually verified all outputs for accuracy, town and policy alignment.
+3:30
+The output was treated as a draft only, never as a final authority.
+3:36
+Going forward. My guardrails for our use include avoiding sensitive data,
+3:43
+not relying on AI for final operational decisions, and maintaining full human accountability.
+3:49
+As the next step. The workflow could be improved by developing standardized prop templates for, uh, recurring logistics and MRO communication tasks.
+3:56
+AI tools were used to assist with drafting this, with drafting and structuring this workflow.
+4:08
+Um, and with all outputs reviewed and verified by me.
+4:17
