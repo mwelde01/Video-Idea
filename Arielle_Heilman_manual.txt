@@ -1,0 +1,72 @@
+Hi everyone, I'm Ariel Hellman.
+0:01
+This project is a case study on how I use ChatGPT 5.2 in notebook LM to plan a complex, multi-city international trip to Italy for my 30th birthday.
+0:03
+The focus isn't the vacation itself, but how I supported logistics structure in decision making.
+0:15
+The goal was to design a ten day Italy itinerary with fixed dates, multiple cities and for travelers without feeling rushed,
+0:23
+charged 5.2 acted as the planning engine and notebook LM was used to visualize the final output.
+0:31
+The key result was reducing research time from days to hours and creating a cohesive, shareable artifact.
+0:38
+The core insight is that AI excels at structure and synthesis, but still lacks real time execution data, so human verification remains essential.
+0:47
+This slide summarizes the constraints.
+0:59
+The trip had a fixed window from May 15th to May 24th, including multiple cities across Italy, and centered on a milestone birthday on May 20th.
+1:01
+Um. The challenge was synthesizing logistics without prior Italy experience.
+1:12
+I helped compress that complexity into something more manageable.
+1:18
+So here I show the two tools I use. ChatGPT 5.2 is selected for its strength in logic sequencing and iterative refinement.
+1:25
+Um notebook lime was chosen to experiment with turning it structured text into a visual artifact.
+1:36
+Because both tools are public, I applied strict guardrails, uh, personal use only.
+1:46
+No confidential or work related data. This slide represents the actual workflow.
+1:51
+I started with a broad draft prompt. Refine constraints like pacing and geography, resolved specific decisions such as slide entry points,
+1:58
+and finally visualize the output in notebook element.
+2:08
+The key point is that this wasn't one giant prompting.
+2:12
+It was in a multi-step feedback loop with me guiding the AI.
+2:16
+This was one of the most valuable decision points.
+2:28
+So the AI comparison showed that entering through Rome created a smoother south to north flow,
+2:31
+reduce backtracking, and handle jet lag better than malign.
+2:38
+This insight directly influenced the final itinerary and improved travel efficiency.
+2:42
+Before, AI planning would have made fragmented notes, blogs, spreadsheets, and conflicting advice.
+2:50
+After I the results were clear edible um itinerary with logical sequencing and reduce planning fatigue.
+2:57
+This slide captures the time and cognitive load savings.
+3:05
+This slide highlights where I fell short. It couldn't access real time flight.
+3:12
+Um, I data or hotel.
+3:19
+Um, so budget estimates weren't reliable and some outputs were generic without tight constraints.
+3:22
+The takeaway is the AI functions as a planning accelerator, not a booking engine.
+3:29
+So to address these gaps, I verified routes using Google Flights, check pacing against travel blogs, and validated train times manually.
+3:36
+The workflow shift here is important. I move from creator to auditor.
+3:48
+Overall, I performed very well on speed and structure, but low on execution.
+3:55
+The strategic recommendation is to pair general AI tools for structure with domain specific tools for execution, rather than relying on one platform.
+4:02
+This project. Use chat, GPT 5.2 and notebook LM to generate and refine content.
+4:15
+All outputs were reviewed, fact checked, and verified by me with no sensitive or professional data used.
+4:22

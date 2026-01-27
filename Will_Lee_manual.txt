@@ -1,0 +1,94 @@
+Hi everyone. This is Will for MBA 680.
+0:01
+Uh, week two here. Uh, going going to be going over I to uh use case uh for me uh where I'm applying.
+0:05
+Uh, I is uh, at work at UPS.
+0:15
+So I recently joined us from our last video.
+0:19
+Uh, we have a enterprise, uh, license that was just recently approved for me.
+0:23
+Um, and it's Microsoft, uh, copilot.
+0:30
+And the purpose of it is to help us, um, from a productivity and taking meeting notes, um,
+0:35
+and kind of just trying to leverage AI to help with overall productivity, um, from the engineering standpoint.
+0:45
+So the, the use case that I have is when we're in these highly technical, uh, meetings talking about,
+0:52
+um, requirements, specifications, application constraints, um, API messages, uh,
+1:02
+a lot of the technical things where in the past he would have a project manager
+1:12
+kind of taking meeting notes and polishing and spending 52 minute to 50,
+1:17
+50 minutes, uh, an hour, uh, kind of cleaning up the manual note taking, uh, this using the copilot.
+1:23
+It's kind of, uh, it helps collect that data, uh, transcriptions and summarizes it.
+1:33
+So, um, this is a subscription base that we, we pair up and it's encouraged to use, um, the copilot to help with productivity, but, um.
+1:41
+So it is paid for. Uh, just looking at the notes. So, um, as far as workflow.
+1:56
+So when you have, uh, Microsoft Teams meeting.
+2:04
+Prior to the meeting starting. Uh, I would hit the record and transcribe button and it would start.
+2:07
+Transcription. And once the meeting is done, I would hit the stop transcription.
+2:15
+And once you exit the meeting, it would create a summary.
+2:20
+Um, the AI tool would create a meeting notes and a summary of like follow up tasks.
+2:26
+And I think. You know, there's, there's some, um, instances where you still have to validate that.
+2:31
+Um, but what is good about this enterprises.
+2:40
+Um, I guess it could be a flaw. Uh, it's not a public.
+2:44
+I saw the meeting notes. Does not use the train like the global models, which respects like the m365 permission, because a lot of these, um.
+2:48
+And we have, like, NDA, I can't share, like, the specific companies or technologies, but, um, it.
+3:00
+It helps on the privacy aspect, with vendors knowing that it's being shared, because a lot of these are new startups and stuff like that.
+3:09
+Um. Evidence of limits.
+3:19
+I think that the AI model sometimes struggles with specific acronyms like, uh, scope of work place PLC protocols,
+3:24
+specific API messages on cases or totes, or if there's like niche, niche, um, brand names or specific part numbers.
+3:35
+Um, that's where the I would sometimes struggle with from a note taking standpoint.
+3:46
+And also if the audio isn't clear, you're working in warehouses, sometimes there's a lot of background noise.
+3:52
+Uh, so that's where kind of the, uh, the hallucinations or tone or things that are missed from the overall, um, meeting notes.
+3:59
+So one way to kind of validate the output is you have to do some spot checks, right?
+4:11
+Like if we're talking about, uh, numeric data, measurements, voltage, electrical costs.
+4:16
+Uh, you want to ensure that you're, uh, validating that information.
+4:22
+Uh, so ways to kind of safeguard that is kind of always have a, have a human in the loop, uh,
+4:28
+and let people know that, hey, AI is helping, taking the notes and have a clear agenda of what to cover each section.
+4:34
+So when that AI summarizes that it's more congested,
+4:40
+it's it's puts a better model output and having someone at the end validating it and also using specific prompts like,
+4:44
+uh, create specific tasks with end dates and using the AI model that help with that.
+4:56
+So this is just one way that we're going to keep improving upon it.
+5:02
+Uh, the more times that I use in the people in my organization use it, um, you know,
+5:06
+it definitely helps benefit everyone, in my opinion, because instead of spending the, the 30 minutes,
+5:12
+an hour, or sometimes longer cleaning up these major notes, the AI is in the background,
+5:20
+helping you and giving you an output, and all you have to do is validate and clean it up.
+5:24
+So I appreciate your time. Thank you.
+5:29
