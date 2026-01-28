@@ -1,0 +1,64 @@
+Hello, everyone. This is Emma Frank again, and for this assignment, I'm going to walk through how I use an AI tool in a real world,
+0:04
+a real workflow, and what I learned from the experience.
+0:11
+So for this project, I applied an AI tool to a real academic and professional workflow that I already deal with regularly as a graduate student.
+0:14
+Specifically, I wanted to improve how I prepare writing assignments and video scripts for my MBA courses.
+0:23
+My objective was to see whether I could help me save time, improve clarity, and structure my thinking more effectively,
+0:29
+especially for assignments that require reflection, explanation, or presentation.
+0:36
+The AI tool I chose was ChatGPT, which falls under the chat bot category discussed in this week's module.
+0:41
+I chose ChatGPT because it's flexible, conversational, and can assist with brainstorming,
+0:48
+outlining, and refining ideas rather than just producing a final answer.
+0:54
+I used the public paid version, so I was mindful of privacy and did not include any sensitive or confidential information.
+0:59
+I, um, treated it as a thinking partner, um, not a replacement for my own work.
+1:06
+So my workflow started with me clearly defining the task and constraints.
+1:11
+For example, instead of asking the AI to do the assignment,
+1:16
+I prompted it to help me outline key talking points, structure my thoughts, and refine wording for clarity.
+1:20
+I also, um, iterated on prompts by asking follow up questions, requesting revisions, and adjusting tone so it sounded natural and authentic to me.
+1:27
+Before using the tool, I typically spent a lot of time staring at a blank page.
+1:37
+Um, but after implementing ChatGPT, I was able to move much faster from ideas to a structured draft that I could
+1:43
+then personalize the biggest value the tool provided with speed and clarity.
+1:49
+It helped me organize my ideas, quickly, reduce the numbers of revisions I needed, and create a more polished final result.
+1:54
+In terms of evidence, I save significant time in the planning stage,
+2:03
+and the output gave me a clear structure that made recording the video much easier.
+2:08
+It also helped reduce mental friction and made the process feel less overwhelming.
+2:12
+While the tool was helpful, it wasn't perfect. At times, the responses were too generic or sounded overly polished.
+2:18
+I had to make sure the content still, um, reflected my personal voice and experience,
+2:26
+so I verified the output by cross-checking it against the assignment instructions and making sure everything aligned with the rubric.
+2:32
+I also made sure not to rely on the tool for facts without verification.
+2:39
+Going forward, my guardrails, including using AI as a support tool rather than a shortcut.
+2:43
+I won't use it to generate final submissions without review, and I'll avoid sharing any sensitive or proprietary information.
+2:50
+As a next step, I plan to integrate AI more intentionally into my workflow for outlining, presentations and preparing professional documents,
+2:58
+especially as I move toward leadership and design focused roles where clear communication is essential.
+3:06
+And I did use AI tools, including ChatGPT, to help brainstorm, um, outline and refine this script.
+3:13
+Thank you guys for listening.
+3:21
