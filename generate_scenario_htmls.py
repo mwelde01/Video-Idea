@@ -76,11 +76,11 @@ def build_article_card(index, article, brief, article_link, notebook_link, color
         <h3 class="article-title">{article}</h3>
         <p class="article-brief">{brief}</p>
         <div class="article-links">
-          <a href="{article_link}" target="_blank" class="btn btn-article">
+          <a href="{article_link}" target="_top" class="btn btn-article">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
             Read Article
           </a>
-          <a href="{notebook_link}" target="_blank" class="btn btn-notebook">
+          <a href="{notebook_link}" target="_top" class="btn btn-notebook">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
             NotebookLM Summary
           </a>
