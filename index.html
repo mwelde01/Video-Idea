@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Scenario Planning Exercise</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 30px 20px;
+    }
+
+    .container {
+      max-width: 700px;
+      width: 100%;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 1.8rem;
+      color: #2c3e50;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      text-align: center;
+      color: #777;
+      font-size: 0.95rem;
+      margin-bottom: 35px;
+    }
+
+    .scenario-link {
+      display: flex;
+      align-items: center;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      margin-bottom: 16px;
+      text-decoration: none;
+      overflow: hidden;
+      transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+
+    .scenario-link:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,0.14);
+      transform: translateY(-2px);
+    }
+
+    .scenario-badge {
+      min-width: 60px;
+      padding: 24px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 700;
+      font-size: 1.2rem;
+    }
+
+    .scenario-info {
+      padding: 16px 20px;
+    }
+
+    .scenario-info h2 {
+      font-size: 1.1rem;
+      margin-bottom: 4px;
+    }
+
+    .scenario-info p {
+      font-size: 0.85rem;
+      color: #777;
+    }
+
+    .badge-a { background: #B8860B; }
+    .badge-b { background: #4A6741; }
+    .badge-c { background: #4A6B8A; }
+    .badge-d { background: #8B2500; }
+
+    .scenario-link:nth-child(1) .scenario-info h2 { color: #8B6914; }
+    .scenario-link:nth-child(2) .scenario-info h2 { color: #2E4028; }
+    .scenario-link:nth-child(3) .scenario-info h2 { color: #2C4A6B; }
+    .scenario-link:nth-child(4) .scenario-info h2 { color: #5C1A00; }
+
+    .footer {
+      text-align: center;
+      margin-top: 30px;
+      color: #aaa;
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>AI Scenario Planning Exercise</h1>
+    <p class="subtitle">Select a scenario to explore its articles and resources</p>
+
+    <a href="Scenario_A_Fast_Takeoff.html" class="scenario-link">
+      <div class="scenario-badge badge-a">A</div>
+      <div class="scenario-info">
+        <h2>Fast Takeoff / AGI Acceleration</h2>
+        <p>AI progress is accelerating rapidly toward superintelligence</p>
+      </div>
+    </a>
+
+    <a href="Scenario_B_Slow_Steady.html" class="scenario-link">
+      <div class="scenario-badge badge-b">B</div>
+      <div class="scenario-info">
+        <h2>Slow and Steady Progress</h2>
+        <p>AI advances gradually with real-world integration challenges</p>
+      </div>
+    </a>
+
+    <a href="Scenario_C_AI_Winter.html" class="scenario-link">
+      <div class="scenario-badge badge-c">C</div>
+      <div class="scenario-info">
+        <h2>AI Plateau / AI Winter</h2>
+        <p>Hype fades as AI hits technical and economic limits</p>
+      </div>
+    </a>
+
+    <a href="Scenario_D_Regulatory_Backlash.html" class="scenario-link">
+      <div class="scenario-badge badge-d">D</div>
+      <div class="scenario-info">
+        <h2>Regulatory &amp; Social Backlash</h2>
+        <p>Public opposition and regulation reshape the AI landscape</p>
+      </div>
+    </a>
+
+    <div class="footer">
+      AI Scenario Planning Exercise &mdash; University of Louisville
+    </div>
+  </div>
+
+</body>
+</html>
