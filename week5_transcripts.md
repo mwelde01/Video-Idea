@@ -25,6 +25,7 @@ Student video presentations and demonstrations.
 - [Socorro Gomez](#socorro-gomez)
 - [Subramani Swaminadhan](#subramani-swaminadhan)
 - [Tiffany Martin](#tiffany-martin)
+- [Will Lee](#will-lee)
 - [Xanny Frazier](#xanny-frazier)
 
 ---
@@ -140,6 +141,12 @@ Student video presentations and demonstrations.
 ## Tiffany Martin
 
 *Error: HTTPSConnectionPool(host='louisville.hosted.panopto.com', port=443): Max retries exceeded with url: /Panopto/Pages/Viewer.aspx?id=0746c010-4c0c-44e3-88b3-b3f101697de0 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))*
+
+---
+
+## Will Lee
+
+*Error: HTTPSConnectionPool(host='louisville.hosted.panopto.com', port=443): Max retries exceeded with url: /Panopto/Pages/Viewer.aspx?id=e11d6761-1be7-4534-80cf-b3f1014e8505 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))*
 
 ---
 
