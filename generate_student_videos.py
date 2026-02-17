@@ -51,6 +51,12 @@ SCENARIO_MAP = {
 }
 
 
+# Name corrections
+NAME_OVERRIDES = {
+    "Jagan Lakshmanan": "Jaganathan Lakshmanan",
+}
+
+
 def load_image_b64(key):
     with open(f"/home/user/Video-Idea/{key}_b64.txt") as f:
         return f.read().strip()
@@ -113,6 +119,7 @@ def main():
         name, year, scenario, link = row
         if name is None:
             continue
+        name = NAME_OVERRIDES.get(name, name)
         scenario_key = SCENARIO_MAP.get(scenario)
         if scenario_key is None:
             print(f"Warning: Unknown scenario '{scenario}' for {name}")
