@@ -1,0 +1,1990 @@
+
+
+390
+00:28:59.330 --> 00:29:09.769
+Nat Irvin Irvin: Well, good afternoon, everyone, and welcome to this, the fourth week of the Soul of Management. I'm Matt Urban, one of your hosts for tonight, with my co-host.
+
+391
+00:29:09.770 --> 00:29:27.830
+Nat Irvin Irvin: Dr. Westina Matthews, who's going to introduce our very special guest in just a moment. For the members of our MBA class, if you can stay on for just a brief minute at the end of this class, we'll talk a little bit about your final, requirements for the class, the last assignment.
+
+392
+00:29:28.300 --> 00:29:36.310
+Nat Irvin Irvin: Also, just wanted to remind you that we have a, Ambassador Andrew Young will be joining us next Thursday, so if you can please put that in your calendar.
+
+393
+00:29:36.310 --> 00:29:48.559
+Nat Irvin Irvin: And, just a couple of other housekeeping, matters tonight. It'll be very brief time. But let me just, turn this over now to Westina Matthews and to introduce our very special guest.
+
+394
+00:29:48.600 --> 00:29:50.710
+Nat Irvin Irvin: where's data?
+
+395
+00:29:51.090 --> 00:30:06.219
+Westina Matthews: Well, thank you, but before I do that, one of the students last week, after the class ended, said that he would have asked Reverend Seifu a question, now that he is a Zen Buddhist monk.
+
+396
+00:30:06.460 --> 00:30:08.969
+Westina Matthews: would he work at Microsoft?
+
+397
+00:30:09.380 --> 00:30:16.460
+Westina Matthews: And I asked him yesterday, because I was in a meeting with him, and he said, I have two answers. The first answer is no.
+
+398
+00:30:16.610 --> 00:30:20.710
+Westina Matthews: But the second answer is, if I would go to work there.
+
+399
+00:30:21.170 --> 00:30:28.339
+Westina Matthews: I would make sure it would align with my core values, and when I felt that it wasn't.
+
+400
+00:30:28.580 --> 00:30:47.440
+Westina Matthews: I would then resist, I'm using his words, and if it wasn't going to be satisfactory, I would leave. So I wanted to make sure that we shared his response to that question, so that you know. But now I get to introduce our guest lecturer for today.
+
+401
+00:30:48.510 --> 00:30:56.530
+Westina Matthews: Back in 2022, he was the lecturer for the Gerald May Seminar at Shalom Institute.
+
+402
+00:30:56.930 --> 00:31:03.490
+Westina Matthews: And the Most Reverend Michael B. Curry, who was, at the time, the 27th presiding bishop.
+
+403
+00:31:03.680 --> 00:31:10.850
+Westina Matthews: He was the first person of color and an African American to lead the U.S.-based Episcopal Church in this role.
+
+404
+00:31:11.170 --> 00:31:15.989
+Westina Matthews: And I had the privilege of introducing him then as I do now.
+
+405
+00:31:16.630 --> 00:31:30.059
+Westina Matthews: Throughout his ministry, Bishop Curry has been a prophetic leader, particularly in the areas of racial reconciliation, climate change, evangelism, immigration policy, and marriage equality.
+
+406
+00:31:31.210 --> 00:31:42.010
+Westina Matthews: Many of you may remember him because of the royal wedding with Harry and Meghan, where he delivered a rousing and passionate 13-minute and 36-second sermon.
+
+407
+00:31:42.780 --> 00:31:50.569
+Westina Matthews: He is the author of 5 books, including the bestseller, Love is the Way, Holding On to Hope in Troubling Times.
+
+408
+00:31:50.710 --> 00:31:59.060
+Westina Matthews: And he's continued to champion the message of love and unity, inviting us all to become a part of the beloved community.
+
+409
+00:32:00.170 --> 00:32:11.259
+Westina Matthews: During that seminar back in 2022, Bishop Curry said more than once, I am not a contemplative. I am not a contemplative. I am not a contemplative.
+
+410
+00:32:11.610 --> 00:32:13.330
+Westina Matthews: Yet, there was a moment.
+
+411
+00:32:13.550 --> 00:32:15.910
+Westina Matthews: When he broke out in song.
+
+412
+00:32:16.450 --> 00:32:20.789
+Westina Matthews: and began to sing, There is a Bomb in Gilead.
+
+413
+00:32:21.220 --> 00:32:26.029
+Westina Matthews: A traditional African American hymn, and without hesitation.
+
+414
+00:32:26.150 --> 00:32:33.779
+Westina Matthews: All of us that were there in the audience began to join in, our eyes closed, and our bodies swaying.
+
+415
+00:32:34.400 --> 00:32:37.789
+Westina Matthews: That was a contemplative moment.
+
+416
+00:32:38.660 --> 00:32:45.279
+Westina Matthews: So it gives me great pleasure to introduce a leader who continues to be a role model for us all.
+
+417
+00:32:45.610 --> 00:32:48.609
+Westina Matthews: Bishop Michael Curry, thank you.
+
+418
+00:32:49.490 --> 00:32:50.410
+Westina Matthews: No.
+
+419
+00:32:50.410 --> 00:32:51.850
+Michael Curry: Oh, that's… oh.
+
+420
+00:32:52.080 --> 00:32:52.869
+Westina Matthews: No, go ahead, you can.
+
+421
+00:32:52.870 --> 00:33:04.239
+Michael Curry: Oh, okay. Well, I'm just gonna say thank you. You… you really do, you know, you oughta do obituaries. You could really go and… you could earn a living just doing that.
+
+422
+00:33:05.180 --> 00:33:20.399
+Michael Curry: Oh, thank you so much, Westina and Nat, to be with two folk who I've known in different contexts to be together. It is just remarkable to be with you all. What a team. What a team, and just thank you for inviting me, and…
+
+423
+00:33:20.400 --> 00:33:26.409
+Michael Curry: I look forward to conversation with… with everybody, and it's great to be here.
+
+424
+00:33:26.740 --> 00:33:35.380
+Westina Matthews: Thank you. So, our first question is always, why did you say yes to being one of our guest lecturers? And other than the fact that I invited you.
+
+425
+00:33:35.790 --> 00:33:44.450
+Westina Matthews: Why do you think this kind of course is important for our future leaders, business, not-for-profit, lay, and clergy?
+
+426
+00:33:47.530 --> 00:33:52.760
+Michael Curry: Well, you know, I mean, a simple answer is, because Westina asked me, and
+
+427
+00:33:53.390 --> 00:34:11.930
+Michael Curry: basically, I'll do whatever she tells me to do for the most part. And and that was part of it. And then to find out Matt was behind all this as well, I said, wow, this is a home run. And so, that's part of it, just the joy of doing it. But also, I was intrigued by
+
+428
+00:34:11.940 --> 00:34:15.120
+Michael Curry: The notion of the soul of management,
+
+429
+00:34:15.150 --> 00:34:19.419
+Michael Curry: And, and, I'll tell you, well, I'll tell you why.
+
+430
+00:34:19.540 --> 00:34:26.280
+Michael Curry: I remember a couple years ago, when John Meacham published, his book, Soul of America.
+
+431
+00:34:26.639 --> 00:34:34.120
+Michael Curry: Which was, a… I think a really critical and important
+
+432
+00:34:34.260 --> 00:34:41.610
+Michael Curry: understanding of what's really behind, the American experiment.
+
+433
+00:34:41.770 --> 00:34:45.540
+Michael Curry: What… what were the core values at its founding?
+
+434
+00:34:45.880 --> 00:34:51.550
+Michael Curry: I mean, what were the contradictions to those values?
+
+435
+00:34:52.770 --> 00:35:16.010
+Michael Curry: And where they recognized as contradictions, and folks said, we're gonna do it anyway, you know what I mean? And for him to outline all of that and say, but you know, there is something… again, this wasn't a religious… he wasn't trying to do a religious theological statement. When he talked about the soul of America, he was talking about what is the real essence. The essay is the Latin.
+
+436
+00:35:16.550 --> 00:35:28.280
+Michael Curry: Thomas Aquinas and other theologians like that used to talk about. What is the essence? What is the essence that's behind the American experiment? Where do you actually find it?
+
+437
+00:35:28.280 --> 00:35:37.410
+Michael Curry: And he went on, you know, and said he found religious figures where he found it, but most importantly, found it in the…
+
+438
+00:35:37.410 --> 00:35:43.510
+Michael Curry: early days of the Founding Fathers in particular, and the contradictions that were there.
+
+439
+00:35:43.510 --> 00:35:53.160
+Michael Curry: And then he traced that soul, if you will, which was its essence, and the struggle, and said the struggles of this nation, if you really look at them.
+
+440
+00:35:53.160 --> 00:36:11.599
+Michael Curry: internally are really struggles between the core values that were articulated in the Declaration of Independence. We hold these truths to be self-evident, that all men are created equal, and endowed by their creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. That that was a core value.
+
+441
+00:36:11.600 --> 00:36:19.759
+Michael Curry: There's a great little book, Walter Isaacson. I mean, it's really a thin book. I'd commend it to you. It's on…
+
+442
+00:36:19.760 --> 00:36:27.459
+Michael Curry: He calls it the greatest sentence ever written. And it's on that one sentence, we hold these truths to be self-evident.
+
+443
+00:36:27.740 --> 00:36:37.200
+Michael Curry: That, that all men are created equal. And it turns out that there was a debate, there was a subcommittee, of, of the Continental Leadership.
+
+444
+00:36:37.250 --> 00:36:53.410
+Michael Curry: That, was appointed. It was Thomas Jefferson, Benjamin Franklin, and John Adams with a subcommittee to come up with a draft of what became the Declaration of Independence. And he talks about the debate. Should we invoke God?
+
+445
+00:36:53.470 --> 00:36:59.470
+Michael Curry: Everybody who's a part of this doesn't… and yet, they said, what does it mean if we don't?
+
+446
+00:36:59.740 --> 00:37:13.010
+Michael Curry: And how do we do it? And it was fasc… it's a fascinating… it's 70 pages or something. I mean, I read it on an airplane the first time, and it's just fascinating. But anyway, he was getting at the core value.
+
+447
+00:37:13.380 --> 00:37:18.669
+Michael Curry: that… that it is really the essence of the American experiment.
+
+448
+00:37:18.920 --> 00:37:21.519
+Michael Curry: That has not always been lived up to.
+
+449
+00:37:22.030 --> 00:37:27.019
+Michael Curry: But, Meacham says that if you trace American history.
+
+450
+00:37:27.600 --> 00:37:31.420
+Michael Curry: The contradictions to those core values.
+
+451
+00:37:31.800 --> 00:37:38.600
+Michael Curry: are what really shaped this history. The Civil War wasn't fought over just being nice guys.
+
+452
+00:37:39.340 --> 00:37:44.590
+Michael Curry: the core, and it wasn't… Abe Lincoln thought it was about preserving the Union.
+
+453
+00:37:45.080 --> 00:37:52.040
+Michael Curry: And in his second inaugural address, he basically said, no, it was about something deeper than that.
+
+454
+00:37:52.190 --> 00:37:55.839
+Michael Curry: It was about what kind of people will we be.
+
+455
+00:37:56.120 --> 00:38:02.699
+Michael Curry: What kind of people, in his words, has Providence destined and intended us to be?
+
+456
+00:38:02.820 --> 00:38:20.829
+Michael Curry: That's what this… he said, that's what this war… this war is about. Shall some be free, and some bond? And those contradictions are contradictions with the core values and essence. And Meacham rightly says that it has been the figures who have called us to live out those true values.
+
+457
+00:38:20.950 --> 00:38:37.599
+Michael Curry: To live out the core, to acknowledge the way we have fallen short as a nation, and to look forward to the possibility of this really being a nation where our founding motto, y pluribus Unum, from many one, many diverse, different people.
+
+458
+00:38:37.690 --> 00:38:45.620
+Michael Curry: One nation, one people, that if that is possible, that's not just the American experiment, that's the human experiment.
+
+459
+00:38:46.470 --> 00:38:51.219
+Michael Curry: That's… that's the human experiment. Can we live together?
+
+460
+00:38:51.370 --> 00:39:09.830
+Michael Curry: As sisters, brothers, siblings, can we live together as, as Desmond Tutu used to say, as the human family of God to reflect God's dream for all of us? Is that possible? And if not, okay, then let's go on and fight. But is it possible?
+
+461
+00:39:09.930 --> 00:39:16.149
+Michael Curry: And so a lot is at stake in those core values, and tracing American history
+
+462
+00:39:16.350 --> 00:39:19.199
+Michael Curry: It's attempt to run away from those values.
+
+463
+00:39:19.580 --> 00:39:32.320
+Michael Curry: And it's courage, moments of courage, John Kennedy's book, Profiles and Courage. Those moments when we sought to live those values, and changed, our course.
+
+464
+00:39:32.320 --> 00:39:40.640
+Michael Curry: To be a better nation where there is liberty and justice, not just for some, but liberty and justice for all.
+
+465
+00:39:40.840 --> 00:39:44.680
+Michael Curry: So, when I saw the solar management.
+
+466
+00:39:45.250 --> 00:39:58.020
+Michael Curry: my mind went back to the soul of America, and went back to all of that, and I realized, this is important. This is… this is important, because the word soul, while it has
+
+467
+00:39:58.300 --> 00:40:02.519
+Michael Curry: religious origins, it also has philosophical origins.
+
+468
+00:40:02.720 --> 00:40:10.090
+Michael Curry: And soul consistently refers to the deeper essence of who we are.
+
+469
+00:40:10.620 --> 00:40:17.380
+Michael Curry: and the deeper essence of who an organization is. Organizations have souls.
+
+470
+00:40:18.180 --> 00:40:32.229
+Michael Curry: That doesn't mean they sing hymns during the day, because they probably don't. It doesn't even mean the organizations pray, but organizations have an essence, and they never live or thrive
+
+471
+00:40:32.300 --> 00:40:39.280
+Michael Curry: When they are inconsistent with their essence and their essential being, and very often their founding principles.
+
+472
+00:40:39.610 --> 00:40:43.039
+Michael Curry: one story that I do remember, and it was in…
+
+473
+00:40:43.810 --> 00:41:03.279
+Michael Curry: Howard Schultz's book, the founder of Starbucks. And it was… I don't know if y'all know the story, but it's sort of the founding story in that book, where… and I've talked about this in church. I mean, you know, it's not a religious story, it's really kind of… he was talking about, you know, when they founded Starbucks.
+
+474
+00:41:03.340 --> 00:41:18.450
+Michael Curry: And there was consolidation of some coffee shops and all that, but when they found it, he said they really wanted it to be for people to sit with fine coffee, really good coffee, which Americans really didn't…
+
+475
+00:41:18.680 --> 00:41:35.449
+Michael Curry: dude, we just did instant Nescafe, you know, that kind of stuff. And we weren't known for our coffee. Not known for our tea, either. But he said, you know, really good coffee and room for people to sit and enjoy each other and have conversations.
+
+476
+00:41:35.640 --> 00:41:43.910
+Michael Curry: That that was what was behind… that was the founding core of it. And he said, some years later, when he was no longer the CEO, and…
+
+477
+00:41:43.910 --> 00:41:56.779
+Michael Curry: I don't even think he was the president anymore, I think he was kind of in quasi-retirement. He went into Starbucks, and their market share was going down. This was years ago, was going down, and he walked into the Starbucks.
+
+478
+00:41:56.800 --> 00:42:02.020
+Michael Curry: And the first smell that hit him was the smell of bacon cheese.
+
+479
+00:42:04.080 --> 00:42:08.969
+Michael Curry: And he said, wait a minute, you're supposed to come in here and the smell is roasting coffee.
+
+480
+00:42:09.820 --> 00:42:11.910
+Michael Curry: It should be, but he was smelling
+
+481
+00:42:12.080 --> 00:42:15.559
+Michael Curry: Baking cheese and sometimes burnt cheese, that smell.
+
+482
+00:42:16.150 --> 00:42:30.370
+Michael Curry: And he said, when our smell… he didn't use the word soul. He said, but that smell, you see that, is telling us something. We have moved away from our essence. And that was when it would… this would have been in the early 90s, I think.
+
+483
+00:42:30.860 --> 00:42:37.430
+Michael Curry: He literally, had all the Starbucks in the country closed down for one day.
+
+484
+00:42:37.630 --> 00:42:48.279
+Michael Curry: And all the baristas had to go back to a continuing education course on what is Starbucks, and they redid the menu, they went, got back to their core, and of course had, you know, little
+
+485
+00:42:48.280 --> 00:42:58.749
+Michael Curry: Other things, but they got it back to its core, and they stayed with that, and their profit margin, their share, their market share began to increase again.
+
+486
+00:42:59.130 --> 00:43:17.580
+Michael Curry: Now, that doesn't mean that that's gonna happen every time, but the point is, it does highlight that for somebody like Howard Schultz to recognize a serious corporate leader at one point, I don't know if he's still involved with it or not, but to recognize that when you stray from your core… from your soul.
+
+487
+00:43:18.620 --> 00:43:21.540
+Michael Curry: Stray from your soul. There's a price.
+
+488
+00:43:21.650 --> 00:43:27.749
+Michael Curry: Now, it may be a… it may be a good thing to change from your soul, I'm not, you know, not judging that.
+
+489
+00:43:27.860 --> 00:43:34.779
+Michael Curry: But that core essence of who and what I am, you are, we are.
+
+490
+00:43:35.390 --> 00:43:37.980
+Michael Curry: That core essence is critical
+
+491
+00:43:38.030 --> 00:43:56.959
+Michael Curry: To the living, because sometimes we live out stuff consciously, and other times we live out stuff unconsciously, and it's those unconscious ones that usually, I'll speak for myself, have messed me up, and I'm 73 years old, and I wish I could say, oh, I'm a paragon of perfection.
+
+492
+00:43:57.300 --> 00:44:02.500
+Michael Curry: But Westina and Nat know me too well. They said, no, no, we know you, brother, don't even try it.
+
+493
+00:44:02.860 --> 00:44:17.150
+Michael Curry: And so, when I heard the soul of management, I said, oh no, this is an important conversation, and thank y'all for participating in it, and being in this class, and thank you, Nat and Westina, for leading it.
+
+494
+00:44:18.170 --> 00:44:34.039
+Westina Matthews: So, here's a good follow-up question with the title of the course, The Soul of Management, which you've talked about so well. I'm thinking about the leadership skills that you needed to draw upon during your tenure as a presiding bishop. There was COVID, the pandemic.
+
+495
+00:44:34.180 --> 00:44:48.689
+Westina Matthews: Brexit, Syrian Civil War, the Me Too movement. So, what is your advice to our emerging and current leaders who are taking this MBA course, or they're just sitting in to listen, on how to integrate
+
+496
+00:44:48.880 --> 00:45:04.890
+Westina Matthews: the spirituality, ethics, and core values in the world today. You know, Barbara Holmes talks about crisis contemplation, right? That in that moment, in that crisis, that still can
+
+497
+00:45:05.150 --> 00:45:12.650
+Westina Matthews: offer a contemplative moment. So what would you say, thinking about your own experience, and you had…
+
+498
+00:45:12.780 --> 00:45:17.869
+Westina Matthews: How many, how many dioceses? How many parishes? How many people?
+
+499
+00:45:19.060 --> 00:45:19.830
+Westina Matthews: What would you say?
+
+500
+00:45:21.880 --> 00:45:23.019
+Michael Curry: A bunch.
+
+501
+00:45:23.020 --> 00:45:24.790
+Westina Matthews: She had a bunch. She had a bunch!
+
+502
+00:45:24.790 --> 00:45:27.880
+Michael Curry: It is a bunch.
+
+503
+00:45:28.000 --> 00:45:37.880
+Michael Curry: Well, the Episcopal Church, I mean, we're small by comparison. We're about 7,000 congregations, spread out in the… both the continental U.S. and…
+
+504
+00:45:38.060 --> 00:45:43.620
+Michael Curry: Really 18 other countries, depending on how you figure
+
+505
+00:45:44.040 --> 00:45:52.539
+Michael Curry: Europe. You know, is it number of countries, or is it kind of one entity, the common mark kind of thing? But,
+
+506
+00:45:52.830 --> 00:46:01.419
+Michael Curry: You know, and then, oh gosh, I don't remember how many clergy there are now. I've forgotten about that, I've forgotten that. I'm retired now, so I've actually forgotten, and there's about…
+
+507
+00:46:01.480 --> 00:46:16.629
+Michael Curry: 150, 200 bishops total, about 150 of those are active, and that's who I worked with directly a lot. And then roughly, 110, I think it's 110 dioceses or districts.
+
+508
+00:46:16.880 --> 00:46:28.599
+Michael Curry: Spread around both the U.S. and the other countries where we are. Including, for example, as far away as Taiwan. The Philippines used to be part of the Episcopal Church one time. They're independent now, but…
+
+509
+00:46:28.750 --> 00:46:33.520
+Michael Curry: And then small churches in parts of Europe.
+
+510
+00:46:33.670 --> 00:46:39.230
+Michael Curry: And anyway, so the, I have to admit that
+
+511
+00:46:40.710 --> 00:46:44.510
+Michael Curry: Some of the same skills that were…
+
+512
+00:46:44.890 --> 00:46:50.050
+Michael Curry: We're important to be the pastor of a local congregation.
+
+513
+00:46:50.820 --> 00:46:53.650
+Michael Curry: didn't necessarily apply when I was…
+
+514
+00:46:54.420 --> 00:46:56.710
+Michael Curry: The pastor of a whole church.
+
+515
+00:46:57.100 --> 00:47:04.699
+Michael Curry: Now, some of that… and those were practical things, in the sense that, I remember when I was, was, had a church in Baltimore.
+
+516
+00:47:04.780 --> 00:47:14.780
+Michael Curry: And it was a fairly sizable congregation, and the woman who was the senior warden, who was sort of the chief lay officer, at one point said to me.
+
+517
+00:47:14.790 --> 00:47:25.550
+Michael Curry: when she had been an educator, and she said, I learned that I could not be the principal of a high school the same way I was the principal of an elementary school.
+
+518
+00:47:25.860 --> 00:47:36.210
+Michael Curry: They're both schools, they're both educational institutions, they both have children, but those children are a different age, it's a different context.
+
+519
+00:47:36.270 --> 00:47:57.500
+Michael Curry: Parents have less control over their… the… you know what I mean? They think about all of those, and… and the teachers who teach in are very different, so you got a different kind of faculty. She said you can't… you can't run them the same. Some of the same principles apply, but you have to learn. And she was telling me, you're in a different ballgame now, and you have to apply different skills.
+
+520
+00:47:57.990 --> 00:47:59.839
+Michael Curry: And then she said this.
+
+521
+00:48:00.190 --> 00:48:02.629
+Michael Curry: But don't try to change who you are.
+
+522
+00:48:05.370 --> 00:48:17.120
+Michael Curry: Don't try to change who you are. That was… she was… she didn't use the word soul, but that's exactly what she… don't pretend to be somebody other than who you are, but you must learn different skills.
+
+523
+00:48:17.380 --> 00:48:35.230
+Michael Curry: New ways of functioning, new ways of leading, new ways of collaborating. You can't… you can't do it the same way you did when you were in elementary school, or about that context. So I had to learn new skills that I was… when I was the… I was a bishop of a diocese here in North Carolina.
+
+524
+00:48:35.440 --> 00:48:41.850
+Michael Curry: That was the first time I went from a congregation to a diocese, which was a collection of 120 churches.
+
+525
+00:48:42.140 --> 00:48:45.309
+Michael Curry: You can't do it. I'm not in those churches every Sunday.
+
+526
+00:48:45.690 --> 00:48:52.499
+Michael Curry: I'm not the same… they don't see this face in the pulpit or hear this voice, so they don't… so it's a bigger system.
+
+527
+00:48:52.560 --> 00:49:06.489
+Michael Curry: my voice is a distant voice. I was almost an outsider, at least I was there 15 years, so eventually they knew who I was. But still, it takes a while, and you don't lead as directly, you lead through other people.
+
+528
+00:49:07.590 --> 00:49:25.270
+Michael Curry: That was the… and then when Episcopal Church, the whole church, it was even more the case. I was further away and had… the skills, did change. You did have to acquire and develop new skills, which probably were based in some of the old ones, but you had to learn… and some you had to let go.
+
+529
+00:49:25.460 --> 00:49:29.440
+Michael Curry: All that comes with changing in positions. That's… that's normal.
+
+530
+00:49:29.770 --> 00:49:32.340
+Michael Curry: But the core of who I was…
+
+531
+00:49:32.700 --> 00:49:39.189
+Michael Curry: Couldn't change, or if it did, it had to evolve, but still be that same core.
+
+532
+00:49:39.940 --> 00:49:42.989
+Michael Curry: And I had a spiritual director.
+
+533
+00:49:43.190 --> 00:49:55.300
+Michael Curry: when I became a bishop, who said one of the exercises I remember she had me do, I don't know if Westina knew Susie Miller or not. She was in Florida. Do you remember Susie?
+
+534
+00:49:55.300 --> 00:49:55.960
+Westina Matthews: Yeah, yeah.
+
+535
+00:49:55.960 --> 00:49:59.740
+Michael Curry: She was my spiritual director, and
+
+536
+00:49:59.890 --> 00:50:07.830
+Michael Curry: she said, I want you to do one exercise. I want you to sit down and… and identify from your experiences.
+
+537
+00:50:08.190 --> 00:50:09.960
+Michael Curry: What value?
+
+538
+00:50:10.590 --> 00:50:15.740
+Michael Curry: applies to that experience. What were the… what have been the significant experiences?
+
+539
+00:50:15.890 --> 00:50:23.479
+Michael Curry: in your life, And identify what value, moral, spiritual, whatever it is. Just identify what it is.
+
+540
+00:50:23.740 --> 00:50:27.420
+Michael Curry: And then identify why that's a value for you.
+
+541
+00:50:28.840 --> 00:50:44.289
+Michael Curry: So it's not… she said, this isn't an academic exercise. This is an existential exercise to get inside of you, but for you to identify the values that are connected to you. And we spent that first couple of years, those first couple of years.
+
+542
+00:50:44.490 --> 00:51:04.470
+Michael Curry: just working on that stuff, as well as practical stuff. But that stuff, she said, that's the stuff… she didn't use the word soul, but that's what she was talking about. How do you access the soul of who you are? And when you… there used to be a… who is it? Hey, Jackson used to song, I look back and wander, oh.
+
+543
+00:51:04.470 --> 00:51:05.130
+Nat Irvin Irvin: I don't…
+
+544
+00:51:05.430 --> 00:51:07.880
+Michael Curry: You remember the one? It's an old gospel.
+
+545
+00:51:07.880 --> 00:51:08.430
+Nat Irvin Irvin: speed.
+
+546
+00:51:08.740 --> 00:51:09.920
+Michael Curry: Say it again?
+
+547
+00:51:10.030 --> 00:51:12.739
+Nat Irvin Irvin: I… I… my soul looks back and wonders.
+
+548
+00:51:12.740 --> 00:51:29.340
+Michael Curry: In wonder, that's it. My soul looks back in wonder. Google it, and listen, Mahalia, I think it was Mahalia saying it, it's back in the 40s, I mean, this was when my grandmother. My soul looks back in wonder, and the truth is, your soul will look back in wonder.
+
+549
+00:51:29.860 --> 00:51:44.870
+Michael Curry: At who you are and how you've been shaped by experiences, by people, by things both good and bad. You know, the bad, you can learn from. You don't have to retrace and don't have to do it again, or don't have to live through it, but…
+
+550
+00:51:45.310 --> 00:51:51.890
+Michael Curry: What did I learn? What can I… what's learnable from that experience, or those clusters of experience?
+
+551
+00:51:52.650 --> 00:52:01.289
+Michael Curry: And put that stuff together, and you've just mapped out part of your soul, not the whole thing. There's more to discover that will take time
+
+552
+00:52:01.450 --> 00:52:04.069
+Michael Curry: But that reflects the core
+
+553
+00:52:04.870 --> 00:52:24.610
+Michael Curry: of who you are. That's… that's, e pluribus unum for the United States, from many diverse people, one… one nation under God. That's the Declaration of Independence. We hold these truths to be self-evident, that all… all men are created equal. That's the sole
+
+554
+00:52:24.650 --> 00:52:25.680
+Michael Curry: of you.
+
+555
+00:52:26.090 --> 00:52:30.059
+Michael Curry: And having a sense of that's so who you are.
+
+556
+00:52:30.660 --> 00:52:33.840
+Michael Curry: I actually, before I got ordained.
+
+557
+00:52:35.180 --> 00:52:40.329
+Michael Curry: My daddy said this, he was ordained. I was gonna note the three of us are PKs.
+
+558
+00:52:40.740 --> 00:52:46.990
+Michael Curry: I remember, my daddy saying to me, don't you let the church take your soul.
+
+559
+00:52:47.880 --> 00:52:48.440
+Westina Matthews: Hmm.
+
+560
+00:52:49.390 --> 00:52:53.979
+Michael Curry: Don't, don't, don't, don't, don't sell your soul to anybody.
+
+561
+00:52:55.470 --> 00:53:04.290
+Michael Curry: And don't let the church do it, because institi… any institution, or anything, I mean, will take… and you get… it's a Faustian.
+
+562
+00:53:04.290 --> 00:53:16.810
+Michael Curry: It's a Faustian bargain, like old Faust, sell your souls to the devil so you can get a little… I don't mean that the church is the devil, that's not what I'm saying, but to sell your soul to anybody.
+
+563
+00:53:16.890 --> 00:53:22.230
+Michael Curry: It is to drag you down, and to make you less
+
+564
+00:53:22.350 --> 00:53:27.790
+Michael Curry: Then God would have you to be to live out God's dream for your life.
+
+565
+00:53:28.070 --> 00:53:37.159
+Michael Curry: Anyways, that's, westina, Adam forgot what the question was, but I've enjoyed the conversation.
+
+566
+00:53:37.160 --> 00:53:47.159
+Westina Matthews: Well, this is what I told you at the beginning. I said, I'll just ask you a question, you're going to talk about whatever you want to talk about, which is what we want, we want that. Matt, do you have a question for him?
+
+567
+00:53:47.500 --> 00:53:50.420
+Nat Irvin Irvin: You know, Bishop Curry, I was wondering if you would,
+
+568
+00:53:51.290 --> 00:54:00.519
+Nat Irvin Irvin: You remember going from, of course you do, going from St. Stephen, that little church in Winston-Salem. You talked about this in an interview not too long ago, about what it was like
+
+569
+00:54:00.630 --> 00:54:06.570
+Nat Irvin Irvin: To move from a congregation where everybody basically had the same political views, or if they did.
+
+570
+00:54:06.680 --> 00:54:14.840
+Nat Irvin Irvin: It was just assumed, but then it became the Bishop of North Carolina, the larger, the diocese, it changes.
+
+571
+00:54:15.010 --> 00:54:32.679
+Nat Irvin Irvin: Now, so there are fears involved in that. So, I'm going to ask you to think about, from a management standpoint, how did you navigate that? Because that's a management decision. You had to go through, and you touched on it a little bit, but just talk about the fears that come with.
+
+572
+00:54:32.680 --> 00:54:33.020
+Michael Curry: Dear.
+
+573
+00:54:33.020 --> 00:54:36.320
+Nat Irvin Irvin: Having to leave something behind, and now you've got to deal with…
+
+574
+00:54:36.840 --> 00:54:39.909
+Nat Irvin Irvin: You know, it's not… it's not what you had before.
+
+575
+00:54:39.910 --> 00:54:41.050
+Michael Curry: Yeah, yeah.
+
+576
+00:54:41.530 --> 00:54:46.649
+Michael Curry: I can't speak for other people, but I can tell you, for me.
+
+577
+00:54:47.540 --> 00:54:51.430
+Michael Curry: There, there, you, there are, there are sleepless nights.
+
+578
+00:54:52.880 --> 00:55:04.070
+Michael Curry: I find myself sometimes waking up at 3 in the morning. I can't figure out why 3 in the morning, but somebody, a friend of mine who's a psychologist says, you probably are at the end of one of your REM cycles.
+
+579
+00:55:04.070 --> 00:55:05.110
+Nat Irvin Irvin: Oh, okay.
+
+580
+00:55:05.110 --> 00:55:22.020
+Michael Curry: Which is when you're really vulnerable, when you're between cycles, that's when you're really vulnerable, and that's when you wake up. I, I, yeah, I don't… you know, I'm not a psychologist, but that does make some sense, actually. It's always, for me, over the years, it's always been 3… between 3, 3.30 in the morning.
+
+581
+00:55:22.030 --> 00:55:27.020
+Michael Curry: that I'd wake up. And part of it was anxiety about the unknown.
+
+582
+00:55:27.280 --> 00:55:27.870
+Nat Irvin Irvin: Hmm.
+
+583
+00:55:27.870 --> 00:55:31.379
+Michael Curry: To be very honest, I mean, that's anxiety about the unknown.
+
+584
+00:55:31.530 --> 00:55:41.719
+Michael Curry: And, for me, and this isn't gonna be true for everybody, but for me, questioning, am I really… have I, like, gotten beyond, gotten off my skis?
+
+585
+00:55:42.060 --> 00:55:49.459
+Michael Curry: or gotten beyond my… the lane of my capacities and abilities, am I really gonna be up for this?
+
+586
+00:55:50.140 --> 00:56:02.890
+Michael Curry: And… and anxiety about that, which is a good way of keeping you humble, but… but… but what I've found is doing Michael's self-analysis.
+
+587
+00:56:03.080 --> 00:56:07.799
+Michael Curry: And just kind of saying, now, what's going on here? Why are you up at 3 o'clock in the morning?
+
+588
+00:56:08.210 --> 00:56:19.519
+Michael Curry: And kind of being honest about that. And I've often, for the most of the time in my ministry, have had a spiritual director who is really like a mentor.
+
+589
+00:56:20.320 --> 00:56:29.919
+Michael Curry: I mean, in the… a… a coach. somebody that you can trust and talk with.
+
+590
+00:56:30.630 --> 00:56:40.459
+Michael Curry: And can bounce ideas off of, and reflect off of, and who's willing to sit and listen to you. And who you can engage with
+
+591
+00:56:40.970 --> 00:56:48.880
+Michael Curry: And sometimes they can give you advice, or, like, lift up some possibilities for you, and sometimes they just name.
+
+592
+00:56:49.330 --> 00:56:51.060
+Michael Curry: What they hear you saying.
+
+593
+00:56:51.880 --> 00:57:00.360
+Michael Curry: It's not that they're doing it, they're just feeding back and kind of naming, what's… what's going on?
+
+594
+00:57:00.600 --> 00:57:14.769
+Michael Curry: And, good or bad, whatever it happens to be. And just sometimes naming that helps us manage and gain management, if not control over that, for whatever it happens to be.
+
+595
+00:57:14.910 --> 00:57:30.639
+Michael Curry: Now, I know this isn't a religion class, but there are stories in the New Testament where Jesus runs into somebody who is possessed by something, they got some power over them, and it's one story, Jesus says, what's your name? Talking to whatever is inside that person.
+
+596
+00:57:30.640 --> 00:57:48.070
+Michael Curry: And when the… when the… it's a demon, in this case says, my name is Legion, for we are many. It's at that point that Jesus gets control over it, and the person gets control over it and eventually gets freed. That's the whole story. My point is, the genius behind that is the naming
+
+597
+00:57:48.160 --> 00:57:50.470
+Michael Curry: Of what's going on inside.
+
+598
+00:57:50.820 --> 00:58:07.890
+Michael Curry: The naming of that, that really is partially what psychoanalysis is. It's bringing to surface what may be unconscious, subsurface, below the surface, bringing it to surface, exposing it to the light of day, the light of conscious awareness.
+
+599
+00:58:08.120 --> 00:58:16.740
+Michael Curry: And when that happens, when you become aware of it, you begin to have the beginnings of some mastery over it.
+
+600
+00:58:16.870 --> 00:58:24.940
+Michael Curry: Doesn't mean it goes away all the time. I was still anxious. You know, I was still a bit nervous. I mean, for example, when I,
+
+601
+00:58:25.260 --> 00:58:42.040
+Michael Curry: when I was elected Bishop of North Carolina, I had spent my entire ministry in historically Black congregations, beginning at Little St. Stephen's Church in Winston-Salem, North Carolina. It was a congregation of 100 people. Now, all of a sudden, I was at least
+
+602
+00:58:42.120 --> 00:58:49.569
+Michael Curry: in some sense, overseeing 120 congregations, I don't know, 200 clergy or something like that,
+
+603
+00:58:49.710 --> 00:58:54.780
+Michael Curry: Forgotten how many people, it was throughout the central part of North Carolina.
+
+604
+00:58:55.180 --> 00:59:00.629
+Michael Curry: And… and it was mostly a predominantly white context.
+
+605
+00:59:01.310 --> 00:59:12.439
+Michael Curry: There were Black, historically Black congregations, there were Latino congregations, there were a few mixed, but this was a big… I had not been in that… I had to learn a new language.
+
+606
+00:59:13.070 --> 00:59:13.620
+Westina Matthews: Hmm.
+
+607
+00:59:13.860 --> 00:59:26.760
+Michael Curry: And I'd say learn a new language, not to be untruthful, but the same language that worked in predominantly African American contexts, you could take linguistic shortcuts, and everybody knew what you were talking about.
+
+608
+00:59:27.180 --> 00:59:32.850
+Michael Curry: You could refer to something in the culture, and everybody would get it quickly. You didn't have to explain it.
+
+609
+00:59:33.030 --> 00:59:35.879
+Michael Curry: But when you get in a more diverse culture.
+
+610
+00:59:36.250 --> 00:59:42.239
+Michael Curry: You have to learn language that conveys what's really in your soul.
+
+611
+00:59:43.010 --> 00:59:56.950
+Michael Curry: And what you actually… so I had to have a new learning. I just had to learn that… I had to explain myself, not to the point of putting folk to sleep, but explain enough, and I remember we found a book
+
+612
+00:59:57.080 --> 01:00:15.800
+Michael Curry: It was by a woman named Verna Dozier. I bet Westina may remember Verna, but Verna Dozier published a book years ago called The Dream of God, and I think it's still in print. And it's, it's kind of… she, she was an English teacher in Washington back in the
+
+613
+01:00:16.680 --> 01:00:19.260
+Michael Curry: 40s, and 50s.
+
+614
+01:00:19.520 --> 01:00:38.210
+Michael Curry: when Washington was a segregated school district. And she was one of these classic English teachers who just knew all the literature. Grammatical preciseness was a requirement, and if you didn't have it when you got there, when she finished with you, you had it.
+
+615
+01:00:38.210 --> 01:00:53.609
+Michael Curry: I mean, she was one of those… she became a mentor for me years later, when she… she was retired by that time. But, but the thing about, Verna is that she went around the Episcopal Church, teaching Bible.
+
+616
+01:00:54.350 --> 01:01:06.959
+Michael Curry: And she was a respected person, her name resonated, and she used the language of both the Black church and William Shakespeare.
+
+617
+01:01:07.580 --> 01:01:31.039
+Michael Curry: And it was brilliant, just… I mean, because she was an English teacher. I mean, she… so she would pull from different threads, and you'd get a little bit of Langston Hughes, and you'd get a little bit of Shelley and Keats, and… and just on… and… and she had that capacity. So she would… so we had a whole… the whole diocesan, Episcopalians in this part of the state of North Carolina, everybody read that book by Vernon Dozier, and then folks would…
+
+618
+01:01:31.290 --> 01:01:43.129
+Michael Curry: would say, oh, that's what you were talking about. I'd say, yeah, I'm not smart enough that made that up. Verna was saying that before I ever thought about it. But what that did was, it created a common cultural ground.
+
+619
+01:01:43.570 --> 01:01:49.909
+Michael Curry: A common social place where everybody could actually say, well, I understand that.
+
+620
+01:01:50.240 --> 01:01:53.639
+Michael Curry: sometimes in a new culture, I had… I learned
+
+621
+01:01:53.890 --> 01:01:59.059
+Michael Curry: I have to find what is the common… social ground.
+
+622
+01:01:59.170 --> 01:02:02.319
+Michael Curry: The common… what is the common soul?
+
+623
+01:02:03.530 --> 01:02:10.249
+Michael Curry: It is a part of all of us, because we all… excuse me for being theological for a moment, we all got the same Creator.
+
+624
+01:02:10.400 --> 01:02:14.709
+Michael Curry: We all got the same source and essence that we come from.
+
+625
+01:02:15.030 --> 01:02:28.359
+Michael Curry: And we are all children of God. Whatever our religious tradition, or no religious tradition at all may be, we all got the same. And when we tap into that commonality.
+
+626
+01:02:28.970 --> 01:02:30.560
+Michael Curry: Then we can talk.
+
+627
+01:02:30.990 --> 01:02:33.460
+Michael Curry: then United Nations only works
+
+628
+01:02:33.640 --> 01:02:42.430
+Michael Curry: when there is commonality of conversation. Otherwise, it becomes like the Bible's Tower of Babel, and nobody understands what the other is saying.
+
+629
+01:02:43.760 --> 01:02:45.580
+Michael Curry: Anyway, that was a learning.
+
+630
+01:02:45.850 --> 01:02:46.340
+Nat Irvin Irvin: Good.
+
+631
+01:02:46.340 --> 01:02:53.559
+Michael Curry: coming here as a bishop, and then writ large, it became even more, as… as presiding bishop, and… and…
+
+632
+01:02:53.830 --> 01:02:59.100
+Michael Curry: finding that common language helped. I mean, I did preach at a wedding at,
+
+633
+01:02:59.420 --> 01:03:02.439
+Michael Curry: Prince Harry and… and Meghan.
+
+634
+01:03:02.630 --> 01:03:09.429
+Michael Curry: Markle's at their wedding, and in preparation even for that, I was presiding bishop by that time, but,
+
+635
+01:03:10.380 --> 01:03:17.940
+Michael Curry: I actually really wrestled with… they said, now there are gonna be potentially upward of 2 billion people watching this thing.
+
+636
+01:03:18.250 --> 01:03:22.810
+Michael Curry: Now, they may turn off and treat the sermon like a commercial and go and…
+
+637
+01:03:22.810 --> 01:03:46.599
+Michael Curry: you know, get some cup of coffee or something, or they may actually be sitting there. You're gonna be talking to 2 billion people of the human family. They're gonna be all different races, different nationalities, different ethnic groups, different religions, different politics. I mean, think about the global human family. You talk about diversity, my good God almighty. I mean, that's… that's who you're talking to.
+
+638
+01:03:47.450 --> 01:03:52.119
+Michael Curry: And… And they said, but you can't water down who you are.
+
+639
+01:03:52.430 --> 01:03:53.090
+Nat Irvin Irvin: Right.
+
+640
+01:03:53.270 --> 01:03:55.790
+Michael Curry: But, but, so don't avoid who you are.
+
+641
+01:03:56.120 --> 01:04:00.439
+Michael Curry: But take the parts of you that actually speak universally.
+
+642
+01:04:01.270 --> 01:04:06.990
+Michael Curry: And speak to the… I learned in preaching weddings, talk to the couple.
+
+643
+01:04:07.660 --> 01:04:08.140
+Westina Matthews: Because…
+
+644
+01:04:08.140 --> 01:04:12.019
+Michael Curry: Everybody has come there because they got some relationship with the couple.
+
+645
+01:04:12.150 --> 01:04:20.279
+Michael Curry: And so, if you talk… if you really address the couple in a good way, you're gonna talk to everybody else beyond them.
+
+646
+01:04:20.580 --> 01:04:28.129
+Michael Curry: And so that's what I did. I came up with a strategy for how do I engage… how do you talk to 2 billion people, with this? I mean…
+
+647
+01:04:28.270 --> 01:04:29.810
+Michael Curry: Anyway, how do you do that?
+
+648
+01:04:29.940 --> 01:04:37.040
+Michael Curry: And I realized that the common… that the common connection that was there.
+
+649
+01:04:38.300 --> 01:04:42.990
+Michael Curry: And it was actually in one of the texts that they selected, but That was there.
+
+650
+01:04:43.280 --> 01:04:46.529
+Michael Curry: Was the connection of love.
+
+651
+01:04:47.780 --> 01:05:02.419
+Michael Curry: It's at the core as… and it was at my core. It was at the core of the message of Jesus from Nazareth, at the core of Judaism, the steadfast love of the Lord endures forever, says the psalmist.
+
+652
+01:05:02.420 --> 01:05:17.449
+Michael Curry: It's at the core, and it's at the core of many of the great religions, sometimes with different words, not the Lord love, sometimes charity. They're different words that are sometimes used for it. And I said, if I address that.
+
+653
+01:05:18.390 --> 01:05:20.229
+Michael Curry: I'll be true to myself.
+
+654
+01:05:21.020 --> 01:05:27.500
+Michael Curry: And if I'm truly true to myself, not selfishly true, I mean really true to my soul.
+
+655
+01:05:28.730 --> 01:05:30.780
+Michael Curry: That soul's gonna touch other souls.
+
+656
+01:05:31.260 --> 01:05:37.069
+Michael Curry: And have the capacity to become not just a parochial message, but a universal one.
+
+657
+01:05:37.290 --> 01:05:48.190
+Michael Curry: That was something I… I was forced to learn. I had never thought about that before that way, but I was forced into it, and… and so the sermon that I preached there.
+
+658
+01:05:48.610 --> 01:05:50.880
+Michael Curry: Came out of that realization.
+
+659
+01:05:51.570 --> 01:05:59.410
+Michael Curry: That was something I had not learned. You know, I have to admit, I've continued to learn. Now I've been learning even in retirement. Now I'm retired.
+
+660
+01:05:59.580 --> 01:06:05.579
+Michael Curry: Yeah. And now, I'm learning, you know something? Now, you're not sitting… don't sit here and waste your time.
+
+661
+01:06:05.760 --> 01:06:22.740
+Michael Curry: You still, you're still here, so do something. Do something worthwhile. You know, don't need to earn money like I used to. Don't… don't need to, you know, I got a little pension, so I'm okay. You know, at least there's food on the table. We're not wealthy, but we eat. And, just got a puppy, and the puppy eats.
+
+662
+01:06:23.110 --> 01:06:23.740
+Nat Irvin Irvin: And then…
+
+663
+01:06:23.740 --> 01:06:34.059
+Michael Curry: It doesn't eat ever, Lord. But anyway, it's… but I'd learned, I said, now, what is Michael Curry here? So I'm in the process of self-reflection
+
+664
+01:06:34.330 --> 01:06:36.610
+Michael Curry: Going back to my soul.
+
+665
+01:06:37.750 --> 01:06:44.760
+Michael Curry: What is it that's deep in your heart? Like that song says, deep in my heart, I do believe? Deep in my heart.
+
+666
+01:06:45.190 --> 01:06:48.750
+Michael Curry: What is that? That gets lived out now.
+
+667
+01:06:48.960 --> 01:07:01.219
+Michael Curry: when I'm not working every day and getting on airplanes two and three times a week, I'm not doing that, you know, anymore. You know, what's that essence? What are you here for? Like, my daddy used to say, the Lord didn't put you here just to consume oxygen.
+
+668
+01:07:01.640 --> 01:07:08.540
+Michael Curry: So what are you here to do besides consume oxygen? And some of that can be recreational and rest.
+
+669
+01:07:08.790 --> 01:07:16.060
+Michael Curry: But some of that, what can I do that's productive? And that is, a continuing contribution,
+
+670
+01:07:16.460 --> 01:07:17.840
+Michael Curry: to the human family.
+
+671
+01:07:18.750 --> 01:07:22.220
+Westina Matthews: Let me ask you just one quick question.
+
+672
+01:07:22.380 --> 01:07:38.680
+Westina Matthews: And you have a long answer, but let me try to see if I can get a short answer, because I want the students. Your best-selling book that was released in 2020 was titled, Love is the Way, Holding On to Hope in Troubling Times. And it's 6 years later.
+
+673
+01:07:39.970 --> 01:07:44.539
+Westina Matthews: And we are still in troubling times, and maybe even more so.
+
+674
+01:07:45.490 --> 01:07:50.740
+Westina Matthews: Is love still the way? And how do we hold onto our hope?
+
+675
+01:07:51.030 --> 01:07:51.750
+Michael Curry: Mmm.
+
+676
+01:07:51.750 --> 01:07:52.670
+Westina Matthews: Today.
+
+677
+01:07:52.960 --> 01:07:55.800
+Michael Curry: You want a short answer to that? Okay.
+
+678
+01:07:56.670 --> 01:08:03.379
+Michael Curry: All right, Wesley, the Lord, have mercy. You know what? The truth is, if… if you step back and think about it.
+
+679
+01:08:04.170 --> 01:08:08.130
+Michael Curry: there is no other way.
+
+680
+01:08:08.620 --> 01:08:09.590
+Michael Curry: That works.
+
+681
+01:08:10.850 --> 01:08:12.829
+Michael Curry: Any, any other…
+
+682
+01:08:12.990 --> 01:08:18.149
+Michael Curry: if… if unselfish, and by love, I don't mean… I mean, I… you know, I don't mean…
+
+683
+01:08:18.660 --> 01:08:25.390
+Michael Curry: you know, the soap operas, and that's not what I'm talking about. That… that the way of unselfish.
+
+684
+01:08:25.700 --> 01:08:30.390
+Michael Curry: Even sometimes sacrificial living for others as well as yourself.
+
+685
+01:08:30.890 --> 01:08:32.329
+Michael Curry: But for others.
+
+686
+01:08:32.859 --> 01:08:39.540
+Michael Curry: That's the only way for humanity to survive. I mean, the opposite of love… I used to think the opposite of love was hate.
+
+687
+01:08:39.740 --> 01:08:40.580
+Michael Curry: No.
+
+688
+01:08:40.760 --> 01:08:45.090
+Michael Curry: Hate is a part of the opposite. The opposite of love is selfishness.
+
+689
+01:08:46.010 --> 01:09:02.780
+Michael Curry: That's the opposite of love. Hate is a derivative of that. It arises out of a selfish response to fear. But that's where, and so, the truth of the matter is that that way of unselfish living
+
+690
+01:09:02.939 --> 01:09:06.550
+Michael Curry: That seeks the good and the well-being of others, as well as the self.
+
+691
+01:09:06.970 --> 01:09:14.569
+Michael Curry: That that is the way to life for us as individuals, And it's… it's the way…
+
+692
+01:09:15.180 --> 01:09:18.320
+Michael Curry: It's the way of life for us as the human family.
+
+693
+01:09:18.430 --> 01:09:20.200
+Michael Curry: Selfishness won't work.
+
+694
+01:09:20.300 --> 01:09:37.170
+Michael Curry: It is every war that has ever been fought has its original origins in somebody's selfishness. Every injustice that has ever been wrought will have its root in some kind of selfishness. That… that… that… the way of unselfishness.
+
+695
+01:09:38.380 --> 01:09:40.069
+Michael Curry: It's the way of giving.
+
+696
+01:09:40.189 --> 01:09:51.009
+Michael Curry: the way of caring. It is the way of seeking to do what is… what is good and just. It's like the Old Testament said, what does the Lord require of you but to do justice and love mercy?
+
+697
+01:09:51.140 --> 01:09:55.049
+Michael Curry: And walk humbly with your God. That, that way.
+
+698
+01:09:55.220 --> 01:10:05.099
+Michael Curry: is the way of life for the entire human family, and that transcends all of our religions. It's a part of all of them. It's there. And it's our hope.
+
+699
+01:10:05.210 --> 01:10:08.070
+Michael Curry: It's the hope for all of us.
+
+700
+01:10:08.330 --> 01:10:14.849
+Michael Curry: Quick side note, I'll make it quick, but I was looking up the origin of the Ephorus Unum.
+
+701
+01:10:15.270 --> 01:10:31.890
+Michael Curry: and the Latin phrase, e pluribus unum from anyone, and stumbled on, and a member of my staff really confirmed it, but stumbled on… the origin, part of the origin goes back to, Cicero.
+
+702
+01:10:31.890 --> 01:10:39.290
+Michael Curry: of ancient… of the Roman Republic, rather, who was a lawyer, philosopher, and, of the Roman Republic.
+
+703
+01:10:39.400 --> 01:10:46.150
+Michael Curry: And part of it goes back even before him, to Virgil, the poet, the Roman poet.
+
+704
+01:10:46.550 --> 01:11:05.630
+Michael Curry: And Virgil actually used the phrase, sort of, not the complete phrase, but part of it, y pluribus un for many one. In his writings, he wasn't writing about political theory, so that it would become the motto of the United States back in colonial time. Virgil was writing a recipe for pesto.
+
+705
+01:11:07.020 --> 01:11:24.199
+Michael Curry: It was a recipe, and if you look at pesto, it's all sorts of different nuts and berries and all these different ingredients, and when you cook them down, or whatever, however you prepare it, they become one delightfully tasteful thing that makes food live.
+
+706
+01:11:24.470 --> 01:11:24.980
+Nat Irvin Irvin: Okay.
+
+707
+01:11:24.980 --> 01:11:44.600
+Michael Curry: That's where I pluripus Unum comes from. Now, Cicero picked it up from him and applied it to the Roman household. The Founding Fathers picked it up from Cicero's writings that were in a magazine published by this Swiss guy, whose name I've forgotten now, can't remember, who referred to Cicero, Cicero's image.
+
+708
+01:11:44.600 --> 01:11:53.320
+Michael Curry: as a model for a new way of being a nation. And so they picked up E Pluribus, it comes, it goes back to a bloomin', that's no recipe.
+
+709
+01:11:53.320 --> 01:12:00.920
+Michael Curry: Back there, that's the core, that's the essence. And, boy, when we go back and find that kind of core.
+
+710
+01:12:01.400 --> 01:12:13.889
+Michael Curry: we see what life is meant to live, and Cicero actually said, when one person… and this is in Latin, but when one person loves the other as much as he loves himself.
+
+711
+01:12:14.190 --> 01:12:17.870
+Michael Curry: then E pluribus unum becomes possible.
+
+712
+01:12:19.200 --> 01:12:24.560
+Michael Curry: From many diverse and differing peoples, One people become possible.
+
+713
+01:12:24.750 --> 01:12:30.689
+Michael Curry: When one person learns to love the other as much as they love themselves.
+
+714
+01:12:31.510 --> 01:12:39.090
+Michael Curry: That is… All I can say is, there is no other way outside of unselfish
+
+715
+01:12:39.330 --> 01:12:47.959
+Michael Curry: Even sacrificial love that seeks the good and the well-being of others as well as the self. It's the key to the life of the world.
+
+716
+01:12:49.780 --> 01:12:53.609
+Nat Irvin Irvin: Christina, you think we should let some students ask some questions?
+
+717
+01:12:54.040 --> 01:12:55.180
+Michael Curry: Oh, sure.
+
+718
+01:12:55.180 --> 01:12:56.240
+Nat Irvin Irvin: Where's happening?
+
+719
+01:12:56.240 --> 01:12:57.570
+Westina Matthews: Good luck with that!
+
+720
+01:13:01.770 --> 01:13:08.699
+Nat Irvin Irvin: So, let's go to the students. Anybody who would like to ask a question, if you don't mind just raising your hand and letting us stop.
+
+721
+01:13:09.530 --> 01:13:10.710
+Westina Matthews: Nicole.
+
+722
+01:13:11.860 --> 01:13:17.600
+Nat Irvin Irvin: Do we have anybody who's volunteered yet, Les? Yeah, there we go. I think Nicole's coming up.
+
+723
+01:13:17.770 --> 01:13:18.410
+Westina Matthews: Yep.
+
+724
+01:13:18.410 --> 01:13:24.049
+Nicole Kaforski: I don't know that I have a question, but I loved, Bishop Curry, that you
+
+725
+01:13:24.220 --> 01:13:37.590
+Nicole Kaforski: mentioned learning new languages, and I did a career change a little over a year ago, and I learned really quickly, after being in higher education for well over 10 years.
+
+726
+01:13:37.930 --> 01:13:41.550
+Nicole Kaforski: It was learning a new language, and…
+
+727
+01:13:41.730 --> 01:13:51.690
+Nicole Kaforski: I… I really do think, when you approach more of management like that, more of life like that, more of approaching people like that.
+
+728
+01:13:53.010 --> 01:13:59.819
+Nicole Kaforski: You know, it really challenges you to just think about things from these new foundational ways, and these new…
+
+729
+01:14:00.180 --> 01:14:11.750
+Nicole Kaforski: perspectives, these different angles that, you know, you may not have previously even just known before. And so I think it's just really important to continue to
+
+730
+01:14:12.080 --> 01:14:22.879
+Nicole Kaforski: challenge yourself to learn these different languages to continue learning and expanding your own mind and your own understanding of other people. So, I just really appreciated that. I…
+
+731
+01:14:23.230 --> 01:14:41.340
+Nicole Kaforski: just… that's something that I say all the time, is I'm learning a new language, and I have to explain that a lot to other people, and it was nice to kind of hear that, you know, from your own experience in that, but, I've learned it's a really a business skill and a people skill more than anything, so…
+
+732
+01:14:41.340 --> 01:14:41.860
+Michael Curry: Yes.
+
+733
+01:14:42.290 --> 01:14:46.200
+Michael Curry: Wow, thank you, Nicole. Yes, it really is.
+
+734
+01:14:46.680 --> 01:14:52.830
+Michael Curry: And I had not thought about it ahead of time, but certainly looking back, each time I've had to learn a new language.
+
+735
+01:14:54.210 --> 01:15:01.899
+Michael Curry: It's learn a new culture, a new way of communicating, a new way… and not to assume that the way I always had in this level
+
+736
+01:15:02.310 --> 01:15:04.009
+Michael Curry: It's gonna work in this level.
+
+737
+01:15:04.570 --> 01:15:08.029
+Michael Curry: Sometimes it does, but not all the time.
+
+738
+01:15:08.030 --> 01:15:19.329
+Nicole Kaforski: even very foundational concepts, you're like, wow, I… this is a new foundational concept for me, new vocabulary, new types of people, the way they think is different, so how do I…
+
+739
+01:15:20.120 --> 01:15:22.079
+Nicole Kaforski: Figure out that language.
+
+740
+01:15:22.860 --> 01:15:31.900
+Nicole Kaforski: And that allows me to connect on a deeper level much faster, and to get things done in a more effective and proactive way.
+
+741
+01:15:32.190 --> 01:15:32.770
+Michael Curry: Yep.
+
+742
+01:15:34.890 --> 01:15:41.140
+Michael Curry: And I tell you, it does help to actually learn what is the history of the culture here.
+
+743
+01:15:42.150 --> 01:15:42.710
+Nat Irvin Irvin: It takes…
+
+744
+01:15:42.710 --> 01:15:45.660
+Michael Curry: It'll take a while, but what is the history of the culture here?
+
+745
+01:15:45.800 --> 01:15:48.630
+Michael Curry: And listening to people tell the stories.
+
+746
+01:15:49.040 --> 01:16:02.450
+Michael Curry: it takes a while to listen, but it does help to listen, to really listen, and say, oh, that's the language here, that's why this is happening here, or whatever. It's…
+
+747
+01:16:03.730 --> 01:16:10.439
+Michael Curry: Lord have mercy. My wife just walked up here with our new puppy. Why is he up here? Anyway…
+
+748
+01:16:10.570 --> 01:16:16.979
+Nicole Kaforski: But yeah, You know, to show up to and to practice, you know, listening and continuing to show up.
+
+749
+01:16:16.980 --> 01:16:17.720
+Michael Curry: Yeah.
+
+750
+01:16:18.070 --> 01:16:18.650
+Nicole Kaforski: Yeah.
+
+751
+01:16:18.650 --> 01:16:22.070
+Michael Curry: It's true, and you keep doing it. You keep doing it.
+
+752
+01:16:22.620 --> 01:16:25.179
+Michael Curry: It, and it's like learning a language.
+
+753
+01:16:26.760 --> 01:16:31.259
+Michael Curry: Y'all have to learn what's behind the language.
+
+754
+01:16:31.710 --> 01:16:37.929
+Michael Curry: What's behind the way that word… what's behind the way the reason for conjugating a verb the way they do?
+
+755
+01:16:38.230 --> 01:16:50.529
+Michael Curry: It's some… it's not… it wasn't just a grammatical exercise. There was a social reason, because you needed to communicate with different people, and you didn't have to have 10 different words to say, jump.
+
+756
+01:16:50.960 --> 01:16:56.960
+Michael Curry: or don't jump in the river, or… you know what I mean? There's a lack, there's a whole history behind it.
+
+757
+01:16:58.040 --> 01:16:59.030
+Michael Curry: That's fascinating.
+
+758
+01:16:59.030 --> 01:17:02.529
+Nat Irvin Irvin: I'd love to follow up. Oh, Darlene, you've got one. Good, Ms. Stokes.
+
+759
+01:17:02.530 --> 01:17:10.729
+Allysse Stokes: Sorry. Actually, it's a good segue because, Bishop Curry, you were just saying how sometimes
+
+760
+01:17:10.730 --> 01:17:25.810
+Allysse Stokes: understanding the history is just as important, and in my kind of environment, what I have seen, at least in my unit, is sometimes people struggle to let go of the history. And so, how do you…
+
+761
+01:17:27.810 --> 01:17:39.929
+Allysse Stokes: You want to pull people into the essence, which is constantly changing, by the way, new leadership, new essence within the company, or institution, or what have you. But how do you…
+
+762
+01:17:40.140 --> 01:17:51.310
+Allysse Stokes: Get people or lead people to be on board with some of that newness when they're so stuck in the historical trauma that they've kind of been in.
+
+763
+01:17:58.270 --> 01:18:02.680
+Michael Curry: I mean, obviously, it takes some longer-term skill.
+
+764
+01:18:04.670 --> 01:18:11.830
+Michael Curry: But to help folk identify To help folk identify
+
+765
+01:18:13.770 --> 01:18:16.200
+Michael Curry: What has worked for them in the past?
+
+766
+01:18:17.270 --> 01:18:19.149
+Michael Curry: Or what's working now?
+
+767
+01:18:20.110 --> 01:18:24.670
+Michael Curry: And… Let's, let's think about, okay, that's working now.
+
+768
+01:18:24.850 --> 01:18:28.330
+Michael Curry: What might work in the future that's ahead of us?
+
+769
+01:18:29.150 --> 01:18:39.060
+Michael Curry: And what can we learn from that past that we can translate into the future? You see, not to throw away the past. I mean, that's the… there's something there, there's some reason.
+
+770
+01:18:39.340 --> 01:18:43.879
+Michael Curry: good, bad, or indifferent. There's some reason. Nobody does anything.
+
+771
+01:18:44.550 --> 01:18:51.209
+Michael Curry: For no reason. We may not be conscious of it, may not be aware of it. And my experience in churches, churches do…
+
+772
+01:18:51.930 --> 01:18:53.689
+Michael Curry: do not change.
+
+773
+01:18:54.250 --> 01:18:56.300
+Michael Curry: Because it's a good idea.
+
+774
+01:18:57.590 --> 01:19:11.810
+Michael Curry: And if churches don't change, because there's a good idea, why would we think anything else would? I mean, to be honest. We change, because, okay, something new has entered our horizon.
+
+775
+01:19:12.330 --> 01:19:29.029
+Michael Curry: And… and while parts of the old can come with us on that journey, there may be some things that are new that we hadn't anticipated before. What's… what… what… kind of like a wedding, something old, something… what is it? You know, something old, something new, something…
+
+776
+01:19:29.460 --> 01:19:31.500
+Allysse Stokes: Borrowed something blue, yeah.
+
+777
+01:19:31.500 --> 01:19:40.070
+Michael Curry: There's… there's wisdom in that. It's telling us something old does come along, and that's okay. But not everything old comes along.
+
+778
+01:19:40.130 --> 01:19:57.540
+Michael Curry: Something new has to come along. If all you do is bring old baggage to a wedding, well, that'll be a nice, short relationship. But anyway, it can't. You got something old, something new, something borrowed, something blew. That's what… wherever… I don't know where that saying comes from, but there's wisdom there.
+
+779
+01:19:57.770 --> 01:20:09.060
+Michael Curry: And so, how do you help folk identify what is the old that comes into this new relationship? What is the new… what's the borrowed? I won't push the… but you see where I'm going.
+
+780
+01:20:09.060 --> 01:20:19.399
+Michael Curry: And help folk understand that everything's not… and for them to participate in that process of identifying what that new might be, knowing that you're part of that new.
+
+781
+01:20:21.180 --> 01:20:23.730
+Michael Curry: And you know what? You could use the wedding example.
+
+782
+01:20:25.590 --> 01:20:39.409
+Michael Curry: There's nothing wrong with having a metaphor. You know, you may not want to push that too far, because folks say, yeah, I got… I got a couple husbands, let me tell you about my… so you may not want to go too far with that one. But, everybody knows that that kind of
+
+783
+01:20:39.870 --> 01:20:42.590
+Michael Curry: Transitioning.
+
+784
+01:20:43.370 --> 01:20:49.260
+Michael Curry: is critical, something new, Gets born, something old comes to it.
+
+785
+01:20:49.750 --> 01:20:54.709
+Michael Curry: And, and something new comes into being.
+
+786
+01:20:54.930 --> 01:21:00.209
+Michael Curry: But… even, I mean, I just thought this Artemis II crew
+
+787
+01:21:00.630 --> 01:21:11.220
+Michael Curry: I don't know if y'all have been watching, I think they are the most… they are… they are… they seem like some of the most fantastic folk that ever have got shot… shot and up in the space. They are incredible!
+
+788
+01:21:11.390 --> 01:21:20.220
+Michael Curry: And… but I was watching it, and, I mean, my wife and I sat down, we were watching it, what is it, Friday? I think it was, whenever it was, they went up.
+
+789
+01:21:20.400 --> 01:21:30.850
+Michael Curry: And, and, and the, the part of the rocket That gets them into space, Gets them into space.
+
+790
+01:21:31.440 --> 01:21:33.130
+Michael Curry: And it gets jettisoned.
+
+791
+01:21:34.330 --> 01:21:37.620
+Michael Curry: It doesn't go the way. Its job is to get them into space.
+
+792
+01:21:38.230 --> 01:21:40.670
+Michael Curry: Once it's done its job, it gets let go.
+
+793
+01:21:41.030 --> 01:21:50.820
+Michael Curry: comes back down to Earth, and they take it, and I don't know if they use it again, I don't know what to do with it. But anyway, it comes back down to Earth, and the rest of it keeps going. And when they come back to Earth.
+
+794
+01:21:51.480 --> 01:21:59.570
+Michael Curry: The module, which they've been working in and doing stuff in, part of that gets jettisoned in space.
+
+795
+01:21:59.960 --> 01:22:01.730
+Michael Curry: And it's only the capsule.
+
+796
+01:22:01.940 --> 01:22:15.410
+Michael Curry: That comes down and returns. That's the same… that is the same with any new day. New people, transition. There's a part that gets us up.
+
+797
+01:22:15.720 --> 01:22:17.359
+Michael Curry: And then we let go.
+
+798
+01:22:17.620 --> 01:22:20.460
+Michael Curry: And then… but what… what keeps going, and what…
+
+799
+01:22:20.670 --> 01:22:38.149
+Michael Curry: gets let go. Something old, something new, something borrowed, something blew. I'm gonna look that up, that marriage thing up, because there's some real wisdom in that, that, you know, if you just keep all the old stuff and bring it with you, well, have a happy life. I mean, good luck with that.
+
+800
+01:22:38.680 --> 01:22:40.760
+Westina Matthews: Well, the old folks would say, that'll preach.
+
+801
+01:22:40.760 --> 01:22:43.099
+Michael Curry: Yeah, you're right!
+
+802
+01:22:44.100 --> 01:22:47.990
+Michael Curry: I'm giving you all credit when I preach it, because I'm going to borrow that one.
+
+803
+01:22:47.990 --> 01:22:58.239
+Westina Matthews: But as you talk about those astronauts, I think one of the things that struck me when you talk about core values is that they asked if they could name two of the craters that they saw.
+
+804
+01:22:58.750 --> 01:23:01.529
+Westina Matthews: One of them they named Integrity.
+
+805
+01:23:01.820 --> 01:23:02.400
+Michael Curry: Yeah.
+
+806
+01:23:03.360 --> 01:23:05.020
+Michael Curry: Yeah, integrity.
+
+807
+01:23:05.630 --> 01:23:06.150
+Westina Matthews: Dang.
+
+808
+01:23:06.530 --> 01:23:07.990
+Westina Matthews: core values.
+
+809
+01:23:07.990 --> 01:23:10.880
+Michael Curry: This was a different team. There was something about those four.
+
+810
+01:23:11.160 --> 01:23:22.290
+Michael Curry: And they named the other one after the wife who died of the Canadian astronaut. And it was… and he didn't know they were gonna do that. They told him before they went up.
+
+811
+01:23:22.740 --> 01:23:29.070
+Michael Curry: But that wasn't him asking for that, that was the other… this was a really different crew of people.
+
+812
+01:23:29.780 --> 01:23:37.039
+Michael Curry: they just… and they actually seemed to like each other. I mean, you know, if they were fighting up there, we'll never know, but… but no, they were…
+
+813
+01:23:37.630 --> 01:23:44.130
+Westina Matthews: Well, that's full circle to my question, because those astronauts Help me to have hope.
+
+814
+01:23:44.550 --> 01:23:47.410
+Westina Matthews: For today and for the future, when I…
+
+815
+01:23:47.550 --> 01:23:48.340
+Michael Curry: Yes.
+
+816
+01:23:48.540 --> 01:23:51.020
+Westina Matthews: Having experienced and watched them.
+
+817
+01:23:51.190 --> 01:23:59.240
+Westina Matthews: Well, we're coming to the end of our time. You did not disappoint. I want you to know. You did good, Mr. Curry.
+
+818
+01:23:59.240 --> 01:24:07.379
+Michael Curry: Oh, thank you, Wes. Thank you, teacher. She's one of my teachers, so, okay, that's good. I'll take that C, whatever you give me. A C+.
+
+819
+01:24:07.610 --> 01:24:17.859
+Westina Matthews: No, no, no. This has just been such a rich, rich conversation, and we so appreciate you carving out some time to be with us.
+
+820
+01:24:17.930 --> 01:24:27.720
+Westina Matthews: And it's going to be recorded for the students who aren't here live, but they'll get a chance to hear you as well.
+
+821
+01:24:27.800 --> 01:24:34.889
+Westina Matthews: I know Nat and I are eager to hear their, discussion as they start to talk about what spoke to them.
+
+822
+01:24:34.890 --> 01:24:35.540
+Michael Curry: Oh, yeah.
+
+823
+01:24:35.750 --> 01:24:36.500
+Westina Matthews: Nat?
+
+824
+01:24:36.780 --> 01:24:38.210
+Westina Matthews: I'll turn it to you.
+
+825
+01:24:38.210 --> 01:24:44.240
+Nat Irvin Irvin: I think you just said it just so well, and Bishop Curry, our dear friend.
+
+826
+01:24:44.250 --> 01:24:45.020
+Michael Curry: Oh.
+
+827
+01:24:45.020 --> 01:24:56.229
+Nat Irvin Irvin: Many, many years. Thank you so much for joining us tonight. I… I will just speak on behalf of Westin and myself. Will you join us next year? Let the Lord so wills.
+
+828
+01:24:56.230 --> 01:24:59.120
+Michael Curry: Oh, if the Lord so will, I would be honored. I would be honored.
+
+829
+01:24:59.120 --> 01:25:00.309
+Nat Irvin Irvin: We love that.
+
+830
+01:25:00.310 --> 01:25:00.740
+Michael Curry: Thank you.
+
+831
+01:25:00.740 --> 01:25:06.789
+Nat Irvin Irvin: Thank you so much for joining us tonight, and for your wonderful work that you've done around the world.
+
+832
+01:25:07.250 --> 01:25:07.770
+Michael Curry: And…
+
+833
+01:25:07.770 --> 01:25:12.719
+Nat Irvin Irvin: And what you continue to do. And, thank you for adding
+
+834
+01:25:12.840 --> 01:25:21.240
+Nat Irvin Irvin: to the lives of our MBA students and all those who will later be able to view this video. So thank you so much.
+
+835
+01:25:21.410 --> 01:25:27.359
+Michael Curry: Oh, thank you both, and thank you to all the members of the class. It's been an honor.
+
+836
+01:25:27.580 --> 01:25:28.949
+Michael Curry: And a real blessing.
+
+837
+01:25:29.480 --> 01:25:30.350
+Westina Matthews: Thank you.
+
+838
+01:25:30.690 --> 01:25:36.519
+Westina Matthews: Thank you so much. So, we'll just have the students stay on for just a couple of minutes, but everybody else?
+
+839
+01:25:37.090 --> 01:25:48.530
+Westina Matthews: Good night. We'll see you next Thursday. Ambassador Young will be with us. That'll be the last, lecture that we have, guest lecture is with Ambassador Andrew Young.
+
+840
+01:25:48.860 --> 01:25:49.560
+Westina Matthews: So…
+
+841
+01:25:50.020 --> 01:25:51.010
+Nat Irvin Irvin: Thank you.
+
+842
+01:25:58.950 --> 01:26:06.230
+Westina Matthews: Okay, Lisa, you have to go. You're not here. Lynette… You're not students.
+
+843
+01:26:08.460 --> 01:26:11.510
+Westina Matthews: And Audrey? I don't know who Audrey is.
+
+844
+01:26:13.390 --> 01:26:14.140
+Westina Matthews: Bye.
+
+845
+01:26:22.980 --> 01:26:27.879
+Westina Matthews: I'll just remove.
+
+846
+01:26:31.570 --> 01:26:32.470
+Nat Irvin Irvin: We'll be okay.
+
+847
+01:26:37.490 --> 01:26:38.880
+Nat Irvin Irvin: We're good to go, Wes?
+
+848
+01:26:38.880 --> 01:26:40.110
+Westina Matthews: Yep, go ahead.
+
+849
+01:26:40.380 --> 01:26:42.139
+Nat Irvin Irvin: Just for the students.
+
+850
+01:26:42.340 --> 01:26:57.939
+Nat Irvin Irvin: You can expect in your… in your inbox tomorrow a description of what your final paper will be. Expected. Christina and I are gonna… we're gonna view a little bit… we'll discuss it a little bit, and we have a draft, but we're gonna review it after tonight's class.
+
+851
+01:26:58.020 --> 01:27:08.060
+Nat Irvin Irvin: And so you can expect for it to be in your box tomorrow. It will be able to encapsule what will we anticipate will be the conversation with Ambassador Young next week.
+
+852
+01:27:08.250 --> 01:27:11.499
+Nat Irvin Irvin: And it will be due a week after that conversation.
+
+853
+01:27:11.840 --> 01:27:20.989
+Nat Irvin Irvin: So, whatever date that is, but we'll give you about a week after next Thursday to be able to complete it, and
+
+854
+01:27:21.130 --> 01:27:26.449
+Nat Irvin Irvin: But it's a, you know, it's 1500 words, and you can just expect that it's going to be a reflection.
+
+855
+01:27:26.610 --> 01:27:43.839
+Nat Irvin Irvin: on yourselves, and and you'll see the details there. We made a mistake, I did, in the one that you have on the syllabus, where it refers to a book that we had in the previous class. Neither one of us caught that mistake. Ms. Stokes, you probably caught it.
+
+856
+01:27:44.860 --> 01:27:48.729
+Nat Irvin Irvin: We did not assign a textbook, but it's… basically, it's going to reflect
+
+857
+01:27:48.860 --> 01:27:54.119
+Nat Irvin Irvin: You know, engaging with the speakers, various,
+
+858
+01:27:54.200 --> 01:28:10.210
+Nat Irvin Irvin: additional supplements that Westing was added, or that we've added together from, suggested by our guest, so you can expect that kind of a thing like that. Also, too, would want to remind you that we're going to be asking you for an assessment
+
+859
+01:28:10.320 --> 01:28:28.049
+Nat Irvin Irvin: For your journals, you get to make that determination. You get to make a recommendation for your grades in terms of the discussions. That'll be a recommendation. We may accept, and we may have some… maybe we may have some… we may disagree with you a little bit there.
+
+860
+01:28:28.250 --> 01:28:36.710
+Nat Irvin Irvin: But, but that'll be left up to you. And, but… so, that's… I think that's all that we had. Wes, have I left anything else?
+
+861
+01:28:36.960 --> 01:28:40.269
+Westina Matthews: We're posting Margaret Benefeld, tomorrow.
+
+862
+01:28:40.650 --> 01:28:46.260
+Westina Matthews: Tomorrow, it'll go up. This was recorded. It's only about 20 minutes, but .
+
+863
+01:28:46.260 --> 01:28:48.140
+Nat Irvin Irvin: He was the author of this book.
+
+864
+01:28:48.730 --> 01:28:49.360
+Westina Matthews: Yes.
+
+865
+01:28:49.360 --> 01:28:50.630
+Nat Irvin Irvin: But so they weren't.
+
+866
+01:28:50.790 --> 01:28:52.160
+Westina Matthews: All that works.
+
+867
+01:28:52.290 --> 01:28:56.040
+Westina Matthews: So, we did have her, and so that will be…
+
+868
+01:28:56.240 --> 01:29:02.189
+Westina Matthews: another thing to view. But the paper is an integrated paper, so that
+
+869
+01:29:02.720 --> 01:29:19.370
+Westina Matthews: this entire experience, and you'll have those guided questions. But we look forward to reading the papers, and we look forward to seeing you next week for the last class. There'll be no discussion questions next week. We're going to have you now focus on the paper.
+
+870
+01:29:19.860 --> 01:29:24.720
+Nat Irvin Irvin: And just… and one other thing about the paper, Westin, it just reminded me, too, this is about you.
+
+871
+01:29:25.150 --> 01:29:27.410
+Nat Irvin Irvin: So, it won't be about…
+
+872
+01:29:27.840 --> 01:29:37.829
+Nat Irvin Irvin: Did you learn this? Did you learn that? It really will be an opportunity for self-reflection, and so we hope that you'll take advantage of it in that spirit.
+
+873
+01:29:38.810 --> 01:29:39.410
+Nat Irvin Irvin: That's fair.
+
+874
+01:29:39.410 --> 01:29:40.130
+Westina Matthews: and…
+
+875
+01:29:40.400 --> 01:29:49.669
+Westina Matthews: You all… you two have been so faithful, and we appreciate that, and others have been watching… watching it later and looking at it.
+
+876
+01:29:49.670 --> 01:30:12.310
+Westina Matthews: I'm just reminding you, we can go see when you viewed the videos. So, are you looking at them all next week to write the paper, or have you been doing it along the way? So, I'm giving you a heads up. If you're a little behind, I'd take the weekend to start to look at some of those videos if you've missed them, or you've missed those discussion questions, like the
+
+877
+01:30:12.320 --> 01:30:18.689
+Westina Matthews: I understand you're busy, but this is part of what we're asking for for this course, so…
+
+878
+01:30:19.630 --> 01:30:23.640
+Nicole Kaforski: And next week, we only meet on Thursday, right?
+
+879
+01:30:24.190 --> 01:30:24.750
+Westina Matthews: Correct.
+
+880
+01:30:24.920 --> 01:30:25.560
+Nicole Kaforski: Okay.
+
+881
+01:30:25.870 --> 01:30:28.070
+Westina Matthews: Only on Thursday. Right.
+
+882
+01:30:28.810 --> 01:30:29.370
+Nicole Kaforski: Thank you.
+
+883
+01:30:29.370 --> 01:30:32.080
+Nat Irvin Irvin: Well, thank you so much, and we're staying the safe travels.
+
+884
+01:30:32.160 --> 01:30:42.179
+Westina Matthews: Thank you, I'm heading out. 5.30 flight tomorrow morning, so goodbye. I'll see you all next week. Take care.
+
+885
+01:30:42.180 --> 01:30:43.299
+Nicole Kaforski: Thank you all. Bye.
+
+886
+01:30:43.300 --> 01:30:43.980
+Allysse Stokes: Yay!
+
