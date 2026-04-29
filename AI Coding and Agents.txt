@@ -1,0 +1,142 @@
+As we get to the final section, I want to go back to the introduction.
+0:03
+In the introduction I talked about in terms of I tool use, I use the analogy of, you know,
+0:14
+the various entry points into a pool and mentioned that I myself, uh, decided to jump off, uh, in the deep end.
+0:20
+And uh, in doing so, I did that with Claude Cold.
+0:27
+Um, a little background about myself. I am not a coder.
+0:32
+Um, uh, I have little to no experience in using, uh, any type of code, but, uh, I had been I have been seeing a lot of, uh, people, uh.
+0:37
+Talking about cloud code and what they have been able to do with it.
+0:52
+And I myself decided this to jump into the deep end with that.
+0:55
+Um, and in trying to see what I could do and as we, you know, wrap up the week a little bit,
+1:00
+you know, I go into these AI agents and the multimodality of where all of these models are going.
+1:11
+Um, in my opinion, we're going to this multi-modal format where everything is in one.
+1:20
+Um, you know, so is is you get into these models, you'll see these frontier models.
+1:29
+You're able to do the chat, you're able to do the video generation, um, you're going to be able to now slowly but surely build software.
+1:36
+And what I mean by build software is where this cloud code comes in.
+1:48
+Uh, they also are launching, uh, cloud Co-work, which you'll see down, uh, in in this module, a explainer video that that, uh, is listed below.
+1:52
+Now, uh, a quick caveat on cloud co-work right now it is in early release.
+2:06
+It is only available if you have a mac. So, uh, we don't necessarily have all of us won't have access to it, but.
+2:13
+What this means. Is that we're moving towards, uh, a time where you have a problem.
+2:23
+And you use the various tools to solve that problem, or you have something that you want to do.
+2:33
+And these tools, these agents and I'll introduce agents.
+2:41
+And that is really the AI itself is operating on its own doing a task that you are prescribing.
+2:45
+So for instance, my, uh, problem or not even a problem, but I have a first grader who is in the process of learning to read.
+2:54
+Uh, and if any of you have children, you probably have been in that situation where they're bringing home some of these, what they call like, readers.
+3:05
+Uh, and most of the time, they're really boring.
+3:14
+Um, they're, you know, kind of dull and in the way that they're designed.
+3:17
+So I was thinking, hmm, is there a way that I could personalize these using AI?
+3:23
+Um, and I came to quad code, and, uh, long story short, I now have created a website,
+3:31
+uh, where you can customize your own, uh, readers for elementary school, uh, kids.
+3:42
+Yes, I, I did this again, going back to the fact that I don't have any coding experience.
+3:51
+I didn't know how to do that. Put in that problem to code it.
+3:58
+Walk me through the steps. Now, as I did that, there were a couple instances where.
+4:03
+I had it. Break it down step by step, go over it, and it pretty much just told me where to go in my computer, what sites I needed to connect to.
+4:10
+Uh, with this site, I did end up using APIs, which in short allows websites to communicate with one another.
+4:23
+I was able to connect my API with OpenAI for image generation and for the content creation.
+4:30
+Uh, you'll see, uh, down below. The website I created is live and usable.
+4:37
+Um, if you have an elementary kiddo and you'd like to to make a custom reader for one of them, uh, please try it out.
+4:42
+Um, I will say that this particular site does have costs associated with it.
+4:49
+Um, is OpenAI and Claud are charging me for the image and text generation, but uploaded enough money in there.
+4:54
+So in my developer accounts. And yes, it helped me set up the developer accounts.
+5:02
+So most anybody that wants to should be able to use it. But in the event you did run into error and error, that may be what would happen.
+5:08
+Uh, just let me know. But you can also set these up where the API is if you are connecting it.
+5:15
+There's not a cost to them or it is contained in your computer or whatever the case may be.
+5:22
+So in the course of working on this and hearing the information on cloud Co-work, I kind of had this aha moment.
+5:29
+This is where AI is going, where you have a problem, you have a process that you're you you're working on.
+5:39
+Um, I can help solve that from something as simple as, uh, interacting in a chat to developing your own software.
+5:47
+Now, if you don't want to leap into the coding, that's that's fine.
+5:58
+You know, you don't have to jump into the deep end. There are other ways to kind of create some of these solutions.
+6:03
+Uh, so for instance, if you're using chat, GPT, the custom GPT, or even creating a project or a ways that you can find these,
+6:09
+uh, solutions, um, I've actually been a fan of the custom GPT, uh, since they were launched.
+6:18
+And I'll give you kind of to two examples there. Again, going back to, to maybe, uh, solving a couple problems, uh, working on processes.
+6:25
+So, uh, I got this really nice coffee maker.
+6:33
+I'm, uh, avid coffee drinker. Uh, this thing, it, uh, can it takes hold beans.
+6:36
+It grinds them. It adds, uh, it does lattes.
+6:43
+It does macchiatos. It does iced coffee, whatever the case may be.
+6:46
+But it was very complicated when I first got it. So I uploaded in a custom GPT, uh, instructions.
+6:49
+I, uh, found, uh, recipes, uh, some other things in there.
+6:57
+Uh, loaded all that in. And now I have a barista bot so I can go to my barista bot.
+7:03
+Uh, it helps me if I, you know, how do I clean, uh, the coffee maker when it needs to be clean?
+7:09
+Give me a couple of recipes. Uh, solution there.
+7:14
+Uh, is I've mentioned, you know, having having, uh, two young boys, uh, they are picky eaters is a family.
+7:18
+We are always trying to, like, meal prep, meal plan, whatever the case may be,
+7:26
+I put in their dietary constraints, and, uh, we, uh, created a family, uh, meal prep guide.
+7:33
+Um, I'm going to link both of those, uh, so you can just kind of look at those, uh, in the chat, but those are two examples.
+7:42
+Um, even, uh, going to another free version, Microsoft Copilot, that we all have access to through our UVO accounts,
+7:49
+uh, allows you to interact both with agents and create agents in their platform.
+7:57
+Uh, in fact, if you actually go to the agent creation, it looks really similar to how you set up the custom GPT.
+8:02
+So, as I said, you know, all of this stuff is starting to come together.
+8:10
+Um, so as we kind of wrap up this module content, begin thinking of problems, processes that that can be automated in the ways that I can help you.
+8:14
+Um, so, uh, best of luck this week as you start diving into these tools.
+8:27
+Uh, I'm really looking forward to seeing what what your, uh, what you all come up with?
+8:32
+Um, and as always, if you've got questions, you know, uh, don't hesitate to reach out to, uh, uh.
+8:37
