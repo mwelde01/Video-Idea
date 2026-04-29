@@ -1,0 +1,78 @@
+Week 1 Overview
+
+Welcome to business applications in AI in week one.
+0:09
+Before we dive into this week's content, I want to give you an overall view of some of the organization and design of the course.
+0:12
+I always try to take a collaborative approach when speaking with business community leaders, faculty, students, not I.
+0:18
+I think over the years I've learned as much from others as they have for me.
+0:25
+And when I was thinking about teaching this course, that was the first thing that came to mind.
+0:29
+How do I take that same collaborative approach and adapt it to an asynchronous course?
+0:33
+Many of these models do not come with instructions, and we're going to get into some of the reasons why that is later in the course.
+0:39
+But we all have our specific lenses in which we view AI.
+0:46
+More importantly, that technology is changing so rapidly and moving so quickly, it's hard for any one person to keep track of it all.
+0:51
+I wanted to think of a way that we all can contribute to this course, outside of the typical discussion board discussion board format,
+0:58
+where it's response and reply response and reply that you may have used in other courses.
+1:06
+And that's not to knock it. It has its value. But, uh, my my solution here was Microsoft Teams.
+1:12
+I know what many of you are thinking right now, Microsoft Teams, you may have used this daily or use this throughout your time in the program.
+1:20
+I know my experiences with teams is often kind of.
+1:29
+And uh, however, we're going to try to use utilize our, uh, MBA 680 teams class.
+1:32
+And I that I've activated here, we're going to post videos that we create in class so that we all can share and see what we're doing in experiencing.
+1:39
+I'm going to add your week one introductions and I business case uh, studies in the team class.
+1:47
+And weeks three and four we will have an I share out where you'll discuss an article on I a case uh, review a tool.
+1:53
+Uh, and you're going to post that, uh, both uh, in the classes, your submission and in the team site.
+2:03
+And then there'll be details, uh, later, uh, on, uh, in those assignment details.
+2:08
+I'm going to also post relevant articles that may not fit with the scope of what we're covering, uh, for our specific week.
+2:14
+And I are encouraged you to share anything you come across as well.
+2:21
+Uh, my hope is that collectively, we're all going to learn together.
+2:25
+Uh, during the next five weeks, the weekly modules I view is a way for me to kind of collect resources that cover the topic for that given week.
+2:28
+Often you'll see that I utilize notebook LM to create explainer videos that help cut through some of the technical pieces,
+2:38
+uh, and I, but I always include the source material if you want to take that deeper dive.
+2:45
+My hope is this creates a class that's both interactive and informative as we get started.
+2:52
+I want to ground our discussions going forward when training AI data researchers, ground models, uh, outputs to real world facts.
+2:59
+Give it context. Enough borrowed. That term is we're going to set the parameters for our discussions.
+3:07
+We all come to this conversation to this class with different experiences and perspectives of AI.
+3:14
+It's okay if you don't know where to start. There is an entry point for everyone.
+3:21
+It's okay to have doubts about AI and its a potential use cases, however, and we'll cover this in the in the class.
+3:28
+AI is not going away. The rate of change is rapid.
+3:36
+What's true today may not be true tomorrow. So herein lies that question of how do we try to balance and the fears and potential downsides of AI,
+3:42
+which there are understandable and valid with its potential.
+3:52
+And that's kind of where I want to leave you right now in this video.
+3:57
+And as you think about that question, um, I hope we can get and begin to get some of those answers.
+4:01
+Uh, in the class, I again and looking forward to working with you over the next five weeks, and I can't wait to get started.
+4:07
