@@ -1,0 +1,124 @@
+From Organizational Frameworks to Personal Principles
+
+As we wrap up the week, and before you turn your attention to the week three assignment,
+0:03
+I want to introduce you to something that I think will be helpful as you begin.
+0:12
+Claude's constitution. Claude is the AI model from anthropic, and rather than programing it with a simple list of do's and don'ts.
+0:15
+Anthropic took a different approach.
+0:23
+They created what is called a constitution, a set of guiding principles that shape how Claude reasons through difficult situations.
+0:25
+Now, why does this matter for you? Think about the policies we've looked at this week.
+0:33
+Most most organizations AI policies are rule based.
+0:38
+They tell you what you can and can't do. Uh, don't put confidential data into public AI tools.
+0:42
+Disclose when content is AI generated. Get approval before deploying, uh, AI in a customer facing application.
+0:47
+Rules like these are important, but they have limitations.
+0:56
+Rules can't anticipate every situation.
+0:59
+They can conflict with each other, and they don't help you reason through novel scenarios where the right answer isn't obvious.
+1:02
+Let's go back to the trolley. Uh, problem, for example.
+1:10
+That's where Constitution approach differs.
+1:14
+Claude's Constitution isn't just a set of rules, it's a set of principles that help the AI navigate situations where rules alone aren't sufficient.
+1:17
+It addresses and addresses questions like how do I balance being helpful, uh, avoiding it while avoiding potential harm?
+1:28
+When should I express uncertainty rather than confidence?
+1:36
+How do I handle situations where values might conflict? Say honesty versus kindness.
+1:39
+User requests versus broader societal impact.
+1:45
+The Constitution makes values explicit.
+1:49
+It creates a framework for consistent decision making, and it provides guidance for novel situations where the specific rules may not exist.
+1:52
+Let me give you an example. Have. This might work in practice.
+2:01
+Suppose someone ask for help with a task that's not clearly prohibited, but feels problematic.
+2:04
+A rules based system would check. Is this on the banned list?
+2:10
+No. Then proceed. But a constitution based approach.
+2:14
+Ask deeper questions. What are the intentions here?
+2:18
+What are the potential consequences? Does this align with my core values?
+2:22
+Is there a way to be helpful without avoiding potential harm while avoiding potential harm?
+2:27
+That kind of reasoning is what makes a constitutional approach powerful.
+2:33
+It's not about following rules blindly. It's about having internal principles that guide judgment.
+2:38
+Now here's a key insight for your assignment. The same approach works for individuals.
+2:45
+You're going to encounter AI situations that your company's policy doesn't cover.
+2:50
+You'll face judgment calls where the right answer isn't obvious.
+2:55
+You'll need to make decisions quickly and without time to consult a handbook or ask for approval.
+2:59
+Having your own set of principles, your own constitution gives you a framework for those moments when you write your personal statement.
+3:05
+I don't want you just to create a list of rules for yourself.
+3:12
+I want you to think about the underlying values principles that will guide your judgment.
+3:15
+Ask yourself, what do I believe about honesty in transfers?
+3:19
+Transparency in AI use not just when must I disclose, but what kind of person do I want to be regarding that disclosure?
+3:24
+What do I believe about accountability? When will I use AI to help with work?
+3:33
+Where does my responsibility begin and end? What do I believe about the relationship between efficiency and risk?
+3:38
+How do I weigh getting things done faster against the possibility of errors or harm?
+3:44
+What do I believe about staying in form?
+3:50
+Is it enough to use AI tools, or do I have a responsibility to understand how they work and what their limitations are?
+3:52
+These aren't just questions with easy answers, but thinking them through.
+3:59
+In writing down your conclusions gives you something that stand on when difficult situations for others.
+4:05
+One additional thing. Um, Cloud's constitution isn't static.
+4:11
+Um. Anthropic refines this as they learn about how the AI is used and the challenges that are emerging.
+4:15
+Your personal statement should work the same way. What you write this week is a starting point.
+4:22
+It's not. The final answer is AI evolves and as your career develops, you may encounter new situations in your principles can evolve too.
+4:27
+The goal here isn't perfection.
+4:38
+The goal is being intentional, having in thinking through your values deliberately rather than just reacting to the moment.
+4:40
+Review the court and constitutional resources link.
+4:49
+Uh, here in the module before you start your assignment, I have an interview from the Hard Fork podcast,
+4:52
+uh, released just last week with one of the lead authors.
+4:58
+Uh, and she goes in-depth into their process as well as a notebook.
+5:01
+Uh, lm summary, because lots. Tuition is about 84 pages long.
+5:05
+You don't have to read it all, but if you're interested, uh, it's also there, uh, for you as well.
+5:10
+Pay attention not to just what to the principles are included, but how they're structured and how they relate to one another.
+5:15
+And let that inform how you might structure your own statement.
+5:23
+Continue to review the module material and I'm looking forward to seeing your statements.
+5:2
