@@ -1,0 +1,102 @@
+The Four Futures: A Scenario Planning Framework for Strategic Planning
+
+Now we get to the main part of the module.
+0:03
+Four distinct AI features. Each one is built on two critical uncertainties.
+0:12
+How fast AI capabilities advance and how society responds.
+0:17
+I want you to engage with all four.
+0:22
+Even the ones that seem less likely to you, because the exercise of considering multiple features is where the strategic value lives.
+0:24
+Remember, you will select one of these scenarios for your week five assignment.
+0:32
+In the supplemental readings will allow you to dive deeper into each one.
+0:35
+In scenario A, AI capabilities advance rapidly and broadly.
+0:41
+This is the world Dario describes when he speaks about a AI enabled biology in medicine, allowing us to compress the progress,
+0:45
+uh, that human biologists would have achieved over the next 50 to 100 years into 5 to 10.
+0:55
+Dean Ball, a former senior advisor for AI in emerging technology at the white House, goes on to talk about recursive self-improvement.
+1:03
+These are the mechanics that would allow AI to improve upon itself, and he gives the analogy of building a faster car, which is AI,
+1:13
+making existing research more efficient, and then building a car that learns to fly,
+1:24
+where AI discovers a fundamentally new approaches that humans would not have found.
+1:29
+A recent comment in nature goes even further,
+1:34
+arguing by certain measures we may already be near human level AI factor in the infrastructure buildout, we discuss.
+1:37
+With nearly $650 billion in Hyperscaler spending this year alone, the Blackwell chips entering the market,
+1:45
+and you have a powerful accelerant, powerful feedback loops that feed on one another, accelerating AI in ways that, uh, is hard to imagine.
+1:53
+Organizations in this scenario need AI first strategies within 12 to 18 months.
+2:05
+Waiting carries real strategic risk. Now let's look at scenario B slow and steady.
+2:11
+In this scenario, AI progresses much more gradually than the optimists predict.
+2:17
+This is the perspective of MIT economist Darren Acemoglu and also serves as the AI is a normal technology framework.
+2:22
+Their arguments here draw on history. General purpose technologies typically take 20 to 30 years to fully diffuse into the economy.
+2:32
+They require complementary innovations and organizational design skills and institutional frameworks, infrastructure bottlenecks, power constraints,
+2:41
+supply chain limitations, and the time required to actually deploy and integrate AI and complex organizations all support this timeline.
+2:50
+The strategic implication is different. Thoughtful, iterative adoption with a focus on organizational change alongside technology investment.
+2:58
+The next scenario is scenario C an I plateau or winner.
+3:08
+Scenario C is the one most people want to dismiss, but history says they should not.
+3:14
+I has experience at least three prior winners which triggered the same pattern inflated expectation,
+3:19
+massive investment, disappointing real world performance and funding contraction.
+3:27
+Fortune's Jeremy Kohn draws on explicit parallels to the current dynamics.
+3:32
+The financial dimension is particularly particularly relevant if nearly $70 billion in annual spending does not generate the returns.
+3:37
+The self-reinforcing cycle of investment could reverse.
+3:47
+Google's own CEO has acknowledged seeing it, as he put put it, elements of irrationality in the current scale of AI investment.
+3:50
+the.com comparison is increasingly discussed as well, but here's a strategic insight.
+3:58
+Infrastructure built during previous winters often powered the next breakthrough.
+4:04
+The fiber optics laid in the 1990s and eventually enabled the mobile internet revolution.
+4:08
+So that's one thing to consider, is if you go down this path.
+4:13
+Finally we have scenario D regulatory and social backlash.
+4:17
+In scenario D, the constraint is not technical but societal.
+4:22
+Research from Foreign Affairs shows how public anger about inequality,
+4:26
+displacement and institutional distress creates political conditions where AI regulation becomes a populist cause.
+4:31
+Brookings details how this translates into mandatory human oversight liability framework.
+4:38
+Second sector specific prohibitions. The EU AI act provides a template already being followed and adopted by other countries.
+4:44
+In regions, the energy dimension adds fuel if I the data centers are seen consuming massive power while communities face energy costs,
+4:54
+uh, increased environmental regulation becomes even another constraint.
+5:03
+Organizations with strong ethical frameworks that we discussed in week three and genuine stakeholder engagements are best positioned in this world.
+5:09
+Four scenarios for fundamentally different strategic environments.
+5:19
+As you review the detail module materials,
+5:24
+pay attention to which one resonates with your industry context and start thinking about which one you will build your assignment around.
+5:26

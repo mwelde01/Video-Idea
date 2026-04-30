@@ -1,0 +1,41 @@
+The Case for Scenario Planning Over Prediction
+
+Let me start with a comparison.
+0:03
+Dario Amadi, the CEO of anthropic, describes a near future in which AI becomes, in his words, a country of geniuses in a data center.
+0:10
+He sees powerful AI arriving within 1 to 2 years.
+0:19
+Meanwhile, Darren Oscar Moghalu, an MIT economist and Nobel laureate, projects I will add about a half of a percent to activity over the next decade.
+0:23
+Both of these are serious, uh, in rigor, rigorous analysis,
+0:33
+and they arrive it completely different conclusions about what the next 5 to 10 years may look like.
+0:39
+Why do predictions fail? The natural response is to pick a viewpoint, uh, from one which you believe in and plan accordingly.
+0:45
+But this is exactly the wrong move. Single point forecasts create dangerous illusions of certainty.
+0:53
+The company that assumes AI is going to plateau may find itself out competed by organizations that prepared for acceleration.
+0:59
+A company that assumes exponential growth may over invest and collapse when progress stalls it.
+1:07
+Jock Jack Clark, the co-founder of anthropic, argues leaders need to hold two truths simultaneously.
+1:13
+I may be transformational in AI, may create real harm.
+1:20
+Leadership means preparing for both. Scenario planning offers a different approach.
+1:25
+Instead of asking what will happen, it asks what could happen and how would we we respond.
+1:31
+This is the same methodology shell used to navigate the oil crisis, as the military strategists use for contingency planning,
+1:37
+and then the most sophisticated organizations use to prepare for deep uncertainty.
+1:44
+In this module, we're going to look at four distinct AI features.
+1:49
+And then in the week five assignment you'll get a chance to apply, uh, scenario planning to your, uh, future role or organization.
+1:53
+You're going to select a scenario, project yourself into the future and describe the decisions that position your organization for success.
+2:02
+It's the same structured imagination that separates reactive managers from proactive leaders.
