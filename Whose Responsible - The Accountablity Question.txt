@@ -1,0 +1,33 @@
+Now we're getting into a little more challenging territory.
+0:02
+Who's responsible for when I causes harm? You're probably familiar with the trolley problem,
+0:12
+the thought experiment where you have to decide whether to divert a trolley to, say, five people, but to kill one.
+0:18
+It's a classic ethics puzzle with no easy answer. Now apply that to AI.
+0:24
+An autonomous vehicle is about to hit a child who ran into the street.
+0:29
+You can swerve to avoid the child, but it means hitting oncoming traffic and potentially killing other passengers.
+0:33
+What should I do? More importantly, who decided what it should do and who's accountable if it makes the wrong choice?
+0:39
+These aren't hypothetical questions. They're being debated right now by engineers, ethicists, regulators, and lawyers.
+0:46
+It gets even more complex with autonomous weapons. If a smart bomb adjusts its target mid-flight and hits a school, who's responsible?
+0:54
+The commander who approved the launch. The programmers who built the targeting system.
+1:02
+The AI itself. There's a Scientific American article linked in the module that digs a little deeper into that question.
+1:07
+I encourage you to read it.
+1:13
+The last part of the module also explores how AI companies themselves are trying to answer these questions with their models.
+1:15
+The reason I'm raising this now is that accountability can't be an afterthought.
+1:23
+It has to be designed into systems from the start.
+1:28
+As you think about your personal AI statement, consider what's your responsibility when you use AI tools to make decisions or recommendations.
+1:31
+How do you maintain accountability when the AI is doing part of the work?

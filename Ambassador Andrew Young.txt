@@ -1,0 +1,3084 @@
+363
+00:33:02.790 --> 00:33:13.290
+nat.irvin@louisville.edu Irvin: Well, good evening to everyone, and thank you for joining us for this, the final, guest… final series in our spring series, The Soul of Management.
+
+364
+00:33:13.400 --> 00:33:21.239
+nat.irvin@louisville.edu Irvin: Co-hosted by, my colleague, Dr. Westina Matthews. I'm Nat Ervin here at the University of Louisville.
+
+365
+00:33:21.240 --> 00:33:34.339
+nat.irvin@louisville.edu Irvin: We're joined tonight by our dean, Amy Henley, who will bring some greetings in just a moment. Just a note for the students that if you would please stay at the end of the class after we have finished with our esteemed guests.
+
+366
+00:33:34.340 --> 00:33:47.139
+nat.irvin@louisville.edu Irvin: We'll have a few comments about your final assignment. So let me turn it over now to our dean, Amy Henley, who will bring some greetings, and then we'll be followed by Westina Matthews, our co-host for the class.
+
+367
+00:33:47.530 --> 00:33:48.640
+nat.irvin@louisville.edu Irvin: Dean Henley?
+
+368
+00:33:49.220 --> 00:33:50.770
+Amy Henley: Thank you, Dr. Irvin.
+
+369
+00:33:50.770 --> 00:34:13.880
+Amy Henley: And it is truly an honor. First, thank you, students and our guests for joining us tonight. We have an outstanding speaker for you, and as someone who has lived in Georgia for quite some time, it is a very special, personal honor to be able to introduce such a trailblazer in civil rights for the entire South.
+
+370
+00:34:13.949 --> 00:34:24.579
+Amy Henley: Particularly in Georgia. Andrew J. Young has earned worldwide recognition as a pioneer in and a champion of civil and human rights.
+
+371
+00:34:24.699 --> 00:34:35.189
+Amy Henley: Ambassador Young's lifelong dedication to service is illustrated by his extensive leadership experience over 65-plus years.
+
+372
+00:34:36.329 --> 00:34:41.329
+Amy Henley: We won't share your age. Serving as a member of Congress.
+
+373
+00:34:41.409 --> 00:35:05.519
+Amy Henley: African American U.S. Ambassador to the United Nations, Mayor of Atlanta, Ordained minister, among so many other positions. During the 1960s, Young was a key strategist and negotiator during civil rights campaigns that led to the passage of the Civil Rights Act of 1964 and the Voting Rights Act of 1965.
+
+374
+00:35:06.249 --> 00:35:25.319
+Amy Henley: Appointed as an ambassador to the United Nations in 1977, Young negotiated an end to the white minority rule in Namibia and Zimbabwe, and brought President Carter's emphasis on human rights to international diplomacy efforts.
+
+375
+00:35:25.399 --> 00:35:38.999
+Amy Henley: As a two-term mayor of Atlanta, Young brought in over 1,100 businesses, over $70 billion in foreign direct investment, and generated over a million jobs for the city.
+
+376
+00:35:39.219 --> 00:35:57.819
+Amy Henley: Ambassador Young has received honorary degrees from more than 100 universities and colleges in the U.S. and abroad, and has received various awards, including an Emmy Lifetime Achievement Award in 2011, and the Dan Sweat Award in 2017.
+
+377
+00:35:57.899 --> 00:36:05.689
+Amy Henley: His portrait also became part of the permanent collection of the Smithsonian National Portrait Gallery.
+
+378
+00:36:05.869 --> 00:36:22.749
+Amy Henley: Ambassador Young also serves on a number of boards, including, but not limited to, the Martin Luther King Center for Nonviolent Social Change, Morehouse College, Andrew Young School of Policy Studies at Georgia State, and America's
+
+379
+00:36:23.039 --> 00:36:40.799
+Amy Henley: America's March, excuse me. In 2005, he and his wife, Carolyn McLean Young, founded the Andrew J. Young Foundation to support and promote education, health, leadership, and human rights in the U.S, Africa, and the Caribbean.
+
+380
+00:36:40.909 --> 00:36:45.369
+Amy Henley: Young currently serves as the chairman of the Andrew Young Foundation.
+
+381
+00:36:45.889 --> 00:37:03.549
+Amy Henley: Finally, in 2012, Young retired from Good Works International, LLC, after well over a decade of facilitating sustainable economic development in the business sectors of the Caribbean and Africa. Young was born in 1932,
+
+382
+00:37:03.549 --> 00:37:08.249
+Amy Henley: in New Orleans, and currently lives in Atlanta with his wife, Carolyn McClain.
+
+383
+00:37:08.589 --> 00:37:18.099
+Amy Henley: He is also a father of three daughters and 1 son, a grandfather of 9, and a great-grandfather of 2.
+
+384
+00:37:18.239 --> 00:37:21.219
+Amy Henley: Please join me in welcoming Ambassador Young.
+
+385
+00:37:22.510 --> 00:37:24.059
+nat.irvin@louisville.edu Irvin: Thank you so much, Dean Headley.
+
+386
+00:37:24.590 --> 00:37:26.570
+nat.irvin@louisville.edu Irvin: Westin, I'll turn it over to you.
+
+387
+00:37:27.040 --> 00:37:28.230
+Westina Matthews: Alright.
+
+388
+00:37:28.610 --> 00:37:45.279
+Westina Matthews: Well, we're all… look at all of these claps and hearts, and everybody is so excited to have you with us, and we appreciate that, Ambassador. And what we're going to ask this time, that if you'll put your questions or comments, including the students, into chat.
+
+389
+00:37:45.430 --> 00:37:52.790
+Westina Matthews: That will work better so that we can have our time with Ambassador Young and hear what he has to say.
+
+390
+00:37:53.270 --> 00:38:09.920
+Westina Matthews: So, welcome, welcome, and thank you, Ambassador, for saying yes when I reached out to you. So, the first question we ask all of our lecturers, and you are our final one of our five-week course, is why did you say yes?
+
+391
+00:38:10.180 --> 00:38:19.129
+Westina Matthews: to being a part of this class on the soul of management, other than I invited you. You have to give another reason.
+
+392
+00:38:20.830 --> 00:38:24.639
+Andrew Young: Well, you know… I don't know what I know.
+
+393
+00:38:25.410 --> 00:38:31.620
+Andrew Young: And, I know what I've been through, And I've not had the…
+
+394
+00:38:32.590 --> 00:38:35.599
+Andrew Young: I don't think I've ever taken a management course.
+
+395
+00:38:36.290 --> 00:38:40.980
+Andrew Young: But I found myself…
+
+396
+00:38:41.100 --> 00:38:44.110
+Andrew Young: In the front lines of a civil rights movement.
+
+397
+00:38:45.030 --> 00:38:49.980
+Andrew Young: In which, is a unique kind of movement.
+
+398
+00:38:50.810 --> 00:38:55.270
+Andrew Young: That nobody had ever done before until we started doing it.
+
+399
+00:38:55.470 --> 00:38:58.160
+Andrew Young: And we did what worked.
+
+400
+00:38:58.990 --> 00:39:03.469
+Andrew Young: And, since then, I've been,
+
+401
+00:39:04.450 --> 00:39:10.739
+Andrew Young: Well, I'm, they named the Public Policy School at Georgia State University after me.
+
+402
+00:39:11.000 --> 00:39:21.349
+Andrew Young: So, I've been trying to figure out… In the public policy school, just why… we exist.
+
+403
+00:39:21.460 --> 00:39:25.469
+Andrew Young: And what is it that these young people who are coming in need?
+
+404
+00:39:25.880 --> 00:39:32.810
+Andrew Young: to kind of… and we think we've done miracles in Atlanta, in many ways we have.
+
+405
+00:39:33.140 --> 00:39:36.720
+Andrew Young: And it's actually been easy.
+
+406
+00:39:37.220 --> 00:39:39.679
+Andrew Young: Because I think we had,
+
+407
+00:39:40.290 --> 00:39:44.770
+Andrew Young: Well, more than any place I've been, the business community.
+
+408
+00:39:46.040 --> 00:39:49.990
+Andrew Young: the Black community and the academic communities.
+
+409
+00:39:50.360 --> 00:39:51.690
+Andrew Young: work together.
+
+410
+00:39:52.520 --> 00:39:57.640
+Andrew Young: And, and everything seems very informal.
+
+411
+00:39:58.070 --> 00:40:02.690
+Andrew Young: And we've had our share
+
+412
+00:40:02.990 --> 00:40:13.179
+Andrew Young: of rates. There's no question in my mind that Martin Luther King, though he never had a course in management, was basically
+
+413
+00:40:13.620 --> 00:40:14.960
+Andrew Young: Pure in heart.
+
+414
+00:40:15.630 --> 00:40:24.910
+Andrew Young: And… Was only interested in one thing, and that was the improvement Of the human race.
+
+415
+00:40:25.290 --> 00:40:28.840
+Andrew Young: And not just black or white people, but…
+
+416
+00:40:30.330 --> 00:40:34.780
+Andrew Young: We grew up on a philosophy of nonviolence.
+
+417
+00:40:35.180 --> 00:40:37.440
+Andrew Young: I grew up in New Orleans.
+
+418
+00:40:37.740 --> 00:40:42.050
+Andrew Young: And, I was sort of planted.
+
+419
+00:40:42.250 --> 00:40:49.669
+Andrew Young: in a neighborhood, that had an Irish grocery on one corner, an Italian bar on another.
+
+420
+00:40:49.800 --> 00:40:53.379
+Andrew Young: The Nazi Party headquarters was on the third corner.
+
+421
+00:40:53.670 --> 00:40:55.460
+Andrew Young: And,
+
+422
+00:40:55.770 --> 00:41:07.010
+Andrew Young: a Chevrolet repair shop on the fourth corner. And I was right in the middle, and my brother and I were the only black children in the neighborhood. We had other black families on the streets.
+
+423
+00:41:07.140 --> 00:41:09.559
+Andrew Young: But we were the only Black kids.
+
+424
+00:41:09.910 --> 00:41:15.419
+Andrew Young: And so… All my life, I've been dealing with diversity.
+
+425
+00:41:15.640 --> 00:41:22.650
+Andrew Young: Now, my father's lessons were very valuable, because he always said, don't ever lose your temper.
+
+426
+00:41:23.360 --> 00:41:24.569
+Andrew Young: In a fight.
+
+427
+00:41:25.060 --> 00:41:27.279
+Andrew Young: Don't get mad, get smart.
+
+428
+00:41:27.690 --> 00:41:31.319
+Andrew Young: If you lose your temper, the blood rushes from your head.
+
+429
+00:41:31.640 --> 00:41:38.619
+Andrew Young: To your fists, to your feet. And he was 5 feet 4, and he said, you're not gonna be any more than 5'7", or 8.
+
+430
+00:41:38.780 --> 00:41:50.169
+Andrew Young: So you're not gonna be able to beat up everybody. Anybody. He said you can probably outrun a lot of people, but you won't feel good running from a problem.
+
+431
+00:41:50.330 --> 00:41:56.070
+Andrew Young: And he said, The best thing to do is… Stay calm.
+
+432
+00:41:56.210 --> 00:42:00.500
+Andrew Young: Don't get angry, and let your mind… lead you.
+
+433
+00:42:00.800 --> 00:42:02.849
+Andrew Young: through conflicts.
+
+434
+00:42:03.190 --> 00:42:06.240
+Andrew Young: And that's worked pretty good for me.
+
+435
+00:42:07.120 --> 00:42:12.069
+Andrew Young: It worked at the UN, it worked in the Civil Rights Movement.
+
+436
+00:42:12.250 --> 00:42:16.350
+Andrew Young: And it worked as mayor.
+
+437
+00:42:16.780 --> 00:42:22.490
+Andrew Young: And it didn't mean that, things were any easier.
+
+438
+00:42:22.870 --> 00:42:33.920
+Andrew Young: It just meant that you were bound by certain ideals and principles, to find… To find a way
+
+439
+00:42:34.070 --> 00:42:42.010
+Andrew Young: To create a beloved community, a community where people could live together, learn to love each other, work together.
+
+440
+00:42:42.250 --> 00:42:43.649
+Andrew Young: play together.
+
+441
+00:42:44.220 --> 00:42:46.130
+Andrew Young: And create together.
+
+442
+00:42:46.530 --> 00:42:52.729
+Andrew Young: And it's happened.
+
+443
+00:42:53.700 --> 00:43:00.140
+Andrew Young: Now, I don't like to take credit for it, because I don't know what I did.
+
+444
+00:43:00.670 --> 00:43:06.089
+Andrew Young: But, I was basically honest.
+
+445
+00:43:06.460 --> 00:43:08.560
+Andrew Young: And I was basically…
+
+446
+00:43:11.880 --> 00:43:15.249
+Andrew Young: Well, I was basically concerned about my neighbors.
+
+447
+00:43:16.930 --> 00:43:20.139
+Andrew Young: And my, and my enemies.
+
+448
+00:43:20.540 --> 00:43:26.640
+Andrew Young: And the Civil Rights Movement gave me good preparation for that, that, I don't…
+
+449
+00:43:27.110 --> 00:43:29.079
+Andrew Young: I don't ever get mad.
+
+450
+00:43:30.510 --> 00:43:42.489
+Andrew Young: Occasionally, I come close to it with my wife. But that's only when she deliberately tries to provoke me.
+
+451
+00:43:46.270 --> 00:43:52.120
+Andrew Young: But, you know, I don't get mad with my kids, I don't get mad with my friends, I don't get mad with my enemies.
+
+452
+00:43:52.330 --> 00:43:59.520
+Andrew Young: And especially my enemies, I… I don't let my enemies… My adversaries get me upset.
+
+453
+00:44:00.210 --> 00:44:02.220
+Andrew Young: And… Pardon?
+
+454
+00:44:02.220 --> 00:44:07.980
+Westina Matthews: How do you do that? How do you not allow them to upset you? Because this has come up with the…
+
+455
+00:44:07.980 --> 00:44:08.490
+Andrew Young: is…
+
+456
+00:44:08.490 --> 00:44:09.400
+Westina Matthews: before.
+
+457
+00:44:09.400 --> 00:44:13.709
+Andrew Young: It goes back to my daddy saying, don't get mad, get smart.
+
+458
+00:44:14.430 --> 00:44:22.910
+Andrew Young: That when you… When you get angry and when you get frustrated, It… It blocks the…
+
+459
+00:44:23.560 --> 00:44:25.270
+Andrew Young: The blood to your brain.
+
+460
+00:44:26.410 --> 00:44:37.289
+Andrew Young: And you begin to react emotionally. And he says, stay calm, and let your mind read the situation.
+
+461
+00:44:37.720 --> 00:44:44.419
+Andrew Young: And… If you're upset, Chances are your opponents are upset, too.
+
+462
+00:44:44.820 --> 00:44:47.960
+Andrew Young: And you can deal with yourself better.
+
+463
+00:44:48.170 --> 00:44:54.360
+Andrew Young: If you focus on what has gotten your opponents upset, And,
+
+464
+00:44:55.340 --> 00:45:00.569
+Andrew Young: And you solve your problems by helping them solve their problems.
+
+465
+00:45:03.230 --> 00:45:13.900
+Andrew Young: And it's, and in the Civil Rights Movement, we did that deliberately.
+
+466
+00:45:14.510 --> 00:45:24.229
+Andrew Young: I mean, we went to places… well, in Birmingham, there'd be some… there'd been 60 bombings of Black people's homes.
+
+467
+00:45:24.990 --> 00:45:31.739
+Andrew Young: And… they finally came to Martin Luther King and said, you need to help us.
+
+468
+00:45:31.980 --> 00:45:34.150
+Andrew Young: We want to be non-violent.
+
+469
+00:45:34.410 --> 00:45:36.149
+Andrew Young: We don't want to be violent.
+
+470
+00:45:36.310 --> 00:45:39.339
+Andrew Young: But… we don't want to just sit here.
+
+471
+00:45:39.830 --> 00:45:44.589
+Andrew Young: And do nothing when people are throwing dynamite on our front porches.
+
+472
+00:45:44.990 --> 00:45:47.969
+Andrew Young: You know, every 2 or 3 days.
+
+473
+00:45:48.340 --> 00:45:55.540
+Andrew Young: And… So we took on the task, in 1962.
+
+474
+00:45:56.500 --> 00:45:59.429
+Andrew Young: Late 1962.
+
+475
+00:45:59.530 --> 00:46:05.140
+Andrew Young: But we knew we weren't going to have any action projects.
+
+476
+00:46:05.250 --> 00:46:07.399
+Andrew Young: Until 1963.
+
+477
+00:46:07.670 --> 00:46:10.500
+Andrew Young: And so, when we first started out.
+
+478
+00:46:10.950 --> 00:46:14.300
+Andrew Young: Dr. King turned to me and said, Andy.
+
+479
+00:46:15.400 --> 00:46:18.210
+Andrew Young: How many white people do you know in Birmingham?
+
+480
+00:46:18.990 --> 00:46:31.639
+Andrew Young: And I said, I don't know any Black people in Birmingham, much less any white people. I said, I haven't been to Birmingham. You know, I'm New Orleans, and Atlanta, and
+
+481
+00:46:31.970 --> 00:46:38.589
+Andrew Young: Tuskegee and along Highway 80, and up to Washington, but I really don't know,
+
+482
+00:46:39.160 --> 00:46:43.109
+Andrew Young: Birmingham at all. He said, well, you got,
+
+483
+00:46:43.730 --> 00:46:46.240
+Andrew Young: A month or 6 weeks to get to know some.
+
+484
+00:46:47.620 --> 00:46:49.250
+Andrew Young: Then I said, why?
+
+485
+00:46:49.520 --> 00:46:56.870
+Andrew Young: And he said, because if we're going to have Demonstrations and a protest movement.
+
+486
+00:46:57.340 --> 00:46:59.459
+Andrew Young: Probably not until March.
+
+487
+00:47:00.140 --> 00:47:05.940
+Andrew Young: We need to help them to prepare for it, so it's not a shock.
+
+488
+00:47:07.190 --> 00:47:12.369
+Andrew Young: And, I had been to a conference at the University of Michigan.
+
+489
+00:47:12.530 --> 00:47:18.099
+Andrew Young: And I met a delegation from Alabama that turned out to be Episcopalians.
+
+490
+00:47:18.760 --> 00:47:26.650
+Andrew Young: And, I took a chance and called the Episcopal Diocesan House.
+
+491
+00:47:27.210 --> 00:47:37.089
+Andrew Young: And I talked to a lady, and I said, you know, I don't know who they were, but I met a delegation from Birmingham and from the Episcopal Church.
+
+492
+00:47:37.260 --> 00:47:40.010
+Andrew Young: And she says, oh yes, I remember you.
+
+493
+00:47:41.090 --> 00:47:44.719
+Andrew Young: And I said, well, what I really want to do
+
+494
+00:47:44.930 --> 00:47:47.570
+Andrew Young: Things are not going well in Birmingham.
+
+495
+00:47:48.140 --> 00:47:56.630
+Andrew Young: And we're going to try to find a way to… Reconcile the differences.
+
+496
+00:47:56.800 --> 00:48:02.800
+Andrew Young: I said, no, that's not going to be an easy process, and I'd like to have an opportunity
+
+497
+00:48:03.090 --> 00:48:04.860
+Andrew Young: For Dr. King.
+
+498
+00:48:05.290 --> 00:48:11.610
+Andrew Young: and Reverend Abernathy to meet with the… The Episcopal Archbishop.
+
+499
+00:48:11.980 --> 00:48:17.290
+Andrew Young: and see if we can't get… him…
+
+500
+00:48:17.500 --> 00:48:21.110
+Andrew Young: To bring a delegation of business people together.
+
+501
+00:48:21.260 --> 00:48:24.689
+Andrew Young: So that we can talk about this problem in advance.
+
+502
+00:48:25.500 --> 00:48:32.800
+Andrew Young: And, she set up the meeting with me, and I convinced the…
+
+503
+00:48:32.940 --> 00:48:37.510
+Andrew Young: the Episcopal Bishop that this was… Just a conversation.
+
+504
+00:48:37.990 --> 00:48:43.910
+Andrew Young: And but we wanted to explain what our problems were, and hear what their problems were.
+
+505
+00:48:44.800 --> 00:48:53.359
+Andrew Young: And so that… That's the difference between the nonviolent movement in the South And say, what happened…
+
+506
+00:48:53.530 --> 00:48:56.030
+Andrew Young: in, Black Lives Matter.
+
+507
+00:48:56.550 --> 00:48:59.199
+Andrew Young: Black Lives Matter was sudden.
+
+508
+00:48:59.540 --> 00:49:05.470
+Andrew Young: There was an incident That nobody was prepared for, and everybody was shocked.
+
+509
+00:49:05.910 --> 00:49:14.769
+Andrew Young: to watch… Brother Floyd die with a policeman having his knee on his neck.
+
+510
+00:49:15.250 --> 00:49:21.839
+Andrew Young: And, and so, there was just an emotional reaction.
+
+511
+00:49:22.140 --> 00:49:25.820
+Andrew Young: Where people created slogans on the march.
+
+512
+00:49:26.210 --> 00:49:29.070
+Andrew Young: We didn't do that in Birmingham.
+
+513
+00:49:29.330 --> 00:49:33.729
+Andrew Young: We… we, we had 3 groups working.
+
+514
+00:49:34.410 --> 00:49:48.800
+Andrew Young: we said to the Black community, look, and Birmingham is not a… I mean, Atlanta has a half a dozen or more… well, Atlanta has more college students, I believe, than any city I know about. And… and so it's…
+
+515
+00:49:48.970 --> 00:49:54.029
+Andrew Young: In fact, 60% of the population in Atlanta has been to college.
+
+516
+00:49:54.580 --> 00:50:02.240
+Andrew Young: And that's not true in Birmingham. So in Birmingham, it was mostly, workers from the steel mills
+
+517
+00:50:02.370 --> 00:50:07.719
+Andrew Young: But veterans coming back from the war, but we worked with them
+
+518
+00:50:08.340 --> 00:50:12.060
+Andrew Young: to do what they called a Birmingham Manifesto.
+
+519
+00:50:12.520 --> 00:50:18.090
+Andrew Young: And they, they listed all of the things that were problems for them.
+
+520
+00:50:18.590 --> 00:50:21.489
+Andrew Young: At the same time, we were meeting with the…
+
+521
+00:50:22.300 --> 00:50:25.530
+Andrew Young: Ministers and the business community.
+
+522
+00:50:25.910 --> 00:50:27.920
+Andrew Young: In the… in the white community.
+
+523
+00:50:28.150 --> 00:50:33.750
+Andrew Young: And they had problems, and they had… they knew there were tension points
+
+524
+00:50:33.970 --> 00:50:38.159
+Andrew Young: with their businesses in the community, Black community.
+
+525
+00:50:38.280 --> 00:50:45.589
+Andrew Young: some of them were significant, and some of them, they agreed, didn't make sense. Like…
+
+526
+00:50:46.090 --> 00:50:48.159
+Andrew Young: If you've got two water fountains.
+
+527
+00:50:50.370 --> 00:50:55.440
+Andrew Young: And you put a sign white only on one, and black only on the other.
+
+528
+00:50:56.310 --> 00:50:58.200
+Andrew Young: And the water's the same.
+
+529
+00:50:58.670 --> 00:51:10.140
+Andrew Young: You know… That's not necessary. But there were also injustices, or unfairness is a better word.
+
+530
+00:51:10.520 --> 00:51:15.790
+Andrew Young: that, Black women Used to run the department stores.
+
+531
+00:51:16.050 --> 00:51:23.230
+Andrew Young: And they were there all year round. But they were dressed up as maids in, white smocks.
+
+532
+00:51:23.550 --> 00:51:28.450
+Andrew Young: The white girls working… Who were in and out of,
+
+533
+00:51:29.080 --> 00:51:34.129
+Andrew Young: you know, college and things like that. We're working short-term, Christmas.
+
+534
+00:51:34.400 --> 00:51:38.210
+Andrew Young: They were able to dress up in the clothes they were selling.
+
+535
+00:51:38.690 --> 00:51:48.490
+Andrew Young: And, they could close the deal with the… with the, the customer.
+
+536
+00:51:48.640 --> 00:51:51.889
+Andrew Young: And get a commission on every bit of sales they made.
+
+537
+00:51:52.410 --> 00:51:58.470
+Andrew Young: the Black folk Had to keep all the… Closed together.
+
+538
+00:51:58.720 --> 00:52:04.010
+Andrew Young: And they went… knew where they were, they ran the stock.
+
+539
+00:52:04.380 --> 00:52:06.290
+Andrew Young: Of the business.
+
+540
+00:52:06.530 --> 00:52:10.730
+Andrew Young: But they didn't get a permission and got played much less.
+
+541
+00:52:10.860 --> 00:52:18.610
+Andrew Young: So there were a series of things like that, that just didn't seem fair, and that everybody agreed were not fair.
+
+542
+00:52:19.300 --> 00:52:24.640
+Andrew Young: and so we started…
+
+543
+00:52:25.660 --> 00:52:31.500
+Andrew Young: We started with Martin Luther King leading a demonstration
+
+544
+00:52:31.620 --> 00:52:36.480
+Andrew Young: that simply started to… wanted to walk down to… to City Hall.
+
+545
+00:52:37.100 --> 00:52:41.200
+Andrew Young: And, and, and list their complaint.
+
+546
+00:52:41.670 --> 00:52:45.479
+Andrew Young: They didn't get there. They got put in jail.
+
+547
+00:52:46.150 --> 00:52:48.360
+Andrew Young: And
+
+548
+00:52:51.470 --> 00:52:56.639
+Andrew Young: We then continued our meetings with the business community, but
+
+549
+00:52:57.730 --> 00:53:01.579
+Andrew Young: When your leaders go to jail, you can't leave them in there alone.
+
+550
+00:53:02.140 --> 00:53:08.490
+Andrew Young: So, others… Who were in the movement.
+
+551
+00:53:09.680 --> 00:53:15.239
+Andrew Young: followed… The same facet process.
+
+552
+00:53:15.550 --> 00:53:22.239
+Andrew Young: Marching down to the city hall, and Bull Connor would arrest them before they got there.
+
+553
+00:53:23.870 --> 00:53:32.349
+Westina Matthews: Let me ask you a question. I'm thinking about the Civil Rights Movement. When you were mayor, you brought the Olympics to Atlanta.
+
+554
+00:53:32.550 --> 00:53:35.510
+Andrew Young: But now that's 40 years later.
+
+555
+00:53:35.510 --> 00:53:37.430
+Westina Matthews: 40 years later… Yeah.
+
+556
+00:53:37.430 --> 00:53:43.410
+Andrew Young: And we couldn't have brought the Olympics… we couldn't have brought the Olympics to Atlanta in 1960.
+
+557
+00:53:44.320 --> 00:53:46.349
+Andrew Young: Atlanta was still segregated.
+
+558
+00:53:47.030 --> 00:53:53.179
+Westina Matthews: But when you brought it, Did you use some of the same strategies you learned?
+
+559
+00:53:53.550 --> 00:53:59.990
+Westina Matthews: in the Civil Rights Movement, were you able to use any of those? Because it was so successful when you.
+
+560
+00:53:59.990 --> 00:54:03.449
+Andrew Young: What happened in Atlanta?
+
+561
+00:54:03.570 --> 00:54:17.000
+Andrew Young: Because Atlanta's leadership, the business community took the lead in Atlanta. Coca-Cola, chairman of the board of the Coca-Cola Foundation, the Woodruff Foundation.
+
+562
+00:54:17.160 --> 00:54:25.349
+Andrew Young: decided he was going to take the lead, and he asked Martin Luther King Sr, Martin's daddy.
+
+563
+00:54:25.560 --> 00:54:32.720
+Andrew Young: To be a co-chair, And he asked Calvin Craig of the Ku Klux Klan to be the other co-chair.
+
+564
+00:54:32.910 --> 00:54:41.840
+Andrew Young: And they sat together, and planned together, and they organized Atlanta block by block.
+
+565
+00:54:42.690 --> 00:54:48.050
+Andrew Young: And created a democratic structure.
+
+566
+00:54:48.440 --> 00:54:52.820
+Andrew Young: That enabled us to… the first thing we did was,
+
+567
+00:54:53.300 --> 00:54:55.719
+Andrew Young: Vote for a mass transit system.
+
+568
+00:54:56.370 --> 00:54:59.680
+Andrew Young: And we had to organize two counties.
+
+569
+00:55:00.000 --> 00:55:02.760
+Andrew Young: But it only won by 400 votes.
+
+570
+00:55:03.520 --> 00:55:12.879
+Andrew Young: But lots of negotiations, lots of compromise, but all sitting around, around the table, and it was all friendly.
+
+571
+00:55:13.430 --> 00:55:21.450
+Andrew Young: So there were no demonstrations. We had… we almost had no demonstrations in Atlanta, except the students
+
+572
+00:55:21.660 --> 00:55:23.790
+Andrew Young: Over lunch counters.
+
+573
+00:55:24.110 --> 00:55:29.659
+Andrew Young: And that was in the 60s. But by the time we got to the 70s and started
+
+574
+00:55:30.830 --> 00:55:34.380
+Andrew Young: That's when the business community almost took the leadership.
+
+575
+00:55:35.380 --> 00:55:42.729
+Andrew Young: And, and it was… it was a business process.
+
+576
+00:55:42.980 --> 00:55:48.410
+Andrew Young: I… when I became mayor, we were still involved in, mass transit.
+
+577
+00:55:48.760 --> 00:55:52.830
+Andrew Young: And… but we also were involved in,
+
+578
+00:55:53.660 --> 00:55:57.459
+Andrew Young: In trying to expand the city's road system.
+
+579
+00:55:57.850 --> 00:56:04.369
+Andrew Young: And, I say I got cussed out at least 70 times.
+
+580
+00:56:04.510 --> 00:56:10.799
+Andrew Young: I counted, you know? I mean, really. And they were all my friends.
+
+581
+00:56:11.290 --> 00:56:15.459
+Andrew Young: They were people who supported me when I was running for mayor.
+
+582
+00:56:15.590 --> 00:56:24.079
+Andrew Young: And but… Everybody wanted to get rid of traffic, but they didn't want to expand the roads.
+
+583
+00:56:24.980 --> 00:56:29.489
+Andrew Young: And we had to bite the bullet and put in an expressway system.
+
+584
+00:56:29.930 --> 00:56:32.709
+Andrew Young: Which was paid for by the federal government.
+
+585
+00:56:33.000 --> 00:56:40.229
+Andrew Young: And would shh… It was almost inadequate before we got it put in.
+
+586
+00:56:41.010 --> 00:56:47.210
+Andrew Young: Now… but, see, we… all this happened… During a time when…
+
+587
+00:56:47.860 --> 00:56:52.109
+Andrew Young: Atlanta was not standing still. When I came to Atlanta, we had
+
+588
+00:56:53.590 --> 00:56:56.369
+Andrew Young: About less than a half a million people.
+
+589
+00:56:56.660 --> 00:56:58.209
+Andrew Young: In the city limits.
+
+590
+00:56:58.580 --> 00:57:04.119
+Andrew Young: And by the time I became mayor, we were in the first million.
+
+591
+00:57:05.070 --> 00:57:09.669
+Andrew Young: And then as we began… by the time the Olympics came.
+
+592
+00:57:10.120 --> 00:57:12.640
+Andrew Young: We were 3… 2 or 3 million.
+
+593
+00:57:12.760 --> 00:57:15.610
+Andrew Young: And now, with the World Cup coming.
+
+594
+00:57:15.870 --> 00:57:24.790
+Andrew Young: We're in the neighborhood of 5 million. Well, if we hadn't started building roads, you know, 20 years ago.
+
+595
+00:57:24.920 --> 00:57:36.469
+Andrew Young: we wouldn't… this wouldn't happen, but we were able to build the roads, and that let us know we could build the Olympic… I mean, we could build the, airport.
+
+596
+00:57:36.960 --> 00:57:39.069
+Andrew Young: And when we built the airport.
+
+597
+00:57:39.460 --> 00:57:42.989
+Andrew Young: The crisis was, who was gonna build it?
+
+598
+00:57:43.470 --> 00:57:50.870
+Andrew Young: And we, we said that 25% of all of the construction
+
+599
+00:57:51.300 --> 00:57:55.370
+Andrew Young: Had to be done by minority or female-owned businesses.
+
+600
+00:57:56.010 --> 00:57:58.040
+Andrew Young: Just to build it fairly.
+
+601
+00:57:58.410 --> 00:58:01.139
+Andrew Young: Now, we didn't use any government money.
+
+602
+00:58:02.130 --> 00:58:04.189
+Andrew Young: On, the airport.
+
+603
+00:58:04.700 --> 00:58:10.659
+Andrew Young: the airport was built on Wall Street money. And so…
+
+604
+00:58:10.890 --> 00:58:16.810
+Andrew Young: We've, we were able to do things Much more efficiently.
+
+605
+00:58:17.270 --> 00:58:22.050
+Andrew Young: But I think we got about $67 billion in that airport.
+
+606
+00:58:22.370 --> 00:58:29.690
+Andrew Young: But none of it came from the state government, the city government, or the federal government. It all came from Wall Street.
+
+607
+00:58:30.100 --> 00:58:34.199
+Westina Matthews: So I'm gonna ask you one more question, then turn it over to Nat.
+
+608
+00:58:34.340 --> 00:58:51.019
+Westina Matthews: When you and I talked in February, I posed to you, what do I tell the MBA students and other groups I'm working with about how to navigate this time? How should they think about it? And you brought up
+
+609
+00:58:51.250 --> 00:58:56.569
+Westina Matthews: the, the eulogy for President Jimmy Carter.
+
+610
+00:58:56.700 --> 00:59:01.760
+Westina Matthews: And what you were asked to say, and that inspired you.
+
+611
+00:59:02.040 --> 00:59:05.930
+Westina Matthews: to tell me what I should say.
+
+612
+00:59:06.480 --> 00:59:12.569
+Westina Matthews: To not only the students here that are online, and those that are recording it, but our guests.
+
+613
+00:59:12.700 --> 00:59:24.659
+Westina Matthews: how should we be thinking about this? So could you just… I'm going to move you forward, how many more years, to then the, the eulogy for…
+
+614
+00:59:25.020 --> 00:59:26.710
+Westina Matthews: President Jimmy Carter.
+
+615
+00:59:28.440 --> 00:59:32.809
+Andrew Young: Well, I'm not sure how to answer that, but…
+
+616
+00:59:33.030 --> 00:59:35.570
+Andrew Young: We didn't ever know what we were doing.
+
+617
+00:59:36.270 --> 00:59:40.360
+Andrew Young: But we analyzed the situation together.
+
+618
+00:59:40.910 --> 00:59:43.520
+Andrew Young: And we tried to come to a consensus.
+
+619
+00:59:44.500 --> 00:59:47.299
+Andrew Young: At first, the differences were black and white.
+
+620
+00:59:47.530 --> 00:59:50.730
+Andrew Young: Then it became, how do we include women?
+
+621
+00:59:51.690 --> 01:00:04.400
+Andrew Young: And because white women were locked out of the construction opportunities in building a mass transit system or an airport as well. And
+
+622
+01:00:05.190 --> 01:00:07.750
+Andrew Young: We took it piece by piece.
+
+623
+01:00:08.240 --> 01:00:12.320
+Andrew Young: And tried to do… What was fair.
+
+624
+01:00:13.120 --> 01:00:15.529
+Andrew Young: Giving everybody an opportunity.
+
+625
+01:00:16.070 --> 01:00:18.350
+Andrew Young: And it was little things.
+
+626
+01:00:18.730 --> 01:00:21.780
+Andrew Young: We were… we were kind of stuck having trouble
+
+627
+01:00:22.170 --> 01:00:25.460
+Andrew Young: Including women in some of the big construction.
+
+628
+01:00:26.020 --> 01:00:28.510
+Andrew Young: But there was a young woman
+
+629
+01:00:28.700 --> 01:00:30.910
+Andrew Young: who was a graduate of Georgia Tech.
+
+630
+01:00:31.210 --> 01:00:34.580
+Andrew Young: She had 3 or 4 children.
+
+631
+01:00:35.100 --> 01:00:38.289
+Andrew Young: She was in the housing project, All Welfare.
+
+632
+01:00:38.620 --> 01:00:40.870
+Andrew Young: Because our husband left a…
+
+633
+01:00:41.330 --> 01:00:43.709
+Andrew Young: She happened to be white.
+
+634
+01:00:44.100 --> 01:00:55.450
+Andrew Young: And… but, in the rush to get the airport ready, for opening, we forgot…
+
+635
+01:00:55.920 --> 01:00:59.690
+Andrew Young: That we had to pave… The parking lot.
+
+636
+01:01:00.240 --> 01:01:03.740
+Andrew Young: And she applied for the job of paving the parking lots.
+
+637
+01:01:03.890 --> 01:01:09.210
+Andrew Young: And, went from being on welfare to being a millionaire.
+
+638
+01:01:09.600 --> 01:01:12.819
+Andrew Young: because,
+
+639
+01:01:14.900 --> 01:01:20.330
+Andrew Young: Everybody else had a lot of work, and we'd forgotten that, and she was prepared to do it.
+
+640
+01:01:20.450 --> 01:01:26.709
+Andrew Young: And and that's how we brought people into the economy.
+
+641
+01:01:27.390 --> 01:01:36.809
+Andrew Young: by… by being… specific and… We put percentages on it.
+
+642
+01:01:36.970 --> 01:01:44.350
+Andrew Young: The airport started with, Having a 25% minority participation.
+
+643
+01:01:44.590 --> 01:01:48.049
+Andrew Young: It probably now has over 50%.
+
+644
+01:01:49.070 --> 01:01:52.320
+Andrew Young: But nobody… I mean, it just happened because…
+
+645
+01:01:53.220 --> 01:01:59.920
+Andrew Young: the companies that were doing it got better, and they won bids, and the Olympics.
+
+646
+01:02:00.350 --> 01:02:05.200
+Andrew Young: We spent… we spent $2.5 billion on the Olympics.
+
+647
+01:02:05.510 --> 01:02:11.779
+Andrew Young: And, minority and female businesses got 41%.
+
+648
+01:02:12.440 --> 01:02:14.010
+Andrew Young: of the contracts.
+
+649
+01:02:14.500 --> 01:02:19.430
+Andrew Young: And and it… it…
+
+650
+01:02:19.610 --> 01:02:23.360
+Andrew Young: I mean, we really had more work than we had people to do it.
+
+651
+01:02:23.870 --> 01:02:32.220
+Andrew Young: But… We had included women, and we had women who were trained to do things.
+
+652
+01:02:32.460 --> 01:02:46.909
+Andrew Young: That they had not had an opportunity to do before, but on the mass transit system and the airport, they got those opportunities, and they became a part of the construction family.
+
+653
+01:02:48.170 --> 01:02:58.060
+Westina Matthews: So I'm going to remind you what you told me, though, when we talked, you said, you took me to Ephesians 4, be kind and compassionate.
+
+654
+01:02:58.340 --> 01:03:03.109
+Westina Matthews: And that's what I'm hearing you say through your journey.
+
+655
+01:03:03.470 --> 01:03:16.699
+Westina Matthews: starting even at a child in New Orleans and going, you're smart, but you are being kind and compassionate in all that you do, which is hard.
+
+656
+01:03:16.810 --> 01:03:23.720
+Westina Matthews: But I hear… I mean, if you're bringing the KKK to the table… to help plan
+
+657
+01:03:23.870 --> 01:03:27.070
+Westina Matthews: You're being open, and you're being kind.
+
+658
+01:03:27.070 --> 01:03:30.949
+Andrew Young: Oh, they had never been invited, and see, they realized…
+
+659
+01:03:31.240 --> 01:03:34.819
+Andrew Young: That poor white people had been discriminated against also.
+
+660
+01:03:35.740 --> 01:03:42.260
+Andrew Young: And so, in opening up… in fact,
+
+661
+01:03:43.370 --> 01:03:48.380
+Andrew Young: A half a dozen of the people That supported me as mayor.
+
+662
+01:03:49.270 --> 01:03:51.220
+Andrew Young: Had been poor themselves.
+
+663
+01:03:51.970 --> 01:04:01.990
+Andrew Young: And, john Portman, who ended up with a… $40 billion operation.
+
+664
+01:04:02.390 --> 01:04:07.370
+Andrew Young: started out, and he got rejected from… at Georgia Tech.
+
+665
+01:04:07.760 --> 01:04:11.000
+Andrew Young: Because he lived on the wrong side of town.
+
+666
+01:04:12.170 --> 01:04:15.269
+Andrew Young: and he got accepted at the Naval Academy.
+
+667
+01:04:15.400 --> 01:04:19.720
+Andrew Young: And the Naval Academies transferred him into Georgia Tech.
+
+668
+01:04:20.100 --> 01:04:22.429
+Andrew Young: But he would have gotten left out.
+
+669
+01:04:22.900 --> 01:04:25.960
+Andrew Young: And when he got… I mean, he built…
+
+670
+01:04:26.650 --> 01:04:32.840
+Andrew Young: Well, I think when he died, he'd built 14 skyscrapers downtown.
+
+671
+01:04:33.370 --> 01:04:46.429
+Andrew Young: and also a trade center in Hong Kong, And one in, china, oh… China… Hong Kong.
+
+672
+01:04:46.640 --> 01:04:51.360
+Andrew Young: His son had worked in India, And,
+
+673
+01:04:51.960 --> 01:04:54.390
+Andrew Young: I mean, they were a global operation.
+
+674
+01:04:54.520 --> 01:04:57.620
+Andrew Young: But he used to like to tell stories about
+
+675
+01:04:58.630 --> 01:05:04.400
+Andrew Young: Riding his bicycle around in downtown, delivering newspapers.
+
+676
+01:05:04.760 --> 01:05:05.980
+Andrew Young: As a boy.
+
+677
+01:05:06.170 --> 01:05:10.579
+Andrew Young: And saying that he, one day, he wanted to rebuild downtown.
+
+678
+01:05:11.450 --> 01:05:12.820
+Andrew Young: And did.
+
+679
+01:05:13.650 --> 01:05:21.639
+Andrew Young: So that… that what happened was, when we started thinking about opportunities for Black people.
+
+680
+01:05:23.050 --> 01:05:26.469
+Andrew Young: We… we thought about opportunities for everybody else.
+
+681
+01:05:28.870 --> 01:05:32.550
+Westina Matthews: Yes, the tent is large. I want to make sure that,
+
+682
+01:05:32.840 --> 01:05:40.699
+Westina Matthews: Nat can ask a question of you, because we could just listen to you forever, and I want to make sure if students have any questions, we can…
+
+683
+01:05:40.700 --> 01:05:48.780
+nat.irvin@louisville.edu Irvin: Absolutely. Ambassador Young, over this wonderful journey that you have lived and continue to live.
+
+684
+01:05:48.950 --> 01:06:07.379
+nat.irvin@louisville.edu Irvin: One of the themes that continues to come up when you're being interviewed is, you know, words like bravery, courage, and the idea that you have this wealth of spirituality that has guided you. Would you talk a little bit about how your spiritual self
+
+685
+01:06:07.630 --> 01:06:18.059
+nat.irvin@louisville.edu Irvin: Has been your… a part of your management that you didn't know anything about, but somehow or another has guided you to over these many, many years.
+
+686
+01:06:18.810 --> 01:06:22.570
+Andrew Young: Well, you know, I happened to be born into a praying family.
+
+687
+01:06:23.220 --> 01:06:30.550
+Andrew Young: I preached at my church last Sunday, and I said, you know, one of the things I think is wrong with me
+
+688
+01:06:30.820 --> 01:06:35.769
+Andrew Young: is that I got so busy that I quit getting down on my knees praying.
+
+689
+01:06:35.770 --> 01:06:36.400
+nat.irvin@louisville.edu Irvin: Whoa.
+
+690
+01:06:36.750 --> 01:06:39.120
+Andrew Young: My mama lived to 87.
+
+691
+01:06:39.640 --> 01:06:44.839
+Andrew Young: My dad at 86, and even when they couldn't walk.
+
+692
+01:06:44.950 --> 01:06:47.419
+Andrew Young: They would get out on their knees and pray.
+
+693
+01:06:47.710 --> 01:06:52.499
+Andrew Young: My grandmother did the same, and she lived until she was almost 90.
+
+694
+01:06:52.720 --> 01:06:55.860
+Andrew Young: I don't know when I quit.
+
+695
+01:06:56.290 --> 01:07:05.150
+Andrew Young: But it's not that I don't pray, but it's that… it, I pray walking around.
+
+696
+01:07:05.870 --> 01:07:08.529
+Andrew Young: I pray laying in bed when I can't sleep.
+
+697
+01:07:09.270 --> 01:07:16.550
+Andrew Young: And well, I was… I went to a theological seminary.
+
+698
+01:07:16.730 --> 01:07:21.020
+Andrew Young: that was, had a large Quaker influence.
+
+699
+01:07:21.700 --> 01:07:33.939
+Andrew Young: And… preaching, I mean, prayer, became more listening to God, than talking to God.
+
+700
+01:07:34.550 --> 01:07:41.529
+Andrew Young: And when you get… when I get down on my knees, I had some prayers I had to say. When I lay in the bed and can't sleep.
+
+701
+01:07:42.190 --> 01:07:47.170
+Andrew Young: It's though I'm meditating, And,
+
+702
+01:07:49.010 --> 01:07:53.820
+Andrew Young: And I hope the Spirit is communicating with me.
+
+703
+01:07:57.250 --> 01:07:57.900
+Westina Matthews: button.
+
+704
+01:07:57.900 --> 01:08:02.229
+Andrew Young: But I get some of my best ideas, and some of my strangest ideas.
+
+705
+01:08:02.400 --> 01:08:07.539
+Andrew Young: You know, when I can't sleep at night, so I… I don't worry about not sleeping.
+
+706
+01:08:08.100 --> 01:08:13.339
+Andrew Young: That… that is my time for…
+
+707
+01:08:14.780 --> 01:08:18.279
+Andrew Young: Kind of relaxing and opening up my spiritual life.
+
+708
+01:08:18.439 --> 01:08:22.890
+Andrew Young: And, and… And just letting ideas flow.
+
+709
+01:08:26.649 --> 01:08:30.609
+nat.irvin@louisville.edu Irvin: Did you, did you ever consider yourself to be brave?
+
+710
+01:08:31.290 --> 01:08:32.060
+Andrew Young: Huh?
+
+711
+01:08:32.250 --> 01:08:34.800
+nat.irvin@louisville.edu Irvin: Did you ever consider yourself to be brave?
+
+712
+01:08:35.260 --> 01:08:36.189
+Andrew Young: Brave?
+
+713
+01:08:39.410 --> 01:08:41.360
+Andrew Young: Well, yes and no.
+
+714
+01:08:41.880 --> 01:08:47.709
+Andrew Young: I tell ya, I got beat up in St. Augustine in 1962.
+
+715
+01:08:49.080 --> 01:08:50.539
+Andrew Young: Yo, yeah.
+
+716
+01:08:50.819 --> 01:08:52.479
+Andrew Young: No, 64.
+
+717
+01:08:53.200 --> 01:08:57.620
+Andrew Young: And, I didn't get beat up. I didn't go to jail in Birmingham.
+
+718
+01:08:57.870 --> 01:09:14.280
+Andrew Young: And everybody used to kid me about it, and I said, but Dr. King didn't want me to go to jail. He said, no, you have to stay out of jail and make sure if I'm in jail that everything's going alright. And so I never went to jail, and then I went… I went down to St. Augustine, Florida.
+
+719
+01:09:14.569 --> 01:09:18.660
+Andrew Young: To stop a movement.
+
+720
+01:09:19.569 --> 01:09:25.719
+Andrew Young: And, because the Civil Rights Bill
+
+721
+01:09:25.990 --> 01:09:31.650
+Andrew Young: was on the floor of the Senate being filibustered, and we didn't want any
+
+722
+01:09:31.850 --> 01:09:37.979
+Andrew Young: racial violence to break out, because it would have lost… it would have cost us the civil rights bill.
+
+723
+01:09:38.279 --> 01:09:43.800
+Andrew Young: And so, when I went down to St. Augustine to try to stop them from demonstration.
+
+724
+01:09:44.189 --> 01:09:47.309
+Andrew Young: They had been beat up and knocked around, and…
+
+725
+01:09:48.620 --> 01:09:56.839
+Andrew Young: For a long time, and there were… there were two elderly ladies. Well, now one of them's 102, and the other's 101.
+
+726
+01:09:57.170 --> 01:10:06.400
+Andrew Young: And they were the leaders of the movement. They were in there… well, that was… you can do the math better than I can. But,
+
+727
+01:10:06.650 --> 01:10:09.739
+Andrew Young: I don't know how old they were, but they were older ladies.
+
+728
+01:10:10.310 --> 01:10:12.610
+Andrew Young: But they were leading the movement.
+
+729
+01:10:13.320 --> 01:10:17.850
+Andrew Young: And the men… Said they couldn't be non-violent.
+
+730
+01:10:18.450 --> 01:10:28.000
+Andrew Young: And they would, they would, they wouldn't march, because, they couldn't… Couldn't stand the nonviolence.
+
+731
+01:10:28.460 --> 01:10:37.049
+Andrew Young: And, but these women kept on, and they were younger… younger boys and girls.
+
+732
+01:10:37.170 --> 01:10:41.470
+Andrew Young: marching with them. So I went down my air, and
+
+733
+01:10:42.380 --> 01:10:46.019
+Andrew Young: they would determine the march, and there was a Klan meeting in the…
+
+734
+01:10:46.820 --> 01:10:50.820
+Andrew Young: in the parking lot, I mean, in the… a park.
+
+735
+01:10:51.440 --> 01:10:54.579
+Andrew Young: And, we had been walking around the park.
+
+736
+01:10:55.150 --> 01:10:59.080
+Andrew Young: And they… decided they were gonna stop us.
+
+737
+01:10:59.320 --> 01:11:04.860
+Andrew Young: Well, I went over… I left the women and children on one side.
+
+738
+01:11:05.140 --> 01:11:07.699
+Andrew Young: And I crossed over the street by myself.
+
+739
+01:11:08.000 --> 01:11:11.410
+Andrew Young: And I really… I don't know what I thought. I thought…
+
+740
+01:11:12.070 --> 01:11:16.029
+Andrew Young: I could explain to them that we are not hurting them, that…
+
+741
+01:11:16.370 --> 01:11:20.459
+Andrew Young: And I started talking, but I didn't get far.
+
+742
+01:11:20.810 --> 01:11:25.019
+Andrew Young: Because somebody came up behind me and hit me, and then I fell, and…
+
+743
+01:11:25.750 --> 01:11:31.260
+Andrew Young: I realized later that they kicked me around for… 5 or 10 minutes.
+
+744
+01:11:31.830 --> 01:11:37.830
+Andrew Young: But… When I got up,
+
+745
+01:11:38.450 --> 01:11:40.500
+Andrew Young: I have headaches all the time.
+
+746
+01:11:40.720 --> 01:11:48.250
+Andrew Young: And I didn't even have a headache. And I had bruises on my body, but I wasn't hurting anywhere.
+
+747
+01:11:48.800 --> 01:11:55.750
+Andrew Young: And, it, well…
+
+748
+01:11:58.940 --> 01:12:01.480
+Andrew Young: We finally went to the next corner.
+
+749
+01:12:01.670 --> 01:12:04.249
+Andrew Young: And there was a different… well, the…
+
+750
+01:12:04.450 --> 01:12:07.490
+Andrew Young: The sheriff had paid the Ku Klux Klan
+
+751
+01:12:08.030 --> 01:12:15.279
+Andrew Young: to stop us at this first corner. It was the city police at the second corner, and there was a big guy
+
+752
+01:12:15.860 --> 01:12:19.809
+Andrew Young: the biggest policeman I've seen, except in Detroit.
+
+753
+01:12:19.930 --> 01:12:24.110
+Andrew Young: He was about 6'5", and really well built.
+
+754
+01:12:24.550 --> 01:12:30.339
+Andrew Young: And, he was from New York, And so he was not…
+
+755
+01:12:30.880 --> 01:12:35.960
+Andrew Young: he was not part of the Klan group, and the sheriff. The police chief
+
+756
+01:12:37.380 --> 01:12:42.970
+Andrew Young: And the city council were trying to move the city
+
+757
+01:12:43.230 --> 01:12:50.989
+Andrew Young: It was the 400th anniversary of St. Augustine, which is… labeled America's oldest city.
+
+758
+01:12:51.310 --> 01:12:58.989
+Andrew Young: And they were expecting President Johnson to come down, they had a visit, and they were trying to keep things peaceful.
+
+759
+01:12:59.480 --> 01:13:03.110
+Andrew Young: the, the sheriff and his crowd.
+
+760
+01:13:03.560 --> 01:13:14.240
+Andrew Young: didn't… didn't want peace. They wanted to stir things up. And, that night…
+
+761
+01:13:14.450 --> 01:13:24.960
+Andrew Young: the sheriff wouldn't let us through with the Klan, but the police chief and the, the city officials
+
+762
+01:13:25.160 --> 01:13:33.580
+Andrew Young: Let us go through, but they… they, it was a rough night.
+
+763
+01:13:34.060 --> 01:13:36.509
+Andrew Young: And a lot of… a lot of people got hurt.
+
+764
+01:13:37.090 --> 01:13:46.389
+Andrew Young: But, they insisted on marching Around that slave market.
+
+765
+01:13:46.840 --> 01:13:52.409
+Andrew Young: just in spite of the Ku Klux Klan.
+
+766
+01:13:52.540 --> 01:14:02.080
+Andrew Young: And, that worked out, then… but… I think that was a…
+
+767
+01:14:02.390 --> 01:14:06.579
+Andrew Young: Monday night, and there were a couple of other things.
+
+768
+01:14:07.090 --> 01:14:12.620
+Andrew Young: That happened in the middle of the week, but… No violence on our part.
+
+769
+01:14:13.360 --> 01:14:20.049
+Andrew Young: And, the Klan decided they were gonna march through the Black community.
+
+770
+01:14:20.170 --> 01:14:22.960
+Andrew Young: Because they really wanted to stir up trouble.
+
+771
+01:14:23.340 --> 01:14:27.479
+Andrew Young: And the Black men would not march with us downtown.
+
+772
+01:14:27.720 --> 01:14:33.219
+Andrew Young: But… They thought they could provoke them into violence.
+
+773
+01:14:33.850 --> 01:14:38.580
+Andrew Young: And, these same two ladies…
+
+774
+01:14:41.080 --> 01:14:44.289
+Andrew Young: And, one of them is Cora Tyson.
+
+775
+01:14:44.750 --> 01:14:46.990
+Andrew Young: Oh, I think it's 102.
+
+776
+01:14:47.430 --> 01:14:50.699
+Andrew Young: Now, they started singing.
+
+777
+01:14:50.940 --> 01:14:54.450
+Andrew Young: I love everybody, I love everybody in my heart.
+
+778
+01:14:55.320 --> 01:15:09.150
+Andrew Young: I feel the fire burning. I feel the fire burning in my heart. You can't make me doubt Him, because I know too much about Him. I got the love of Jesus in my heart. And when you have 200 or 300
+
+779
+01:15:09.510 --> 01:15:11.350
+Andrew Young: Beautiful voices.
+
+780
+01:15:11.600 --> 01:15:17.180
+Andrew Young: singing on the sideline, and the Klan marching down the middle.
+
+781
+01:15:17.320 --> 01:15:23.009
+Andrew Young: It was exactly what they could… it's the one thing they couldn't deal with.
+
+782
+01:15:23.370 --> 01:15:29.159
+Andrew Young: was… Being appreciated, being loved, being respected.
+
+783
+01:15:29.390 --> 01:15:34.210
+Andrew Young: And it, it, it, it turned the whole city around.
+
+784
+01:15:34.430 --> 01:15:38.040
+Andrew Young: Just that whole one-week sequence, and…
+
+785
+01:15:38.260 --> 01:15:40.570
+Andrew Young: And that's what was on the paper.
+
+786
+01:15:41.130 --> 01:15:45.480
+Andrew Young: I think Monday was the 4th of July.
+
+787
+01:15:46.290 --> 01:15:52.149
+Andrew Young: And, it had been on the paper since Saturday, Sunday, and Monday. And,
+
+788
+01:15:53.390 --> 01:15:57.159
+Andrew Young: the Senate ended their filibuster Tuesday.
+
+789
+01:15:57.160 --> 01:15:57.600
+nat.irvin@louisville.edu Irvin: Hmm.
+
+790
+01:15:57.600 --> 01:16:07.300
+Andrew Young: passed the 1964 Civil Rights Act. Wow. But it was… It was spiritual power.
+
+791
+01:16:08.240 --> 01:16:10.600
+Andrew Young: And love versus hate.
+
+792
+01:16:11.640 --> 01:16:23.000
+Andrew Young: when, when the… we were trying to march Through the mob… one of the Klansmen shouted.
+
+793
+01:16:23.530 --> 01:16:26.350
+Andrew Young: Damn, them niggas got some nerve.
+
+794
+01:16:26.840 --> 01:16:29.260
+Andrew Young: And this lady who was,
+
+795
+01:16:30.150 --> 01:16:37.090
+Andrew Young: In the front of the line, right behind me, said… she shouted out just as loud.
+
+796
+01:16:37.290 --> 01:16:40.629
+Andrew Young: It ain't nerves, son, it's faith.
+
+797
+01:16:41.630 --> 01:16:42.270
+nat.irvin@louisville.edu Irvin: Wow.
+
+798
+01:16:42.270 --> 01:16:42.860
+Andrew Young: Say.
+
+799
+01:16:42.860 --> 01:16:43.840
+nat.irvin@louisville.edu Irvin: Wow, wow.
+
+800
+01:16:44.030 --> 01:16:48.189
+Andrew Young: And, and we, we,
+
+801
+01:16:49.020 --> 01:16:55.660
+Andrew Young: I mean, that's how… that was the last weekend before the Civil Rights Bill was passed in Washington.
+
+802
+01:16:56.610 --> 01:16:57.240
+Westina Matthews: Hmm.
+
+803
+01:16:57.240 --> 01:17:00.410
+nat.irvin@louisville.edu Irvin: you, shared not long ago.
+
+804
+01:17:01.260 --> 01:17:05.409
+nat.irvin@louisville.edu Irvin: your experience of being with Dr. King, When he was shot.
+
+805
+01:17:06.580 --> 01:17:09.870
+nat.irvin@louisville.edu Irvin: I was just wondering if you wouldn't mind just sharing with our audience.
+
+806
+01:17:10.570 --> 01:17:15.780
+nat.irvin@louisville.edu Irvin: Your reflections on the spiritual, Aspects of that moment.
+
+807
+01:17:17.310 --> 01:17:19.229
+Andrew Young: Well, you know, I, I,
+
+808
+01:17:19.470 --> 01:17:22.580
+Andrew Young: My mother was superintendent of the Sunday school.
+
+809
+01:17:22.860 --> 01:17:27.940
+Andrew Young: When I was growing up, and I… when I was about 8 or 9 years old.
+
+810
+01:17:28.880 --> 01:17:31.819
+Andrew Young: there was a lesson on Elisha.
+
+811
+01:17:35.270 --> 01:17:37.870
+Andrew Young: Go into heaven on a flaming chariot.
+
+812
+01:17:40.480 --> 01:17:48.889
+Andrew Young: And, I said, as a… Smartass little boy.
+
+813
+01:17:49.010 --> 01:17:50.420
+Andrew Young: I don't believe that.
+
+814
+01:17:50.690 --> 01:17:53.289
+Andrew Young: And they put me out of Sunday school.
+
+815
+01:17:54.370 --> 01:17:57.360
+Andrew Young: They sent me to the superintendent, who was my mother.
+
+816
+01:17:57.800 --> 01:18:02.739
+Andrew Young: And she said, you'll, you learn one day.
+
+817
+01:18:03.460 --> 01:18:05.750
+Andrew Young: And made me go sit in a church.
+
+818
+01:18:05.950 --> 01:18:07.740
+Andrew Young: Till Sunday school was over.
+
+819
+01:18:08.480 --> 01:18:11.990
+Andrew Young: That's the first thing I thought of when I saw Dr. King's shot.
+
+820
+01:18:13.080 --> 01:18:19.120
+Andrew Young: that… The bullet hit… The tip of his chin.
+
+821
+01:18:19.420 --> 01:18:21.530
+Andrew Young: And severity spinal cord.
+
+822
+01:18:22.520 --> 01:18:24.480
+Andrew Young: And he was laying there.
+
+823
+01:18:24.870 --> 01:18:26.070
+Andrew Young: his body.
+
+824
+01:18:27.050 --> 01:18:32.959
+Andrew Young: With this… this hole in it.
+
+825
+01:18:33.770 --> 01:18:35.090
+Andrew Young: cleaved away.
+
+826
+01:18:35.330 --> 01:18:37.729
+Andrew Young: And you could see his spinal column.
+
+827
+01:18:38.620 --> 01:18:41.959
+Andrew Young: And… It suddenly hit me.
+
+828
+01:18:42.190 --> 01:18:44.210
+Andrew Young: That he didn't hear anything.
+
+829
+01:18:44.820 --> 01:18:49.770
+Andrew Young: And because… because… Bullets travel fast and sound.
+
+830
+01:18:50.490 --> 01:18:54.839
+Andrew Young: And… He might not have even felt anything.
+
+831
+01:18:55.420 --> 01:18:58.070
+Andrew Young: Because his spinal cord was severed.
+
+832
+01:18:59.080 --> 01:19:00.340
+Andrew Young: by the bullet.
+
+833
+01:19:00.640 --> 01:19:03.169
+Andrew Young: Before his ears could react to it.
+
+834
+01:19:03.810 --> 01:19:09.030
+Andrew Young: And… the first thing I thought of, I said to myself, damn.
+
+835
+01:19:09.570 --> 01:19:12.870
+Andrew Young: Martin had gone to heaven in a flaming chariot.
+
+836
+01:19:13.490 --> 01:19:19.629
+Andrew Young: Because he always kept going back to Memphis, and… and I… I didn't like Memphis.
+
+837
+01:19:19.880 --> 01:19:20.630
+nat.irvin@louisville.edu Irvin: Hmm.
+
+838
+01:19:20.630 --> 01:19:24.939
+Andrew Young: And… but he was drawn to the…
+
+839
+01:19:25.400 --> 01:19:28.400
+Andrew Young: The problems of the sanitation workers.
+
+840
+01:19:29.430 --> 01:19:34.999
+Andrew Young: and, they were not being treated fairly.
+
+841
+01:19:35.730 --> 01:19:46.899
+Andrew Young: And, with everything he had to do, he kept Being drawn back to the… Sanitation workers and members.
+
+842
+01:19:47.290 --> 01:19:52.390
+Andrew Young: And, standing on that balcony, you're looking up.
+
+843
+01:19:52.680 --> 01:20:00.239
+Andrew Young: When you look to the west, that the Mississippi River's… Down below the trees.
+
+844
+01:20:00.710 --> 01:20:07.740
+Andrew Young: But… that sunset… Flaming sky.
+
+845
+01:20:08.200 --> 01:20:12.550
+Andrew Young: That occurs about 6 o'clock in the evening.
+
+846
+01:20:13.180 --> 01:20:21.590
+Andrew Young: reminded me of… That Bible passage.
+
+847
+01:20:21.780 --> 01:20:26.760
+Andrew Young: And, that's the way I've dealt with his death.
+
+848
+01:20:27.790 --> 01:20:30.220
+Andrew Young: that I don't think he felt any pain.
+
+849
+01:20:31.200 --> 01:20:38.950
+Andrew Young: I don't think… This is the end of Martin Luther King.
+
+850
+01:20:39.250 --> 01:20:45.059
+Andrew Young: There's hardly been a day in my life since then, and that was, what, 58 years ago?
+
+851
+01:20:45.220 --> 01:20:48.360
+Andrew Young: Something… well, it's 1968.
+
+852
+01:20:48.670 --> 01:20:55.319
+Andrew Young: My addition and subtraction's not good, but it's… it's about 58 years ago, something like that.
+
+853
+01:20:55.770 --> 01:21:03.010
+Andrew Young: And, I don't think he's gone far.
+
+854
+01:21:04.270 --> 01:21:07.300
+Andrew Young: See, I think the spirit of Martin Luther King
+
+855
+01:21:07.460 --> 01:21:11.419
+Andrew Young: guided every movement I made as mayor of Atlanta.
+
+856
+01:21:11.610 --> 01:21:12.280
+nat.irvin@louisville.edu Irvin: Hmm.
+
+857
+01:21:12.280 --> 01:21:14.940
+Andrew Young: everything I did at the UN
+
+858
+01:21:15.450 --> 01:21:19.480
+Andrew Young: I found myself drawing on experiences I'd had with him.
+
+859
+01:21:19.970 --> 01:21:25.969
+Andrew Young: And, and I found myself in some dangerous situations.
+
+860
+01:21:26.210 --> 01:21:28.610
+Andrew Young: But I never thought of him as dangerous.
+
+861
+01:21:29.590 --> 01:21:34.920
+Andrew Young: and, I mean, admit, When there was a…
+
+862
+01:21:35.170 --> 01:21:39.759
+Andrew Young: In one country, they were putting the oil companies out.
+
+863
+01:21:39.970 --> 01:21:41.970
+Andrew Young: And they wanted to take the oil.
+
+864
+01:21:42.430 --> 01:21:43.290
+Andrew Young: Pump.
+
+865
+01:21:44.020 --> 01:21:45.889
+Andrew Young: and give it to China.
+
+866
+01:21:46.470 --> 01:21:55.490
+Andrew Young: And, in Chad, And the Chad Prime Minister, president, was…
+
+867
+01:21:56.080 --> 01:21:57.820
+Andrew Young: Well, he was younger than me.
+
+868
+01:21:58.280 --> 01:22:00.910
+Andrew Young: And a kind of hot-headed kid.
+
+869
+01:22:01.280 --> 01:22:11.880
+Andrew Young: Who had, he'd made war against Gaddafi. And
+
+870
+01:22:12.900 --> 01:22:15.220
+Andrew Young: I mean, he was just rambunctious.
+
+871
+01:22:15.640 --> 01:22:22.850
+Andrew Young: But, I… I had to go talk to him.
+
+872
+01:22:23.320 --> 01:22:26.430
+Andrew Young: And, convince him…
+
+873
+01:22:26.680 --> 01:22:34.169
+Andrew Young: that it would be better to keep the oil coming to the United States. This was about 1977?
+
+874
+01:22:34.490 --> 01:22:41.979
+Andrew Young: 70… when, there was… there was another oil embargo like there is now.
+
+875
+01:22:42.110 --> 01:22:48.769
+Andrew Young: And this would cut all… And I was trying to keep the oil flowing, the African oil flowing.
+
+876
+01:22:49.230 --> 01:22:57.530
+Andrew Young: And so I was talking with Angola, and Chad, and Nigeria… well, Nigeria hadn't really pumped…
+
+877
+01:22:57.750 --> 01:23:05.220
+Andrew Young: pumped up, as much. They were just getting started. But we kept the oil flowing.
+
+878
+01:23:05.810 --> 01:23:09.830
+Andrew Young: And all of these folk, Had some grievance.
+
+879
+01:23:10.330 --> 01:23:16.179
+Andrew Young: And in Angola, the U.S. was refusing to back
+
+880
+01:23:16.790 --> 01:23:18.869
+Andrew Young: The people who had the oil.
+
+881
+01:23:19.090 --> 01:23:28.340
+Andrew Young: And they were instead, this was before President Carter, backing South Africa to control Angola's oil.
+
+882
+01:23:28.740 --> 01:23:32.550
+Andrew Young: And, we got Angola.
+
+883
+01:23:33.070 --> 01:23:44.389
+Andrew Young: to let Chevron… pump oil… Continue bumping oil, put the money In a trust fund.
+
+884
+01:23:44.660 --> 01:23:49.120
+Andrew Young: the Angola… Petro Trust.
+
+885
+01:23:49.760 --> 01:23:53.430
+Andrew Young: And nobody could spend it until the war was settled.
+
+886
+01:23:54.030 --> 01:23:56.599
+Andrew Young: But we kept oil flowing, and…
+
+887
+01:23:56.750 --> 01:24:05.879
+Andrew Young: There were… there were all kinds of things, there were all kinds of people who normally You wouldn't consider…
+
+888
+01:24:06.730 --> 01:24:08.220
+Andrew Young: All that's saying.
+
+889
+01:24:09.920 --> 01:24:13.839
+Andrew Young: But, you know, I got along with them.
+
+890
+01:24:13.840 --> 01:24:15.170
+nat.irvin@louisville.edu Irvin: Mmm.
+
+891
+01:24:15.380 --> 01:24:21.089
+Andrew Young: And, and I don't know, I just…
+
+892
+01:24:21.920 --> 01:24:35.990
+Andrew Young: Even with South Africa, nobody wanted to meet with the white South African government, but Pierre Mikara had said he wanted me to meet with as many African presidents as possible, and I said, I can't go to Africa
+
+893
+01:24:36.070 --> 01:24:43.419
+Andrew Young: and meet with everybody Black, and discriminate against the white South Africans. The,
+
+894
+01:24:44.140 --> 01:24:49.640
+Andrew Young: And so I told the ambassador, I said, look, I can't come here
+
+895
+01:24:50.300 --> 01:24:53.079
+Andrew Young: And not talk to the president of South Africa.
+
+896
+01:24:54.060 --> 01:24:58.479
+Andrew Young: and he said, well, we don't have anything to do with them.
+
+897
+01:24:58.680 --> 01:25:00.430
+Andrew Young: I said, well, we need to.
+
+898
+01:25:00.630 --> 01:25:01.260
+nat.irvin@louisville.edu Irvin: Hmm.
+
+899
+01:25:01.260 --> 01:25:06.730
+Andrew Young: And so, I… I said, give me his phone number.
+
+900
+01:25:07.440 --> 01:25:13.610
+Andrew Young: You have his phone number. I said, let's get him on the phone. And I called, and
+
+901
+01:25:13.810 --> 01:25:18.300
+Andrew Young: asked… told him who I was, and asked him if I could come over and speak with him.
+
+902
+01:25:18.810 --> 01:25:22.470
+Andrew Young: And he said, how many… how many people with you?
+
+903
+01:25:22.690 --> 01:25:28.590
+Andrew Young: I said, well, I'm by myself, or I can bring the ambassador. He said, no, you come.
+
+904
+01:25:29.390 --> 01:25:33.920
+Andrew Young: So they dropped me off outside of his office, and I just went on, knocked on the door.
+
+905
+01:25:34.050 --> 01:25:38.540
+Andrew Young: And, we had a very interesting hour.
+
+906
+01:25:38.880 --> 01:25:42.580
+Andrew Young: But it wasn't friendly.
+
+907
+01:25:42.580 --> 01:25:56.310
+Westina Matthews: Let me ask you something, Ambassador. I mean, I'm watching the time. You've… you've shared your… you've been fearless. Oh, that's the word that I'll describe, that you… What's that? You've been fearless. Fearless.
+
+908
+01:25:56.310 --> 01:25:57.380
+Andrew Young: I don't know.
+
+909
+01:25:57.620 --> 01:25:59.120
+Westina Matthews: Well, that's what I was gonna ask you.
+
+910
+01:25:59.120 --> 01:26:01.450
+Andrew Young: There's another word that means the same thing.
+
+911
+01:26:01.450 --> 01:26:10.179
+Westina Matthews: Well, I wanted to just probe a little bit about that, because some of what the… our MBA students have talked about is
+
+912
+01:26:11.120 --> 01:26:15.389
+Westina Matthews: Mmm, wondering if they're really prepared to step into the moment.
+
+913
+01:26:15.400 --> 01:26:33.639
+Westina Matthews: You know, that imposter syndrome. And yet, there you are, sharing your own life journey and history of stepping into the moment. How do you do that? What is, in these high-pressure situations, how are you able to do all of this?
+
+914
+01:26:33.640 --> 01:26:36.890
+Andrew Young: you know… Born in New Orleans.
+
+915
+01:26:37.400 --> 01:26:42.270
+Andrew Young: with Irish Grocery Store, Nazi Party, You know, Italian bar.
+
+916
+01:26:42.660 --> 01:26:46.799
+Andrew Young: And being the only Black kids, me and Walter.
+
+917
+01:26:47.080 --> 01:26:51.780
+Andrew Young: Oh… You, you learn to get along with people.
+
+918
+01:26:52.300 --> 01:26:56.670
+Andrew Young: And my daddy was right, don't ever act like you're afraid.
+
+919
+01:26:57.190 --> 01:26:57.790
+nat.irvin@louisville.edu Irvin: Mmm.
+
+920
+01:26:57.790 --> 01:27:00.500
+Andrew Young: See, and I don't know.
+
+921
+01:27:00.790 --> 01:27:03.909
+Andrew Young: I wasn't particularly afraid of me. He can't do it yet.
+
+922
+01:27:04.010 --> 01:27:08.999
+Andrew Young: Because… The thing… all you can do is get killed.
+
+923
+01:27:09.650 --> 01:27:18.749
+Andrew Young: And if you believe… if you have a Christian background, and you believe that there's life beyond this, in fact, I can't conceive
+
+924
+01:27:19.000 --> 01:27:22.900
+Andrew Young: Of there not being something beyond this life.
+
+925
+01:27:23.270 --> 01:27:23.830
+Westina Matthews: Hmm.
+
+926
+01:27:23.980 --> 01:27:30.729
+Andrew Young: You know, no matter what your concept of God in fact.
+
+927
+01:27:31.470 --> 01:27:39.070
+Andrew Young: That was the high school I went to. In 8th grade, they, the science teacher said,
+
+928
+01:27:40.040 --> 01:27:41.650
+Andrew Young: If you went to a beach.
+
+929
+01:27:43.210 --> 01:27:55.070
+Andrew Young: And you didn't see anybody, but then you walked up on… Pretty rocks.
+
+930
+01:27:55.330 --> 01:28:02.839
+Andrew Young: Placed in some kind of… System, on the beach. What would you assume?
+
+931
+01:28:03.440 --> 01:28:06.740
+Andrew Young: And everybody said that somebody put them there.
+
+932
+01:28:06.920 --> 01:28:11.860
+Andrew Young: And he pulled down the, map of the solar system.
+
+933
+01:28:12.040 --> 01:28:16.809
+Andrew Young: And he said, what do you assume? Somebody had to put this together.
+
+934
+01:28:17.390 --> 01:28:24.090
+Andrew Young: Okay, and… And I, I, whoa.
+
+935
+01:28:24.460 --> 01:28:30.809
+Andrew Young: In order not to believe, You have to believe in your non-existence.
+
+936
+01:28:31.220 --> 01:28:37.500
+Andrew Young: You have to believe you're gonna come to an end. And I don't think the human mind is capable of,
+
+937
+01:28:40.110 --> 01:28:43.600
+Andrew Young: Abandoning its consciousness.
+
+938
+01:28:44.160 --> 01:28:46.960
+Andrew Young: I mean, something's there, and I don't know what.
+
+939
+01:28:47.130 --> 01:28:55.909
+Andrew Young: But, I don't… it's not just Martin Luther King, but my first wife died of cancer.
+
+940
+01:28:56.320 --> 01:29:02.429
+Andrew Young: And, it's like, you know, she's not left.
+
+941
+01:29:03.020 --> 01:29:06.939
+Andrew Young: My daughter, who has… had the same kind of cancer.
+
+942
+01:29:07.840 --> 01:29:10.770
+Andrew Young: You know, 70, 60 years later.
+
+943
+01:29:11.180 --> 01:29:12.439
+Andrew Young: a past.
+
+944
+01:29:12.720 --> 01:29:21.490
+Andrew Young: And, you have to go on, and you have to believe That they are right.
+
+945
+01:29:24.920 --> 01:29:41.739
+Westina Matthews: Thank you so much. It feels like we're coming to the close of the time, and some people have been putting in messages of happy birthday to you, 94 years young, and we so appreciate that you have spent some time with us.
+
+946
+01:29:41.890 --> 01:29:54.959
+Westina Matthews: I'm going to be going back to look at this recording later. You've given us permission to be able to share… well, edit it, to share it so it can be available to a larger audience.
+
+947
+01:29:55.050 --> 01:30:06.529
+Westina Matthews: But we are just so blessed that you would spend an hour with us, and we know you've traveled. You were… you were away in a meeting earlier today, and then driving back.
+
+948
+01:30:06.630 --> 01:30:09.290
+Westina Matthews: To be with us, so I want…
+
+949
+01:30:09.290 --> 01:30:12.440
+Andrew Young: The meeting wasn't too far, it was just the traffic was so heavy.
+
+950
+01:30:13.090 --> 01:30:14.460
+nat.irvin@louisville.edu Irvin: You didn't quite.
+
+951
+01:30:14.460 --> 01:30:17.499
+Westina Matthews: Did I get that right when you were building those highways.
+
+952
+01:30:17.840 --> 01:30:23.759
+Andrew Young: Oh, no, this is… This is about 50 miles north of Atlanta.
+
+953
+01:30:23.760 --> 01:30:24.740
+Westina Matthews: Oh, okay.
+
+954
+01:30:24.740 --> 01:30:28.789
+Andrew Young: The city limits have taken them in.
+
+955
+01:30:29.090 --> 01:30:29.860
+Westina Matthews: Oh, okay.
+
+956
+01:30:29.860 --> 01:30:30.510
+Andrew Young: And those…
+
+957
+01:30:30.510 --> 01:30:31.190
+nat.irvin@louisville.edu Irvin: growing.
+
+958
+01:30:31.190 --> 01:30:31.640
+Andrew Young: Yeah.
+
+959
+01:30:32.980 --> 01:30:46.940
+Westina Matthews: So… so, but I do want to say thank you, and I'll let, my colleague Nat Irvin also say our thanks to you, for giving, so generously of your time and sharing your
+
+960
+01:30:47.270 --> 01:30:49.310
+Westina Matthews: Wisdom with us.
+
+961
+01:30:49.500 --> 01:30:50.200
+Westina Matthews: Thank you.
+
+962
+01:30:50.200 --> 01:30:53.960
+nat.irvin@louisville.edu Irvin: Well, Ambassador Young, my father was a Baptist preacher.
+
+963
+01:30:54.060 --> 01:31:11.259
+nat.irvin@louisville.edu Irvin: And, he had heard you, his name was Reverend Nathaniel Lervin, he had heard you speak on many occasions. And, you know, in the Baptist Church, when people would come to an end, they would say, let the church say amen. Well, that's what I'm going to say at the end of this class. How do you like that? Let the church say amen.
+
+964
+01:31:11.750 --> 01:31:13.720
+Andrew Young: Let the church say, amen.
+
+965
+01:31:13.720 --> 01:31:15.939
+nat.irvin@louisville.edu Irvin: Amen. Thank you so much.
+
+966
+01:31:15.940 --> 01:31:16.900
+Andrew Young: Thank you.
+
+967
+01:31:17.890 --> 01:31:34.740
+Westina Matthews: And we're going to ask the students to just stay on briefly at the very end, to talk about the final reflection that is due. But for all of our guests, they're, they're coming in, what an inspirational message. God bless you, thank you.
+
+968
+01:31:34.740 --> 01:31:43.350
+Westina Matthews: We appreciate your time. My cup overrow, overflows as I see all of these tributes to you.
+
+969
+01:31:43.350 --> 01:31:43.810
+nat.irvin@louisville.edu Irvin: Hmm.
+
+970
+01:31:43.810 --> 01:31:52.130
+Westina Matthews: Ambassador Young, that people have appreciated your sharing your wisdom and your time with us. Thank you so much.
+
+971
+01:31:52.610 --> 01:31:53.839
+nat.irvin@louisville.edu Irvin: Thank you so much.
+
+972
+01:31:55.050 --> 01:31:58.729
+nat.irvin@louisville.edu Irvin: And thanks to our guests, of course, you know, Westina? We had so many.
+
+973
+01:31:59.040 --> 01:31:59.980
+Westina Matthews: Yes, we did.
+
+974
+01:31:59.980 --> 01:32:05.950
+nat.irvin@louisville.edu Irvin: Many of your friends who've been able to join us over these past 5 weeks, what a great thing.
+
+975
+01:32:06.210 --> 01:32:06.950
+nat.irvin@louisville.edu Irvin: Yeah.
+
+976
+01:32:07.730 --> 01:32:08.619
+Westina Matthews: Thank you.
+
+977
+01:32:09.770 --> 01:32:10.780
+Andrew Young: Okay.
+
+978
+01:32:12.420 --> 01:32:13.230
+Westina Matthews: Bye-bye.
+
+979
+01:32:13.230 --> 01:32:13.970
+nat.irvin@louisville.edu Irvin: Goodbye.
+
+980
+01:32:18.800 --> 01:32:19.430
+Andrew Young: Mmm.
+
+981
+01:32:20.800 --> 01:32:26.430
+Westina Matthews: We can… you can… unless you are a student, the others you may log off.
+
+982
+01:32:28.170 --> 01:32:36.040
+Westina Matthews: And Ambassador Young, are you able to log yourself off, or do you have to have the techno… technician person log you off?
+
+983
+01:32:36.420 --> 01:32:37.020
+Andrew Young: No kidding.
+
+984
+01:32:38.430 --> 01:32:41.429
+Westina Matthews: I think, Matt, if you're on, can you log him off?
+
+985
+01:32:51.400 --> 01:32:52.319
+Westina Matthews: I see.
+
+986
+01:32:52.320 --> 01:32:53.669
+Nicole Kaforski: I think Matt's off.
+
+987
+01:32:53.870 --> 01:32:55.999
+Westina Matthews: Oh, I can remove him. There.
+
+988
+01:32:56.940 --> 01:32:57.619
+nat.irvin@louisville.edu Irvin: There we go.
+
+989
+01:32:57.620 --> 01:32:58.330
+Westina Matthews: There.
+
+990
+01:33:00.410 --> 01:33:01.470
+Westina Matthews: There.
+
+991
+01:33:01.470 --> 01:33:02.310
+nat.irvin@louisville.edu Irvin: Alrighty.
+
+992
+01:33:02.530 --> 01:33:05.670
+College of Business Online Programs Office: Sorry, I was trying to, I lost the screen, but .
+
+993
+01:33:05.670 --> 01:33:06.870
+nat.irvin@louisville.edu Irvin: That's okay.
+
+994
+01:33:06.870 --> 01:33:14.229
+College of Business Online Programs Office: I'm gonna… I'm gonna step away, but I'm gonna stay on, because I don't want to risk, turning this off.
+
+995
+01:33:15.610 --> 01:33:16.559
+Westina Matthews: Alright, thank you.
+
+996
+01:33:16.560 --> 01:33:17.140
+nat.irvin@louisville.edu Irvin: Yeah.
+
+997
+01:33:19.450 --> 01:33:20.220
+Westina Matthews: Wow.
+
+998
+01:33:20.510 --> 01:33:23.890
+nat.irvin@louisville.edu Irvin: Wow, that's… that's it, that's… Wow.
+
+999
+01:33:24.130 --> 01:33:27.039
+Westina Matthews: He's 94 years old, can you imagine?
+
+1000
+01:33:27.170 --> 01:33:30.859
+Westina Matthews: Who is Firefly's notetaker of Wolfman's?
+
+1001
+01:33:31.230 --> 01:33:34.190
+College of Business Online Programs Office: That's a note-taking app, I'm gonna…
+
+1002
+01:33:34.510 --> 01:33:45.610
+College of Business Online Programs Office: Well, see if you have it up, just remove them. The participation screen has disappeared on me all of a sudden. I think, oh, I transferred it, Nat, to the host, so I think that's what happened.
+
+1003
+01:33:45.610 --> 01:33:46.740
+Westina Matthews: I think I can remove it.
+
+1004
+01:33:46.740 --> 01:33:47.339
+College of Business Online Programs Office: Okay, thank you.
+
+1005
+01:33:47.340 --> 01:33:48.830
+nat.irvin@louisville.edu Irvin: We're good, yeah.
+
+1006
+01:33:48.830 --> 01:33:50.809
+Westina Matthews: Okay, alright, good.
+
+1007
+01:33:52.470 --> 01:33:53.370
+Westina Matthews: Okay.
+
+1008
+01:33:53.640 --> 01:33:54.010
+nat.irvin@louisville.edu Irvin: Yeah.
+
+1009
+01:33:54.650 --> 01:34:01.210
+Westina Matthews: Well, that's amazing. 94 years old, so that it's, something to hear him.
+
+1010
+01:34:01.560 --> 01:34:05.460
+Westina Matthews: Share, and it's mine, it's still… Fairly sharp.
+
+1011
+01:34:05.460 --> 01:34:06.070
+nat.irvin@louisville.edu Irvin: Absolutely.
+
+1012
+01:34:06.070 --> 01:34:07.580
+Westina Matthews: More vivid than others.
+
+1013
+01:34:07.580 --> 01:34:08.200
+nat.irvin@louisville.edu Irvin: Yeah.
+
+1014
+01:34:10.310 --> 01:34:18.830
+Westina Matthews: Comments about the experience, and then we'll go ahead and talk about the final Reflection.
+
+1015
+01:34:22.000 --> 01:34:22.900
+sarahcohen: Yeah, I'm…
+
+1016
+01:34:22.900 --> 01:34:24.109
+nat.irvin@louisville.edu Irvin: From the students, yes.
+
+1017
+01:34:24.110 --> 01:34:25.370
+Westina Matthews: Yes, for the students.
+
+1018
+01:34:25.520 --> 01:34:45.499
+sarahcohen: I just thought it was an amazing conversation. I know that some of it, I feel like, was mainly about, like, Atlanta and the history behind it, but I have a little connection there, like, I have some family there, and I'm very familiar with the area, and that in itself I thought was really interesting to hear from his perspective.
+
+1019
+01:34:45.570 --> 01:34:55.939
+sarahcohen: obviously, a lot of what he said is also, like, amazing. I think that, like, the don't get angry, get smart is a big thing that resonated with me, where it was…
+
+1020
+01:34:56.770 --> 01:35:00.580
+sarahcohen: don't be so emotional, think rationally, kind of is how I took it.
+
+1021
+01:35:01.030 --> 01:35:06.449
+sarahcohen: And I think especially, like, in the workplace, that's really important, and…
+
+1022
+01:35:06.660 --> 01:35:13.930
+sarahcohen: Sometimes even just, like, stepping away and taking a deep breath, that always kind of helped me, like, recenter and be…
+
+1023
+01:35:14.110 --> 01:35:20.190
+sarahcohen: maybe a little calmer? But yeah, I just really enjoyed listening to him.
+
+1024
+01:35:25.210 --> 01:35:30.649
+Julie Fisher: I kind of liked his comment, on, you know, we didn't really know what we were doing, we just kind of…
+
+1025
+01:35:30.650 --> 01:35:49.940
+Julie Fisher: Took it one step at a time, and I think that's very relatable. You know, you can't plan for the challenges that life, whether personal or business, is going to put in front of you. You just gotta deal with the hand you're dealt, and find solutions there. So I think that's a really, kind of, interesting look towards
+
+1026
+01:35:49.940 --> 01:36:02.299
+Julie Fisher: you know, it's… I want… it's not imposter syndrome quite, but just, you know, we don't know what we're capable of until we're put in that situation, and deal with it, and find solutions, and work towards that.
+
+1027
+01:36:04.120 --> 01:36:05.080
+nat.irvin@louisville.edu Irvin: Love that.
+
+1028
+01:36:07.630 --> 01:36:18.810
+Allysse Stokes: As he was talking, I wrote down that in the grand scheme of things, he stayed about equality, equity, and the betterment of community and the economy as a whole.
+
+1029
+01:36:19.080 --> 01:36:33.979
+Allysse Stokes: And obviously, we're still doing that to this… to this very moment and second in time. So… but I thought it was so admirable, too, just given the circumstances and the time frame that
+
+1030
+01:36:34.320 --> 01:36:40.889
+Allysse Stokes: all of this was kind of happening initially, to just still think about other people, and to think about
+
+1031
+01:36:41.050 --> 01:36:47.379
+Allysse Stokes: just more than self, like, just… I mean, I know that's what a leader… a good leader does, but it was just very…
+
+1032
+01:36:47.560 --> 01:36:54.850
+Allysse Stokes: I don't know, admirable. They could have just not done that at all, and just been about, you know, we're just here for ourselves, our rights.
+
+1033
+01:36:54.850 --> 01:37:11.220
+Allysse Stokes: what we need to do when we get accomplished, but they made it such a thing of community, and in the beginning, when he was talking about how you solve problems, it's figuring out kind of both sides to come up with a solution, to resolve together. So, very powerful.
+
+1034
+01:37:14.230 --> 01:37:22.979
+Nicole Kaforski: Yeah, it was an honor to hear from Ambassador Young, and I'm still wrapping my head around just…
+
+1035
+01:37:23.700 --> 01:37:39.469
+Nicole Kaforski: that sheer ability to continue building those bridges, to want to be that bridge, and push others to build those bridges. Even when you yourself are being rejected, your rights are being rejected.
+
+1036
+01:37:41.110 --> 01:37:50.639
+Nicole Kaforski: When even those who were voting for you and supporting for… supporting you were, you know, not happy with you.
+
+1037
+01:37:51.210 --> 01:37:58.279
+Nicole Kaforski: So… I think it really takes a special person to be able to navigate such a huge weight.
+
+1038
+01:37:58.880 --> 01:38:07.119
+Nicole Kaforski: But regardless, he always stuck to that bridge building, and it's extremely impressive to not break under that type of pressure, because…
+
+1039
+01:38:08.990 --> 01:38:14.729
+Nicole Kaforski: Well, we don't see many… much calm these days, so it's… It's just… it was a…
+
+1040
+01:38:15.820 --> 01:38:31.680
+Nicole Kaforski: Just a very intense time, and what an intense reminder of what can be accomplished when you do work together, and you keep advocating for that togetherness, and that bridge building, and taking it step by step.
+
+1041
+01:38:39.510 --> 01:38:41.739
+Westina Matthews: Jay, do you have a comment to make?
+
+1042
+01:38:43.550 --> 01:39:02.760
+Jay Richert: Yeah, I guess, you know, from a practical standpoint, I think it was interesting how his strategy, no matter it was Birmingham or Atlanta, was always to engage the business community. And, you know, as business students, you know, that… that weighs, I think, pretty heavy on us as,
+
+1043
+01:39:03.000 --> 01:39:11.969
+Jay Richert: well, students, and then a lot of us are in the business community also, you know, and so I think it points to the…
+
+1044
+01:39:12.430 --> 01:39:17.719
+Jay Richert: The importance of what we do beyond just the profit and loss.
+
+1045
+01:39:17.720 --> 01:39:19.030
+nat.irvin@louisville.edu Irvin: Excellent point.
+
+1046
+01:39:19.030 --> 01:39:20.080
+Jay Richert: business, yeah.
+
+1047
+01:39:22.000 --> 01:39:23.860
+nat.irvin@louisville.edu Irvin: Hmm, excellent point.
+
+1048
+01:39:24.190 --> 01:39:25.160
+Westina Matthews: He's great.
+
+1049
+01:39:25.240 --> 01:39:25.920
+nat.irvin@louisville.edu Irvin: Hmm.
+
+1050
+01:39:25.920 --> 01:39:36.170
+Westina Matthews: He doesn't prepare, so we never know what he's going to say, but it was certainly nuggets. I so enjoy him.
+
+1051
+01:39:36.330 --> 01:39:38.260
+Westina Matthews: As he,
+
+1052
+01:39:38.650 --> 01:39:48.049
+Westina Matthews: even commencement addresses, speeches, he does not prepare. He walks in, and what he's going to say is what he's going to say, and.
+
+1053
+01:39:48.050 --> 01:39:48.600
+nat.irvin@louisville.edu Irvin: No one.
+
+1054
+01:39:48.820 --> 01:39:51.080
+Westina Matthews: I admire that about him as well.
+
+1055
+01:39:51.080 --> 01:39:51.699
+nat.irvin@louisville.edu Irvin: Oh, God.
+
+1056
+01:39:51.700 --> 01:39:57.409
+Nicole Kaforski: Thank you all for bringing him on, that was… really special. That was great.
+
+1057
+01:39:58.680 --> 01:40:03.460
+Westina Matthews: So, Nat, do you want to talk about the final reflection? I know you sent the information.
+
+1058
+01:40:03.460 --> 01:40:05.150
+nat.irvin@louisville.edu Irvin: Yes, sure, briefly.
+
+1059
+01:40:05.460 --> 01:40:12.240
+nat.irvin@louisville.edu Irvin: Well, I guess first I'll say that I want to express my gratitude for
+
+1060
+01:40:12.460 --> 01:40:23.950
+nat.irvin@louisville.edu Irvin: you, Westina, the Herculean effort, early on, in maybe November or October of last… October, November of last year.
+
+1061
+01:40:24.420 --> 01:40:31.729
+nat.irvin@louisville.edu Irvin: working to see if it was possible to get Ambassador Young to join us. And I'm really grateful for that, because
+
+1062
+01:40:31.900 --> 01:40:33.530
+nat.irvin@louisville.edu Irvin: What we heard tonight.
+
+1063
+01:40:33.680 --> 01:40:38.590
+nat.irvin@louisville.edu Irvin: And you can probably see in the background back there is a picture of Dr. Martin Luther King.
+
+1064
+01:40:38.880 --> 01:40:52.260
+nat.irvin@louisville.edu Irvin: And for the members of the class, see, we're in our 70s. Right? Like, mid-70s for me. And so, all of what, Ambassador Young spoke about, we have lived through.
+
+1065
+01:40:52.620 --> 01:40:53.550
+nat.irvin@louisville.edu Irvin: All of it.
+
+1066
+01:40:54.020 --> 01:40:55.549
+nat.irvin@louisville.edu Irvin: And so…
+
+1067
+01:40:56.390 --> 01:41:04.690
+nat.irvin@louisville.edu Irvin: the challenge, the opportunity for us to hear as a result of your efforts, Westina, to bring that into our course, The Soul of Management.
+
+1068
+01:41:04.790 --> 01:41:10.289
+nat.irvin@louisville.edu Irvin: And to hear him say, I didn't even know I was doing it. It's just so perfect.
+
+1069
+01:41:10.850 --> 01:41:16.389
+nat.irvin@louisville.edu Irvin: Because, you know, what this course has always been about is we think there's something else.
+
+1070
+01:41:16.550 --> 01:41:23.470
+nat.irvin@louisville.edu Irvin: To management and leadership, and you saw it just tonight, as crystal clear as we could say it.
+
+1071
+01:41:23.590 --> 01:41:30.740
+nat.irvin@louisville.edu Irvin: as anything we would ever say. Here it was. No textbooks, No organizational behavior.
+
+1072
+01:41:30.880 --> 01:41:38.200
+nat.irvin@louisville.edu Irvin: No learning anything about marketing, no learning anything about, you know, none of that. But then he could transform an entire
+
+1073
+01:41:39.100 --> 01:41:40.840
+nat.irvin@louisville.edu Irvin: Southeastern economy.
+
+1074
+01:41:41.370 --> 01:41:58.290
+nat.irvin@louisville.edu Irvin: the United States could represent the United States on a global stage when he was appointed as ambassador. If you look back at the history of him speaking up for the Angolans and the Cubans at that time, because of the interest of the people there, that's what he was doing, and he had learned all of those lessons from
+
+1075
+01:41:59.320 --> 01:42:09.909
+nat.irvin@louisville.edu Irvin: being sent to… from Birming… from New Orleans to Birmingham by Dr. King. And so you can see, these people who were leading us, they weren't management.
+
+1076
+01:42:11.710 --> 01:42:14.129
+nat.irvin@louisville.edu Irvin: Gurus or anything, but they were leaving.
+
+1077
+01:42:14.550 --> 01:42:17.270
+nat.irvin@louisville.edu Irvin: And Westina, I just think, you know, you're…
+
+1078
+01:42:17.680 --> 01:42:33.870
+nat.irvin@louisville.edu Irvin: insistence on getting Ambassador Young, just… I don't know, I just… I'm so grateful for… I don't know how we could have… how could we have done… we thought we did great with… with Michael Curry, but now we have Ambassador Young, and now it's a part of the permanent collection of our course for you.
+
+1079
+01:42:34.170 --> 01:42:40.560
+nat.irvin@louisville.edu Irvin: Now, back to the thing, so thank you, sister. Back to the course. I think you all have gotten the,
+
+1080
+01:42:41.160 --> 01:42:56.210
+nat.irvin@louisville.edu Irvin: what we just described as the, you know, the integrative, reflective piece for the students. I think it's fairly self-explanatory. It's not, you know, it's not a summary, but give us your best shot.
+
+1081
+01:42:56.500 --> 01:43:04.319
+nat.irvin@louisville.edu Irvin: If you have questions, just ask us. Wonderful. We wrote it together, so you can ask either one of us. If you have questions.
+
+1082
+01:43:04.550 --> 01:43:08.240
+nat.irvin@louisville.edu Irvin: But try to have it done by May 1st, I think that's enough time.
+
+1083
+01:43:08.660 --> 01:43:16.649
+nat.irvin@louisville.edu Irvin: And, by midnight, because we'll have to get the grades out, okay? Nicole, go ahead, you have a hand up, and so does Julie. Yeah.
+
+1084
+01:43:16.650 --> 01:43:26.419
+Nicole Kaforski: Yes, I think in there, in the assignment, it says we need to engage at least one of the written materials provided.
+
+1085
+01:43:26.420 --> 01:43:32.939
+nat.irvin@louisville.edu Irvin: Yeah, Westina pointed that out. That really meant… that was online. That was the, Scott Stoner.
+
+1086
+01:43:33.160 --> 01:43:48.189
+nat.irvin@louisville.edu Irvin: Survey, so if you printed it out, you know, I could have just… we could have said online, but that was a… that would have been confusion, so you're right about that. No written materials there. We didn't have any books. See, Westin, she's always paying… she pays attention to details.
+
+1087
+01:43:48.770 --> 01:43:49.360
+nat.irvin@louisville.edu Irvin: Yeah.
+
+1088
+01:43:50.560 --> 01:43:51.430
+Nicole Kaforski: Thank you.
+
+1089
+01:43:51.430 --> 01:43:52.140
+nat.irvin@louisville.edu Irvin: Yes.
+
+1090
+01:43:52.140 --> 01:43:57.689
+Westina Matthews: And we also had videos, you know, we had other things, Parker Palmer.
+
+1091
+01:43:57.690 --> 01:43:59.470
+nat.irvin@louisville.edu Irvin: The Mobius Strip, things like that.
+
+1092
+01:43:59.470 --> 01:44:06.350
+Westina Matthews: We had some other things, so that's really the collateral materials to refer to. But that was a fair question.
+
+1093
+01:44:06.350 --> 01:44:06.730
+nat.irvin@louisville.edu Irvin: Yes.
+
+1094
+01:44:06.730 --> 01:44:09.029
+Nicole Kaforski: Okay, great, so just incorporate those.
+
+1095
+01:44:09.030 --> 01:44:09.890
+nat.irvin@louisville.edu Irvin: Yeah, yes.
+
+1096
+01:44:09.890 --> 01:44:10.700
+Nicole Kaforski: Great, okay.
+
+1097
+01:44:12.270 --> 01:44:13.220
+nat.irvin@louisville.edu Irvin: Julie.
+
+1098
+01:44:13.890 --> 01:44:19.429
+Julie Fisher: I'm assuming you're going to open up a submission spot for it in the Blackboard…
+
+1099
+01:44:19.990 --> 01:44:28.530
+nat.irvin@louisville.edu Irvin: Or you could just send it directly to our emails, however you… whatever you feel comfortable with. Okay. Because sometimes Blackboard, you know, it acts up.
+
+1100
+01:44:28.710 --> 01:44:35.660
+nat.irvin@louisville.edu Irvin: Whatever, okay? But you can send it to Blackboard, or you can send it directly to us with our emails, it'll be fine.
+
+1101
+01:44:35.840 --> 01:44:46.660
+nat.irvin@louisville.edu Irvin: One other thing to include is your recommendations for your participation grades. We'd like to see what you think. Give yourself a grade, give a number.
+
+1102
+01:44:47.130 --> 01:44:47.820
+nat.irvin@louisville.edu Irvin: Okay.
+
+1103
+01:44:48.010 --> 01:44:48.800
+nat.irvin@louisville.edu Irvin: Alright.
+
+1104
+01:44:49.300 --> 01:44:54.899
+nat.irvin@louisville.edu Irvin: And, that's… West Dana and I talk about it if we think, I don't know.
+
+1105
+01:44:55.260 --> 01:45:04.089
+nat.irvin@louisville.edu Irvin: Didn't see this person. It's not whether you attended, but it didn't look like you looked at any of the videos. Well, you know, if you didn't participate in the group.
+
+1106
+01:45:04.120 --> 01:45:15.619
+nat.irvin@louisville.edu Irvin: Discussions, it'd be kind of odd to say that you deserve to have an A when you didn't participate, right? So, but those are the kinds of things you'd think about. But if you did really well with your own personal journals.
+
+1107
+01:45:15.690 --> 01:45:34.719
+nat.irvin@louisville.edu Irvin: just give us what you thought your best shot was. Not… not that we had to have read them, just… you just do your own self-reflections on that. This course was for you all, not for us, and and we're grateful, of course, for everybody who was able to, because of schedules, you weren't able to, but if you could, oh, we're so glad to have you.
+
+1108
+01:45:35.190 --> 01:45:44.279
+nat.irvin@louisville.edu Irvin: Look, I think I'll check, I'll, Nicole, because Westina, picked up on that written materials, I'll resubmit
+
+1109
+01:45:44.550 --> 01:45:51.609
+nat.irvin@louisville.edu Irvin: the, integrative reflective exercise, I'll send a note, just to clarify, because we don't want any confusion, okay?
+
+1110
+01:45:52.210 --> 01:45:55.100
+nat.irvin@louisville.edu Irvin: All right, you know, because we, you know, diligent and,
+
+1111
+01:45:56.710 --> 01:45:59.100
+Westina Matthews: I'm just busting your chops, yeah.
+
+1112
+01:45:59.100 --> 01:45:59.500
+nat.irvin@louisville.edu Irvin: Alright, I'm good.
+
+1113
+01:45:59.500 --> 01:46:01.330
+Westina Matthews: But it was confusing. I said.
+
+1114
+01:46:01.330 --> 01:46:03.859
+nat.irvin@louisville.edu Irvin: That's right, no, no, no, that's right, yeah, that's right.
+
+1115
+01:46:04.010 --> 01:46:04.700
+Westina Matthews: Setup.
+
+1116
+01:46:04.700 --> 01:46:07.179
+nat.irvin@louisville.edu Irvin: Because we do have written material, but we didn't have any.
+
+1117
+01:46:07.720 --> 01:46:21.380
+Westina Matthews: But next year, there will be a book, because, we'll have the book on the solar management for future classes. That will be the reference. So, thank you so much. It's been such a pleasure and a joy.
+
+1118
+01:46:21.380 --> 01:46:21.880
+nat.irvin@louisville.edu Irvin: Yes.
+
+1119
+01:46:21.880 --> 01:46:26.280
+Westina Matthews: To journey with you, this… for this class.
+
+1120
+01:46:26.410 --> 01:46:32.489
+Westina Matthews: And I wish you all the very, very best in all that you're doing, and are going to do.
+
+1121
+01:46:32.650 --> 01:46:33.740
+nat.irvin@louisville.edu Irvin: Absolutely.
+
+1122
+01:46:34.730 --> 01:46:35.660
+Westina Matthews: Thank you.
+
+1123
+01:46:35.660 --> 01:46:36.760
+nat.irvin@louisville.edu Irvin: Thank you, guys.
+
+1124
+01:46:36.760 --> 01:46:38.829
+Nicole Kaforski: Thank you so much, appreciate you all.
+
+1125
+01:46:39.220 --> 01:46:39.810
+Jay Richert: Yeah, thank you.
+
+1126
+01:46:39.810 --> 01:46:40.800
+Julie Fisher: Thank you.
+
+1127
+01:46:40.800 --> 01:46:42.490
+Jay Richert: For the great class, thank you.
+
+1128
+01:46:42.490 --> 01:46:42.900
+nat.irvin@louisville.edu Irvin: Thank you.
+
+1129
+01:46:42.900 --> 01:46:43.990
+sarahcohen: Beautiful grass.
+
+1130
+01:46:43.990 --> 01:46:45.170
+Allysse Stokes: Thank you.
+
+1131
+01:46:46.340 --> 01:46:46.820
+Westina Matthews: Bye.
+
+1132
+01:46:46.820 --> 01:46:47.430
+nat.irvin@louisville.edu Irvin: Bye.
+
+1133
+01:46:51.140 --> 01:46:52.029
+Westina Matthews: It's being recorded.
+

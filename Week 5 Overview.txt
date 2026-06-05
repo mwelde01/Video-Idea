@@ -1,0 +1,60 @@
+Week 5 Overview: The Future of AI in Business
+
+Welcome to week five in the final week of business applications in AI.
+0:08
+Over the past four weeks, you've created a strong foundation when it comes to understanding the current state of AI.
+0:11
+You've worked with tools, examine the ethical and governance dimensions, and explored how different stakeholders view these technologies.
+0:17
+We'd discuss new model releases and where we are with the current landscape.
+0:24
+This week we're going to bring all of this together. Here's the question.
+0:29
+The week is built around. Given everything we've learned, how should you actually actually lead through this level of uncertainty?
+0:32
+Because if there's one thing the experts agree on, it's it that it's that they don't agree what's going to happen next.
+0:40
+Some of the most credible voices in the field believe we're approaching transformative AI within a few years.
+0:46
+Others who are equally just as credible believe that the real economic impact will take decades.
+0:53
+Some think we may be heading toward another AI winner.
+0:59
+Others think regulation will be the defining constraint. Rather than picking one forecast and hoping we are right.
+1:03
+This week we'll look at multiple scenarios for the future,
+1:09
+and we're going to apply scenario planning a proven methodology for leading through genuine uncertainty.
+1:12
+Here's what you'll work through this week. We'll start with why scenario planning is more valuable than prediction when it comes to AI strategy.
+1:19
+Then a short primer on scenario planning. And then I'm going to give you one example of what could be an accelerator or a bottleneck.
+1:26
+Uh, the compute factor that the build out that it's going to be needed.
+1:35
+Uh, and it's really going to shape how in what future materializes.
+1:39
+When we're going to look at the four distinct AI scenarios, each one built, uh, with its own section,
+1:44
+with dedicated sources, and connect this with some of your perspective work from last week.
+1:51
+Uh, then we're going to wrap up the class, your week five assignment.
+1:57
+Uh, then takes you to the future.
+2:01
+You will choose a time horizon, either 5 or 10 years in the future, and select one of the scenarios we discussed this week.
+2:04
+You're going to record a video of you from the future, looking back at the decisions that made your organization successful under the scenario.
+2:11
+I'd encourage you to review the assignment instructions along with the module so you can develop your thinking as you read.
+2:19
+As you review each scenario, know that there are additional supplemental, uh,
+2:26
+articles and notebook elements, uh, to allow you to take a deeper dive into whichever future you choose.
+2:29
+Now, you may not be able to get through all of this, uh, material this week.
+2:36
+Uh, there is a lot there. But I also hope that you can revisit this as the landscape of AI, uh, continues to evolve.
+2:40
+So let's get started and dive in.
+2:48

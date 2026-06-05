@@ -1,0 +1,1362 @@
+WEBVTT
+
+1
+00:00:48.500 --> 00:00:49.430
+College of Business Online Programs Office: Let's see…
+
+2
+00:01:39.360 --> 00:01:40.409
+College of Business Online Programs Office: There you are.
+
+3
+00:01:42.760 --> 00:01:43.780
+n0irvi01: How are ya?
+
+4
+00:01:44.260 --> 00:01:50.180
+College of Business Online Programs Office: Alright, not too bad, not too bad. Are you logged in on your, like, UofL Zoom?
+
+5
+00:01:50.640 --> 00:01:52.799
+n0irvi01: I guess, am I on the wrong one?
+
+6
+00:01:52.800 --> 00:02:01.539
+College of Business Online Programs Office: Well, I don't… I don't know, because I, like, I have you in our system, but I have the nat.ervin atlouisville.edu.
+
+7
+00:02:03.910 --> 00:02:13.299
+College of Business Online Programs Office: Why is it… I don't know why I did that at the first name, because it's showing you as, like, your, like, UofL N0RIRV,
+
+8
+00:02:13.580 --> 00:02:19.010
+College of Business Online Programs Office: Well, I was just, like, thinking that it should allow you, because you went to… it, like, sent you to the waiting room.
+
+9
+00:02:19.580 --> 00:02:23.970
+College of Business Online Programs Office: And, like, .
+
+10
+00:02:24.320 --> 00:02:25.729
+n0irvi01: Hold on one second.
+
+11
+00:02:25.730 --> 00:02:26.350
+College of Business Online Programs Office: Oh, you're fun.
+
+12
+00:02:26.350 --> 00:02:27.570
+n0irvi01: This is Ned Urban.
+
+13
+00:02:29.230 --> 00:02:30.270
+n0irvi01: Hello?
+
+14
+00:02:31.700 --> 00:02:32.540
+Westina Matthews: Hey, Matt.
+
+15
+00:02:32.970 --> 00:02:33.890
+College of Business Online Programs Office: Hello?
+
+16
+00:02:39.070 --> 00:02:41.129
+College of Business Online Programs Office: How are you, Mostina?
+
+17
+00:02:42.020 --> 00:02:44.520
+Westina Matthews: Good. No one, a Happy New Year.
+
+18
+00:02:44.970 --> 00:02:50.419
+College of Business Online Programs Office: Is that a, is that a… is that your office, or is that a fake background?
+
+19
+00:02:51.270 --> 00:02:51.890
+Westina Matthews: fake.
+
+20
+00:02:52.070 --> 00:02:54.180
+College of Business Online Programs Office: Oh, it looks so… I mean, but…
+
+21
+00:02:54.460 --> 00:02:54.900
+Westina Matthews: Another…
+
+22
+00:02:54.900 --> 00:02:57.060
+College of Business Online Programs Office: Some of them, you can tell right away.
+
+23
+00:02:58.340 --> 00:03:02.010
+Westina Matthews: I, I got this from, esty.
+
+24
+00:03:05.160 --> 00:03:07.610
+Westina Matthews: We can't hear you now.
+
+25
+00:03:07.610 --> 00:03:08.460
+College of Business Online Programs Office: muted you.
+
+26
+00:03:09.470 --> 00:03:10.970
+Westina Matthews: So,
+
+27
+00:03:11.150 --> 00:03:26.669
+Westina Matthews: I was doing something for another… for, Union Seminary, and the person who was recording said, we need a better background. So we did this. So I thought, oh, well, I'll look… make it look like this for, the taping.
+
+28
+00:03:26.860 --> 00:03:29.110
+n0irvi01: It's a great background. I like it.
+
+29
+00:03:29.110 --> 00:03:29.940
+Westina Matthews: Isn't that good?
+
+30
+00:03:29.940 --> 00:03:31.520
+n0irvi01: Yeah, it's very good.
+
+31
+00:03:31.520 --> 00:03:33.910
+Westina Matthews: And it wasn't very expensive, so…
+
+32
+00:03:35.480 --> 00:03:41.139
+Westina Matthews: Anyway, thank you so much for all your hard work, Matt. I understand you've been busy.
+
+33
+00:03:41.340 --> 00:03:50.269
+College of Business Online Programs Office: I haven't… I haven't done much of anything, but if you want to credit me to being busy and hardworking, I'll… I won't… I'll let you give me permit.
+
+34
+00:03:51.560 --> 00:03:52.200
+n0irvi01: Oh.
+
+35
+00:03:53.120 --> 00:03:56.459
+Westina Matthews: Well, then I thank you for what you're gonna do, because you're good.
+
+36
+00:03:56.770 --> 00:03:58.420
+Westina Matthews: Transcribing.
+
+37
+00:03:58.420 --> 00:03:59.010
+n0irvi01: I'm sorry.
+
+38
+00:03:59.010 --> 00:04:09.149
+College of Business Online Programs Office: Well, and I was telling Nat, we actually had a conversation today. I'm teaching this, AI course, and so I'm having all these students
+
+39
+00:04:09.150 --> 00:04:22.760
+College of Business Online Programs Office: do videos on… so, like, their first week assignment was a positive case, like, in their, like, you know, in the business environment, and a negative case. So I've got these, like, videos on Panopto. I was able to create, like, a…
+
+40
+00:04:22.760 --> 00:04:38.739
+College of Business Online Programs Office: AI agent that went to the link, so it was just the link, and go… it went to the link, found the closed captioning that's auto-generated, copied the closed captioning, and put it all on one file for me.
+
+41
+00:04:38.870 --> 00:04:52.450
+College of Business Online Programs Office: So that now I'm gonna, like, have it, like, summarize the whole classes and, like, produce, like, a… I'll do, like, a notebook LM with it, but as I was, like, doing that, I was like, you know, we can build something…
+
+42
+00:04:52.590 --> 00:04:57.450
+College of Business Online Programs Office: Relatively easily and quickly that, you know, kind of explain what we're doing.
+
+43
+00:04:58.140 --> 00:05:18.020
+College of Business Online Programs Office: And that's maybe you and Nat can kind of think about, like, what, like, what are some themes that you are looking for throughout the conversations? Give it all the transcripts, and then it could, you know, it would do its magic and maybe be able to pull out some of that stuff for you all without you having to sift through, you know.
+
+44
+00:05:18.530 --> 00:05:26.980
+College of Business Online Programs Office: 20 to… 30-odd… I forget however many we got up to, like, transcripts of…
+
+45
+00:05:27.930 --> 00:05:32.330
+College of Business Online Programs Office: Videos and stuff, so we might be able to… we may be able to pull something like that.
+
+46
+00:05:32.330 --> 00:05:36.390
+Westina Matthews: Yeah, yeah. You know what, we'll look at some of the questions that we had.
+
+47
+00:05:36.870 --> 00:05:38.519
+Westina Matthews: Questions for the students, and…
+
+48
+00:05:38.520 --> 00:05:57.970
+College of Business Online Programs Office: Right. Well, and then we also have, you know, I think most every single one are still… I had to, like, go back, I think I had some, like, I guess Panopto, which I store it, like, eventually, like, archives them, but I was able… I think I've got access or re-access to, like, every, like, video, because I got the transcripts, but if, like, you know, if…
+
+49
+00:05:58.280 --> 00:06:16.069
+College of Business Online Programs Office: you know, let's say, you know, Dr. Babar, who was one of the first ones, the first year, if there was something and we wanted, and you all needed to go back to the video, we might be able to access that still, too, so we'll see once we kind of get there. But I do, I also, I think Nat shared y'all have a pretty,
+
+50
+00:06:16.240 --> 00:06:19.790
+College of Business Online Programs Office: The date of having the book together is…
+
+51
+00:06:20.300 --> 00:06:22.580
+College of Business Online Programs Office: I'm gonna be here before we know it, too.
+
+52
+00:06:22.780 --> 00:06:32.200
+Westina Matthews: Yeah, right. I said, well, we'll give it a good try. But it would mean delaying when the book was released, but I'd rather get it right.
+
+53
+00:06:33.020 --> 00:06:37.960
+Westina Matthews: So they were being rather ambitious, but, yeah.
+
+54
+00:06:37.960 --> 00:06:38.710
+n0irvi01: hail it.
+
+55
+00:06:39.090 --> 00:06:40.520
+Westina Matthews: Yeah, we'll do it.
+
+56
+00:06:41.900 --> 00:06:47.629
+Westina Matthews: we will figure that out. Well, this is good that this video is working, too.
+
+57
+00:06:47.930 --> 00:06:56.469
+Westina Matthews: And Matt, it may be that we aren't going to meet… need you on Friday, because Father Garrick is now saying that he…
+
+58
+00:06:56.630 --> 00:07:02.220
+Westina Matthews: would be willing to join one of our classes, which.
+
+59
+00:07:02.220 --> 00:07:02.860
+College of Business Online Programs Office: Okay.
+
+60
+00:07:02.860 --> 00:07:04.120
+Westina Matthews: Pretty huge.
+
+61
+00:07:04.260 --> 00:07:05.889
+College of Business Online Programs Office: And then it looks like.
+
+62
+00:07:06.040 --> 00:07:07.010
+Westina Matthews: Margaret is here.
+
+63
+00:07:07.010 --> 00:07:07.839
+n0irvi01: Barbara's here.
+
+64
+00:07:07.840 --> 00:07:12.129
+College of Business Online Programs Office: And Nat, I made you the host, and Westina, you're the co-host, so…
+
+65
+00:07:12.250 --> 00:07:16.049
+College of Business Online Programs Office: I'll probably just, like, close… shut my camera off and…
+
+66
+00:07:16.390 --> 00:07:16.890
+n0irvi01: Okay.
+
+67
+00:07:17.560 --> 00:07:25.930
+College of Business Online Programs Office: get out of your all's way, but I think everything should be good. But in that, we'll figure out getting… get in it so that, like, you can just hop on and be a host at…
+
+68
+00:07:26.090 --> 00:07:26.490
+n0irvi01: Okay.
+
+69
+00:07:26.490 --> 00:07:31.720
+College of Business Online Programs Office: another time, and if, worst case scenario, I can always hop on, let you all in, and you all do your thing.
+
+70
+00:07:31.720 --> 00:07:32.590
+n0irvi01: Okay.
+
+71
+00:07:33.550 --> 00:07:35.420
+Westina Matthews: Well, thanks for recording for us.
+
+72
+00:07:35.790 --> 00:07:44.199
+College of Business Online Programs Office: Well, I've got it set, it just automatically, as soon as the meeting starts, it's gonna start recording, and then we'll go back and edit it later, just so we don't…
+
+73
+00:07:44.370 --> 00:07:48.340
+College of Business Online Programs Office: Forget, because we actually had a big, like.
+
+74
+00:07:48.540 --> 00:07:53.580
+College of Business Online Programs Office: what was it? We were doing our, like, back-to-school certificate night, and…
+
+75
+00:07:53.590 --> 00:08:03.859
+n0irvi01: you know, you hop on Zoom, and it starts doing things, and we, like, three of us all thought it was recording, and no one actually hit the recording button, so… We didn't want that. That's a good word of Margaret.
+
+76
+00:08:04.780 --> 00:08:05.610
+n0irvi01: Thanks, Matt.
+
+77
+00:08:05.610 --> 00:08:06.950
+College of Business Online Programs Office: Alright, I'll leave y'all to it.
+
+78
+00:08:06.950 --> 00:08:08.080
+Westina Matthews: Thank you.
+
+79
+00:08:08.800 --> 00:08:10.510
+Westina Matthews: Hello, Margaret!
+
+80
+00:08:10.740 --> 00:08:13.670
+Westina Matthews: Hello, Westina! Good to see you!
+
+81
+00:08:13.670 --> 00:08:16.109
+n0irvi01: Hello, Margaret, this is Nat Irvin.
+
+82
+00:08:16.110 --> 00:08:18.119
+Margaret Benefiel: Hi, Nat, good to meet you.
+
+83
+00:08:18.120 --> 00:08:22.180
+n0irvi01: Good to meet you. So delighted to have this chance to chat with you!
+
+84
+00:08:22.800 --> 00:08:25.200
+Westina Matthews: I'm looking forward to it.
+
+85
+00:08:25.200 --> 00:08:26.180
+n0irvi01: Absolutely.
+
+86
+00:08:26.700 --> 00:08:29.779
+n0irvi01: What's that picture you got in the background, by the way?
+
+87
+00:08:30.190 --> 00:08:32.520
+Margaret Benefiel: This is, Kandinsky.
+
+88
+00:08:36.120 --> 00:08:41.940
+n0irvi01: From, that would be, like, what, in the 40s? Earlier… prior to that, right?
+
+89
+00:08:42.350 --> 00:08:46.660
+Margaret Benefiel: I don't even know. I don't know. I got it from my aunt.
+
+90
+00:08:46.660 --> 00:08:47.360
+n0irvi01: Huh.
+
+91
+00:08:47.780 --> 00:08:51.559
+Margaret Benefiel: And, it's… of course it's not an original.
+
+92
+00:08:51.560 --> 00:08:52.530
+n0irvi01: Yeah, yeah.
+
+93
+00:08:52.530 --> 00:09:12.140
+Margaret Benefiel: But, whenever we would visit her, my husband would admire it, and she said, well, you can have it when I die, nobody else in the family likes it. So, we actually got it when she moved. We didn't have to wait until she died. Well, good. Good story around it.
+
+94
+00:09:12.140 --> 00:09:27.759
+Westina Matthews: Nat, what view do you want? Do you want speaker? Do you want it to… when speaking, then there? Or do you want it to show like this? Because they're going to edit it, but they won't be able to edit out the University of Louisville College of Business online programs. What do you think?
+
+95
+00:09:28.410 --> 00:09:34.329
+n0irvi01: Maybe having her featured? Is that… is that… yeah, I think that's the best thing, yeah.
+
+96
+00:09:34.330 --> 00:09:36.129
+Westina Matthews: Yeah, that's what I was thinking.
+
+97
+00:09:36.130 --> 00:09:36.860
+n0irvi01: Yeah.
+
+98
+00:09:36.860 --> 00:09:39.140
+Westina Matthews: Be better, so you need to…
+
+99
+00:09:39.570 --> 00:09:43.089
+Westina Matthews: Or I can change it. Speaker.
+
+100
+00:09:43.710 --> 00:09:44.570
+Westina Matthews: Okay.
+
+101
+00:09:44.940 --> 00:09:46.540
+Westina Matthews: And,
+
+102
+00:09:47.280 --> 00:09:53.789
+Westina Matthews: So, Margaret, are you speaking? Yes. Yeah, would you say something, Margaret? I want to make sure that when we do it…
+
+103
+00:09:53.790 --> 00:10:03.940
+Margaret Benefiel: Yes, and it should be… whoever is recording should have it on speaker view. So, for example, I see gallery view.
+
+104
+00:10:04.090 --> 00:10:10.109
+Margaret Benefiel: But whoever is recording, needs to put it on speaker view.
+
+105
+00:10:10.860 --> 00:10:12.400
+Westina Matthews: And who's recording?
+
+106
+00:10:12.850 --> 00:10:14.119
+n0irvi01: We are, yeah.
+
+107
+00:10:14.320 --> 00:10:18.639
+Westina Matthews: So, do you have it on, have you changed it to…
+
+108
+00:10:18.640 --> 00:10:20.569
+n0irvi01: Yeah, I'll do that now.
+
+109
+00:10:20.840 --> 00:10:28.989
+n0irvi01: Let me, let me, thank you, Margaret.
+
+110
+00:10:28.990 --> 00:10:30.850
+Westina Matthews: certificate.
+
+111
+00:10:31.190 --> 00:10:35.750
+Margaret Benefiel: Yeah, it's whoever is the host.
+
+112
+00:10:36.370 --> 00:10:37.000
+Westina Matthews: the main focus.
+
+113
+00:10:37.000 --> 00:10:39.740
+n0irvi01: We normally use Teams, so I'm gonna be.
+
+114
+00:10:39.740 --> 00:10:41.820
+Westina Matthews: Oh, it's up there in view.
+
+115
+00:10:41.820 --> 00:10:42.779
+n0irvi01: Here we go.
+
+116
+00:10:42.780 --> 00:10:46.229
+Westina Matthews: Okay, it's on speaker view. And then go speaker.
+
+117
+00:10:46.230 --> 00:10:48.089
+n0irvi01: Yes, it's on speaker view.
+
+118
+00:10:48.090 --> 00:10:49.430
+Westina Matthews: You have it on speaker?
+
+119
+00:10:49.430 --> 00:10:52.879
+n0irvi01: Yes, I do. I've clicked on speaker view. Okay.
+
+120
+00:10:52.880 --> 00:10:55.350
+Westina Matthews: Mine is on gallery, but yours is on speaker.
+
+121
+00:10:55.350 --> 00:10:57.940
+n0irvi01: Yeah, speaker of the year. Yes, there we go.
+
+122
+00:10:57.940 --> 00:11:00.180
+Margaret Benefiel: And… and you're the host, Nat?
+
+123
+00:11:00.180 --> 00:11:01.240
+n0irvi01: Yes, I am.
+
+124
+00:11:01.240 --> 00:11:01.820
+Margaret Benefiel: Great.
+
+125
+00:11:02.110 --> 00:11:02.780
+n0irvi01: Yes.
+
+126
+00:11:02.780 --> 00:11:11.179
+Westina Matthews: So even though I'm a co-host, it will not show, because I see all of us. He won't do that because he's now…
+
+127
+00:11:11.540 --> 00:11:15.060
+Westina Matthews: as a host, one of the co-hosts has hit it. Yeah.
+
+128
+00:11:15.420 --> 00:11:16.320
+Westina Matthews: Okay.
+
+129
+00:11:16.330 --> 00:11:17.510
+n0irvi01: Good. Thank you.
+
+130
+00:11:17.510 --> 00:11:27.870
+Westina Matthews: Alright, so then… We can get started. Well, it is a great joy for me to introduce Margaret Benefil.
+
+131
+00:11:28.190 --> 00:11:32.289
+Westina Matthews: To be one of our presenters for our course.
+
+132
+00:11:32.670 --> 00:11:37.749
+Westina Matthews: Let me tell you a little bit about Margaret, and how I've come to know her.
+
+133
+00:11:37.990 --> 00:11:44.839
+Westina Matthews: She is the former executive director of the Chelain Institute, where she served as chair of the
+
+134
+00:11:45.270 --> 00:11:49.170
+Westina Matthews: And she has shared it… wait, let me start that again.
+
+135
+00:11:51.050 --> 00:11:52.850
+Westina Matthews: I'm glad we're editing this.
+
+136
+00:11:54.920 --> 00:11:57.480
+n0irvi01: 10, 9, 8.
+
+137
+00:11:57.630 --> 00:12:05.070
+n0irvi01: 7… 6… 5… 4… 3… 2… What?
+
+138
+00:12:06.200 --> 00:12:19.580
+Westina Matthews: It gives me great pleasure to introduce to you all Margaret Benefil, Dr. Margaret Benefil, who is a former Executive Director of the Chelain Institute, which is where I first
+
+139
+00:12:19.960 --> 00:12:27.819
+Westina Matthews: Knew of her, met her, having come through the program for spiritual direction, and then serving on the board.
+
+140
+00:12:28.880 --> 00:12:34.959
+Westina Matthews: Margaret has served as chair of the Academy of Management Spirituality and Religious Group.
+
+141
+00:12:35.320 --> 00:12:42.809
+Westina Matthews: She also serves as co-chair of the Christian Spirituality Group of the American Academy of Religion.
+
+142
+00:12:43.440 --> 00:12:51.269
+Westina Matthews: Over 2,000 executives, managers, and other leaders have participated in her seminars and courses.
+
+143
+00:12:51.520 --> 00:12:58.739
+Westina Matthews: She has authored, or co-authored, edited 7 books, including Sofu.
+
+144
+00:12:58.930 --> 00:13:05.779
+Westina Matthews: Which she and I, co-edited that book. But also, there is the…
+
+145
+00:13:06.010 --> 00:13:16.189
+Westina Matthews: Crisis leadership, the soul of higher education, the soul of supervision, the soul of a leader, the soul at work.
+
+146
+00:13:16.230 --> 00:13:30.240
+Westina Matthews: and hidden in plain sight, and she's published over 50 articles and books and chapters. In fact, the first way that I met you, Margaret, was through this book. I had not even met you first, The Snow
+
+147
+00:13:30.320 --> 00:13:33.850
+Westina Matthews: at work. So it is the delight, given that
+
+148
+00:13:34.190 --> 00:13:53.420
+Westina Matthews: our course and our subject that we have, Margaret, and we were so happy that we could get you even for a little while, because I know you're going to start your traveling, and you won't be with us in real time in March, but we were able to get time.
+
+149
+00:13:53.840 --> 00:13:58.169
+Westina Matthews: Welcome! Please help me welcome Margaret Benefil.
+
+150
+00:13:58.170 --> 00:14:01.760
+n0irvi01: Well, it is absolutely a joy, Westina.
+
+151
+00:14:02.210 --> 00:14:09.300
+n0irvi01: For me to join this friendship that you now have with Margaret, and
+
+152
+00:14:09.380 --> 00:14:26.380
+n0irvi01: And to find that we have this kindred soul that has been beneath the surface of my journey, Margaret, as an academic and MBA professor, who sort of stumbled upon this notion of, wait a minute, where's the spirituality in the MBA curriculum?
+
+153
+00:14:26.530 --> 00:14:38.280
+n0irvi01: And it's a story that will not be new to you, but I will just briefly just say it for the basis of how we would have our discussion today. I teach… I'm a futurist, and have been
+
+154
+00:14:38.280 --> 00:14:47.459
+n0irvi01: Teaching the intersection of social, political, economic, and technological trends as part of an elective called Managing in the Future. And,
+
+155
+00:14:47.460 --> 00:14:55.950
+n0irvi01: And Westina knows this story so very well, but in the conversations when you are having your MBA students to discuss bioethical issues.
+
+156
+00:14:55.950 --> 00:15:08.009
+n0irvi01: issues where they have to make a decision. They don't have the opportunity, or I wouldn't allow them to get away with giving me an MBA answer. They have to make a decision. They have to decide this or that, right?
+
+157
+00:15:08.360 --> 00:15:12.560
+n0irvi01: And, you know, leadership, management questions. And, often.
+
+158
+00:15:12.890 --> 00:15:17.139
+n0irvi01: I would find students who would say one thing in class.
+
+159
+00:15:17.220 --> 00:15:19.859
+n0irvi01: When they were in the midst of group discussions.
+
+160
+00:15:19.870 --> 00:15:42.660
+n0irvi01: But during their essays, other things would come out, and often it would revolve around some spiritual dimension that they had difficulty being able to express in a class, in public. It could be their deep religious faith, or it could be just a journey they were on, but it was ultimately about some spiritual aspects of themselves, and it led me to…
+
+161
+00:15:42.730 --> 00:16:06.659
+n0irvi01: approach my dear friend, Westina about the importance of developing a course that would explore that, that would make it… put that in the curriculum. And of course, that's obviously why we would have read some of your work, I would have listened to some of your talks, and then, of course, you and Westina have worked together. But that's how I've arrived here. And, so I'm just delighted to have this chance to talk with an academic
+
+162
+00:16:06.820 --> 00:16:19.420
+n0irvi01: who just sort of weighed it into it, on your own. And I'll begin, if West Eden is okay with you. I just… Margaret, I just wanted to, just to talk a little bit about
+
+163
+00:16:19.420 --> 00:16:27.290
+n0irvi01: How do you think about the contemplative mind these days in the midst of artificial intelligence, which you would know that
+
+164
+00:16:27.290 --> 00:16:37.179
+n0irvi01: As a futurist, I obviously have, you know, a lot of that coming my way, but I just wanted to know what your thoughts were these days. When you look back at your work.
+
+165
+00:16:37.180 --> 00:16:37.640
+Margaret Benefiel: rock.
+
+166
+00:16:37.640 --> 00:16:46.150
+n0irvi01: what you've written, how are you… how's the contemplative mind dealing with artificial intelligence and all that it, pretends?
+
+167
+00:16:47.760 --> 00:16:58.860
+Margaret Benefiel: Yeah, that's a great question, Nat. My husband actually is in the field of artificial intelligence, so we talk about these things a lot, and
+
+168
+00:16:58.990 --> 00:17:08.509
+Margaret Benefiel: So… you know… soul is needed now more than ever, I think. We…
+
+169
+00:17:09.650 --> 00:17:17.479
+Margaret Benefiel: In this time of artificial intelligence, we need some moral compass to guide us, and
+
+170
+00:17:17.609 --> 00:17:29.330
+Margaret Benefiel: to be able to help us think about how to use artificial intelligence. It's a great tool when used well, and it can…
+
+171
+00:17:29.350 --> 00:17:44.099
+Margaret Benefiel: really lead people astray when it's not used well. And so, just like any technology, you know, over the years, as different technologies have developed.
+
+172
+00:17:44.100 --> 00:17:49.699
+Margaret Benefiel: We… we, as a human race are in danger of,
+
+173
+00:17:49.920 --> 00:18:09.050
+Margaret Benefiel: Growing technologically beyond where our moral compass has developed, where our souls have developed, and so we need to be grounded in our souls, in our values.
+
+174
+00:18:09.180 --> 00:18:12.169
+Margaret Benefiel: In… in these times.
+
+175
+00:18:12.300 --> 00:18:13.590
+Margaret Benefiel: More than ever.
+
+176
+00:18:14.050 --> 00:18:14.630
+Westina Matthews: Hmm.
+
+177
+00:18:14.910 --> 00:18:16.709
+n0irvi01: Do you think that,
+
+178
+00:18:18.860 --> 00:18:25.489
+n0irvi01: Do you think we're… do you think we're going in the… this is a broad question here, so you just have to give me your best shot at it.
+
+179
+00:18:26.180 --> 00:18:31.959
+n0irvi01: I don't think we're doing that well with it. I don't think that business schools are doing that well with it. I don't think…
+
+180
+00:18:32.170 --> 00:18:44.459
+n0irvi01: managers are doing that well with the contemplative side, with the ethical side. I think, as you… you kind of hinted at, we… we have… we could… we could… we could create something without a moral compass.
+
+181
+00:18:44.530 --> 00:19:03.610
+n0irvi01: I don't think we're doing that well on it. What's your take on it, and how would you kind of help steer us? Which, obviously, I have a bias here. I want us to do better in that area. That's why we've created this course. How do you think we're doing, and how do you think, you know, being more contemplative might help us?
+
+182
+00:19:05.320 --> 00:19:13.969
+Margaret Benefiel: Yeah, you know, I think we're living in a time… I mean, our country, I would say, is off track.
+
+183
+00:19:13.970 --> 00:19:14.780
+n0irvi01: I agree.
+
+184
+00:19:14.780 --> 00:19:20.429
+Margaret Benefiel: And, that impacts lots of things. That impacts
+
+185
+00:19:20.730 --> 00:19:37.639
+Margaret Benefiel: what happens in higher education. Higher education is under assault right now. It impacts what happens in business. It impacts what happens in all sectors of life. And so…
+
+186
+00:19:37.640 --> 00:19:52.390
+Margaret Benefiel: I agree, I don't think we're doing that great right now, and… and at the same time, I see people rising up, like you, who are saying, wait a minute, we need some soul here, we need…
+
+187
+00:19:52.500 --> 00:20:04.589
+Margaret Benefiel: we need something to hold onto while we see so much in our country and our world going off track. And so…
+
+188
+00:20:04.940 --> 00:20:10.610
+Margaret Benefiel: I see a lot of… people…
+
+189
+00:20:10.990 --> 00:20:16.450
+Margaret Benefiel: Being their best selves, and speaking out, and trying to make a difference.
+
+190
+00:20:16.660 --> 00:20:22.739
+Margaret Benefiel: In this time of crisis, I would say it's a time of crisis in our country and our world.
+
+191
+00:20:24.210 --> 00:20:28.070
+Westina Matthews: Wes? Barbara Holmes, Barbara Holmes, The Crisis Contemplation.
+
+192
+00:20:28.920 --> 00:20:33.320
+Westina Matthews: instead of… let me just reel it… wheel it back a little bit.
+
+193
+00:20:33.570 --> 00:20:41.330
+Westina Matthews: And… and have you talk a little bit about how, in your research, in your writing, in your experience.
+
+194
+00:20:41.430 --> 00:20:48.350
+Westina Matthews: soul shows up at work, and in leaders, because you write about that, I know.
+
+195
+00:20:48.640 --> 00:20:54.669
+Westina Matthews: And I guess even we should preface it, that how do you define spirituality?
+
+196
+00:20:55.270 --> 00:20:58.070
+Westina Matthews: And then, how does soul show up?
+
+197
+00:20:58.420 --> 00:20:59.380
+Westina Matthews: at work.
+
+198
+00:20:59.580 --> 00:21:05.510
+Westina Matthews: And with leaders, because in what I've read of what you've written, you said, you know.
+
+199
+00:21:05.720 --> 00:21:12.230
+Westina Matthews: Leaders have souls, but also the organization or the company has souls. So, talk a little bit about that.
+
+200
+00:21:13.680 --> 00:21:14.790
+Margaret Benefiel: Yes.
+
+201
+00:21:15.320 --> 00:21:19.980
+Margaret Benefiel: I think that soul shows up in many ways at work.
+
+202
+00:21:20.110 --> 00:21:25.249
+Margaret Benefiel: And spirituality, I define spirituality broadly.
+
+203
+00:21:25.390 --> 00:21:35.229
+Margaret Benefiel: For some people, it's connected with their religious faith. For others, others would consider themselves spiritual, but not religious.
+
+204
+00:21:35.350 --> 00:21:53.890
+Margaret Benefiel: Some people might not even use the word spiritual, but they would talk about their deepest values, their sense of what is right, their moral compass, and I think that's a kind of spirituality, too. So…
+
+205
+00:21:54.000 --> 00:22:01.250
+Margaret Benefiel: spirituality can be found, I think, everywhere. I think it's a human quality.
+
+206
+00:22:01.410 --> 00:22:10.580
+Margaret Benefiel: And so, how does that show up at work? How does soul show up at work? I think it shows up in people
+
+207
+00:22:10.890 --> 00:22:26.740
+Margaret Benefiel: Wanting to bring their best selves, wanting to invest, in what's… what they see as good about the organization's mission and values and vision.
+
+208
+00:22:26.990 --> 00:22:30.869
+Margaret Benefiel: I think it shows up in pride and workmanship.
+
+209
+00:22:31.030 --> 00:22:39.889
+Margaret Benefiel: I think it shows up in relationships, how people treat their employees, how people treat their coworkers.
+
+210
+00:22:40.300 --> 00:22:46.840
+Margaret Benefiel: I think it shows up in the care in which people,
+
+211
+00:22:47.090 --> 00:22:57.540
+Margaret Benefiel: Relate to vendors and, clients and all the relationships in a…
+
+212
+00:22:57.660 --> 00:23:07.249
+Margaret Benefiel: In a business or a non-profit, whatever kind of organization it is. So, it shows up everywhere.
+
+213
+00:23:07.250 --> 00:23:07.880
+Westina Matthews: Hmm.
+
+214
+00:23:09.370 --> 00:23:14.749
+Westina Matthews: Yeah, that is… I never thought about an organization having soul.
+
+215
+00:23:16.270 --> 00:23:18.910
+Westina Matthews: Yeah, but you're right.
+
+216
+00:23:19.410 --> 00:23:21.320
+Westina Matthews: Thus, there is a soul.
+
+217
+00:23:21.520 --> 00:23:22.090
+Margaret Benefiel: We'll…
+
+218
+00:23:22.090 --> 00:23:26.560
+Westina Matthews: Although there are probably some companies or organizations that you wonder if they have a soul.
+
+219
+00:23:26.560 --> 00:23:28.160
+n0irvi01: Right.
+
+220
+00:23:28.160 --> 00:23:35.730
+Margaret Benefiel: Right, or how much it's covered up in layers and layers of… Other stuff, yep.
+
+221
+00:23:36.780 --> 00:23:47.160
+Westina Matthews: In your work, and I know you lead all these workshops and training programs and things all over the world, I mean, so impressive, and now that you've…
+
+222
+00:23:47.280 --> 00:23:48.650
+Westina Matthews: retire from…
+
+223
+00:23:48.950 --> 00:23:57.089
+Westina Matthews: Shalane, you have more time to do that, so I'm a little envious of that, because I know how much you enjoy traveling as well.
+
+224
+00:23:57.680 --> 00:24:04.419
+Westina Matthews: Do you find any… Differences or similarities are described as
+
+225
+00:24:04.670 --> 00:24:09.349
+Westina Matthews: in different cultures, you know, I know you go to the UK, I mean.
+
+226
+00:24:09.700 --> 00:24:17.880
+Westina Matthews: Do you find differences in South Africa, or are there some things that are just common around this…
+
+227
+00:24:18.260 --> 00:24:20.440
+Westina Matthews: soul at work.
+
+228
+00:24:21.890 --> 00:24:28.279
+Westina Matthews: Yes, I would say there's some things that are common, and there are some differences. So…
+
+229
+00:24:28.710 --> 00:24:31.730
+Margaret Benefiel: For example, what's common is
+
+230
+00:24:32.080 --> 00:24:51.829
+Margaret Benefiel: People who are wanting to live out their values in their work, people who are wanting to build relationships of integrity and authenticity, people who are wanting to work in places where they believe in the mission.
+
+231
+00:24:52.120 --> 00:25:02.029
+Margaret Benefiel: And so, those are a few things that are common. There are differences in different cultures.
+
+232
+00:25:02.230 --> 00:25:04.679
+Margaret Benefiel: You know, in…
+
+233
+00:25:04.780 --> 00:25:24.680
+Margaret Benefiel: in South Africa, where we're running a Soul of Leadership program right now, and we have people in that program who are from different countries in Africa. So, not only South Africa, but also Kenya, and Burundi, and Mozambique, and Zambia.
+
+234
+00:25:25.030 --> 00:25:37.160
+Margaret Benefiel: And so… There are… there are different cultures represented within that group, and… So, there are…
+
+235
+00:25:37.980 --> 00:25:42.970
+Margaret Benefiel: Many different things to take into account, you know?
+
+236
+00:25:43.130 --> 00:25:47.190
+Margaret Benefiel: The… the place of women,
+
+237
+00:25:47.300 --> 00:25:53.469
+Margaret Benefiel: There are issues with women in leadership in some countries.
+
+238
+00:25:53.520 --> 00:26:11.379
+Margaret Benefiel: And then, of course, racism. Racism is everywhere, and it manifests differently in different places. And so, in South Africa, that's huge, and it manifests differently from how it manifests in the U.S.
+
+239
+00:26:11.450 --> 00:26:18.310
+Margaret Benefiel: And then in other African countries, it's also present in different ways.
+
+240
+00:26:18.870 --> 00:26:25.700
+Margaret Benefiel: And then, also… Various issues of…
+
+241
+00:26:26.840 --> 00:26:36.660
+Margaret Benefiel: What is seen as good financial practice, and… and how different countries
+
+242
+00:26:37.620 --> 00:26:44.860
+Margaret Benefiel: Allow certain things, or don't allow certain things, and… and… what is…
+
+243
+00:26:45.500 --> 00:26:55.860
+Margaret Benefiel: seen as honest and dishonest, and… and then dealing with corruption in different countries. It takes different forms in different countries.
+
+244
+00:26:56.150 --> 00:27:00.089
+Margaret Benefiel: So, those are… those are a few of the cultural issues.
+
+245
+00:27:00.360 --> 00:27:00.960
+Westina Matthews: Hmm.
+
+246
+00:27:02.270 --> 00:27:03.480
+Westina Matthews: Interesting.
+
+247
+00:27:05.070 --> 00:27:20.290
+Westina Matthews: So, how'd you start to do this kind of work on the soul of leadership? I mean, I guess we should have really started with that. How did that come about? Nat Erwin has shared with you how this course came about, but how did you
+
+248
+00:27:20.420 --> 00:27:26.469
+Westina Matthews: Long before others were doing this kind of work, how did this come? What's the story?
+
+249
+00:27:27.770 --> 00:27:45.020
+Margaret Benefiel: So back in the early 90s, I was teaching at Earlham School of Religion in Richmond, Indiana. I was teaching graduate students who were preparing for ministry, and I was teaching spiritual formation,
+
+250
+00:27:45.160 --> 00:27:50.520
+Margaret Benefiel: And… and various other spirituality courses.
+
+251
+00:27:50.800 --> 00:27:54.550
+Margaret Benefiel: And I noticed that when
+
+252
+00:27:54.660 --> 00:28:06.169
+Margaret Benefiel: Students got out of the classroom and into places where they served, whether it was churches or nonprofits or educational institutions.
+
+253
+00:28:06.190 --> 00:28:22.770
+Margaret Benefiel: Or elsewhere, sometimes even businesses from theological education. They ran into systemic issues and organizational dysfunctionalities that they didn't know how to bring the spiritual resources to bear on.
+
+254
+00:28:23.580 --> 00:28:24.900
+Margaret Benefiel: And then.
+
+255
+00:28:25.080 --> 00:28:37.709
+Margaret Benefiel: I experienced the institution itself was going through some changes, and… and I experienced how the leadership in the institution had a hard time
+
+256
+00:28:37.710 --> 00:28:58.219
+Margaret Benefiel: bringing together the spiritual resources and the leadership decisions that they were making. And so I experienced some of the same things my students were experiencing. And so I thought there must be ways to integrate what we know about spirituality with
+
+257
+00:28:58.220 --> 00:29:01.570
+Margaret Benefiel: What's known about leadership and organizational life.
+
+258
+00:29:01.700 --> 00:29:10.119
+Margaret Benefiel: And I took a leave of absence and spent some time traveling around and interviewing people about how they put those things together.
+
+259
+00:29:10.130 --> 00:29:27.519
+Margaret Benefiel: I sat in on some business school classes, and… and learned from people who were teaching in business schools, and at the Kennedy School in Boston, at Harvard, and… and, Cambridge, and… and… and I…
+
+260
+00:29:28.170 --> 00:29:49.709
+Margaret Benefiel: I found, to my surprise, that there were many people in different settings who cared about these things. It wasn't just in theological education. It was in business schools, and it was leaders in nonprofits, and people in all… in many different walks of life.
+
+261
+00:29:49.710 --> 00:29:52.410
+Margaret Benefiel: Who wanted to bring these things together?
+
+262
+00:29:52.410 --> 00:30:04.549
+Margaret Benefiel: And so I started offering workshops, and as I wrote about it, and ran into more people, and got involved in the Academy of Management.
+
+263
+00:30:04.580 --> 00:30:17.839
+Margaret Benefiel: I found that more and more people were, wanting to put these things together in their research and in their practice, in how they were living. So…
+
+264
+00:30:17.940 --> 00:30:26.070
+Margaret Benefiel: I got into it from the theological side, and then discovered there were a lot of other people into it, also.
+
+265
+00:30:28.110 --> 00:30:33.419
+Westina Matthews: One more question, then I'll turn it over to Nat. I'm mindful of our… your time, I know it's precious.
+
+266
+00:30:33.610 --> 00:30:34.880
+Westina Matthews: discernment.
+
+267
+00:30:35.270 --> 00:30:46.599
+Westina Matthews: You know, that's a word we learn in… Spiritual formation, spiritual direction, How do you… Find… how do you…
+
+268
+00:30:46.720 --> 00:30:49.769
+Westina Matthews: In your consulting, in your work.
+
+269
+00:30:50.240 --> 00:30:56.710
+Westina Matthews: How do you help others understand discernment In the soul at work.
+
+270
+00:30:59.680 --> 00:31:10.849
+Margaret Benefiel: Yes, discernment is an important part of bringing your soul to work, and I take a contemplative approach to discernment, helping people
+
+271
+00:31:10.890 --> 00:31:25.709
+Margaret Benefiel: go deep within, helping them. Depending on the language they use, we talk about listening for the divine stirrings, or we talk about listening for the deep wisdom within.
+
+272
+00:31:25.870 --> 00:31:27.909
+Margaret Benefiel: And so…
+
+273
+00:31:28.310 --> 00:31:44.419
+Margaret Benefiel: discernment is about… I like the image of when you take a glass of water from a river, there is silt in it, and it's cloudy because of the silt. And discernment is about holding that glass.
+
+274
+00:31:44.600 --> 00:32:02.979
+Margaret Benefiel: steadily, steady, so that the silt can settle. And so you need that quiet, you need that deep listening. And we need each other to help us ask questions and…
+
+275
+00:32:02.980 --> 00:32:16.389
+Margaret Benefiel: And sit in the quiet, and be present, so that that silk can settle, and the water becomes clear, and we get clarity about how to move forward.
+
+276
+00:32:17.720 --> 00:32:24.270
+n0irvi01: Margaret, you can just see why, partnering with Westina is such a great thing for me.
+
+277
+00:32:24.860 --> 00:32:27.459
+n0irvi01: You know, the,
+
+278
+00:32:28.020 --> 00:32:38.489
+n0irvi01: You know, because her question of discernment is one that I wrestle with as an MBA professor, and I will tell you, which I'd like you to respond to, and I have tried
+
+279
+00:32:39.230 --> 00:32:57.530
+n0irvi01: You know, I think faculty members, students, they understand the importance of examining with imagination, curiosity, creativity, the intersection of social, political, economic, technological, and driving force. That fits the business model. You're an academic, business school, you know that.
+
+280
+00:32:57.560 --> 00:33:14.129
+n0irvi01: people… people can bring, you know, their sort of data analysis mind to it, that Western mind, that kind of thing that we like to compartmentalize things, right? So, if you want to introduce, for example, the idea that you would have a contemplative moment before a faculty-staff meeting.
+
+281
+00:33:14.650 --> 00:33:20.909
+n0irvi01: Alright, just something like that. Or to read poetry, or to listen to music. Faculty members go crazy.
+
+282
+00:33:21.050 --> 00:33:29.950
+n0irvi01: Faculty members think, what the hell is this? You know, they… they… they… you know, in that setting, they become something else.
+
+283
+00:33:30.050 --> 00:33:33.730
+n0irvi01: Now, if you take them out of that, they think it's a great thing.
+
+284
+00:33:33.770 --> 00:33:41.670
+n0irvi01: They understand portrait, they understand philosophy, they understand all of that. But you put them in there, then they suddenly take on this hive mentality
+
+285
+00:33:41.670 --> 00:33:55.009
+n0irvi01: And it's that Western thing, when you talked about it in one of your talks, about, I guess it was Harvard, where the… where the professor removed the meditation room? I don't… I'm trying to… you know, it's like…
+
+286
+00:33:55.010 --> 00:34:02.880
+n0irvi01: What if, of all people, you removed the meditation room? Now, you'll have to tell the story, I should have put it in context here.
+
+287
+00:34:02.880 --> 00:34:15.710
+n0irvi01: But you kind of understand what I'm asking you here. I want you to just reflect on that, because that, to me, is the challenge I'm dealing with, and why Westina, with her, you know, just even bringing up the notion of discernment.
+
+288
+00:34:15.989 --> 00:34:20.309
+n0irvi01: just implant… putting that into the MBA curriculum.
+
+289
+00:34:20.739 --> 00:34:24.439
+n0irvi01: Culture. That's a very… that's a really daunting challenge.
+
+290
+00:34:24.900 --> 00:34:26.920
+Margaret Benefiel: Yes, yes.
+
+291
+00:34:26.949 --> 00:34:33.419
+Margaret Benefiel: You know, the whole academic model is so influenced by
+
+292
+00:34:33.420 --> 00:34:49.390
+Margaret Benefiel: Enlightenment rationalism, that it's hard to… it's hard for people to step out of that and realize that there is a larger context, and that
+
+293
+00:34:49.510 --> 00:34:57.000
+Margaret Benefiel: There's more to life than just the… rational mind, and…
+
+294
+00:34:57.000 --> 00:34:57.950
+n0irvi01: spreadsheet mine.
+
+295
+00:35:03.870 --> 00:35:07.239
+Margaret Benefiel: Yes, you're, you're referring to,
+
+296
+00:35:07.760 --> 00:35:14.049
+Margaret Benefiel: a talk I gave where I also talked there about the Harvard Seal, and the.
+
+297
+00:35:14.050 --> 00:35:14.500
+n0irvi01: Oh, yeah.
+
+298
+00:35:14.500 --> 00:35:27.740
+Margaret Benefiel: seal has 3 books on it, and says Veritas on… written up Veritas on the 3 books. And when this seal was first created.
+
+299
+00:35:28.200 --> 00:35:47.619
+Margaret Benefiel: two books were open, and one was closed upside down to show that our human minds can't know all truth, that there's a limit. And in that time, it was seen as God's truth, that the human mind isn't as big as God's mind, and
+
+300
+00:35:47.620 --> 00:36:00.770
+Margaret Benefiel: And then, in the late 19th century, it was decided that all three books would be open, that the human mind can know all truth. And so, it's a different…
+
+301
+00:36:00.870 --> 00:36:06.000
+Margaret Benefiel: view. It's a… you know, when… when we say.
+
+302
+00:36:06.400 --> 00:36:23.179
+Margaret Benefiel: maybe our rational minds are limited. That's kind of anathema in the academy, and so… and so, you're right. It's, it's hard to introduce some of these things in…
+
+303
+00:36:23.430 --> 00:36:39.369
+Margaret Benefiel: many places in the academy. I think that what we need to do is look for where the fertile ground is, where is the hunger? Where are people saying, there must be more than this? You know, there are…
+
+304
+00:36:39.640 --> 00:36:54.319
+Margaret Benefiel: There are people who are realizing that we keep hitting brick walls when we rely on just our rational minds to solve problems. For example.
+
+305
+00:36:54.580 --> 00:36:58.949
+Margaret Benefiel: the work of Otto Sharmer and his associates, who.
+
+306
+00:36:58.970 --> 00:37:05.699
+Margaret Benefiel: who do work at MIT, through the Presencing Institute.
+
+307
+00:37:05.710 --> 00:37:22.450
+Margaret Benefiel: They talk about how we… we keep hitting these brick walls, and how we need to go deeper than just what our rational minds can come up with. And they use something called Theory U,
+
+308
+00:37:22.450 --> 00:37:35.260
+Margaret Benefiel: where there's a U that goes down and back up, and they talk about how rational debates stay at this level, and we need to go deeper down to dialogue.
+
+309
+00:37:35.260 --> 00:37:57.039
+Margaret Benefiel: down to deeper listening for the wisdom that's within, that can come out of us. And there's a lot more power in that, and how we can move up through creativity and innovation that we don't get when we stay up here on the level of just our rational minds and that debate mode.
+
+310
+00:37:57.040 --> 00:38:19.310
+Margaret Benefiel: And so… so they do good work with people in business, people in government, and… and take them down to that deeper level in the you, and help them be present to each other, and find a way forward. And they do that with very secular audiences. They're not talking about religion.
+
+311
+00:38:19.310 --> 00:38:27.870
+Margaret Benefiel: They don't even use the term spirituality. And so they've found a way to talk about it that resonates with many people.
+
+312
+00:38:27.870 --> 00:38:30.660
+Margaret Benefiel: Now, of course, there are other people at MIT who
+
+313
+00:38:30.660 --> 00:38:53.280
+Margaret Benefiel: who don't like what they do, and you say, what do you mean, you know? There's also a Dalai Lama Center for Ethics at MIT, and the folks at the Presencing Institute have done some work with the Dalai Lama Institute, and so there are people who are hungry for something more, and
+
+314
+00:38:53.280 --> 00:38:59.090
+Margaret Benefiel: I don't think we can convince the whole academic community, the whole faculty.
+
+315
+00:38:59.090 --> 00:39:02.030
+n0irvi01: We can simply look for people who.
+
+316
+00:39:02.100 --> 00:39:17.100
+Margaret Benefiel: are dissatisfied with the ways that the current way of doing things doesn't get us where we need to go. And we can see where the fertile ground is and work with those people.
+
+317
+00:39:18.010 --> 00:39:18.740
+n0irvi01: Thank you.
+
+318
+00:39:18.860 --> 00:39:20.530
+n0irvi01: Wes, back to you.
+
+319
+00:39:20.530 --> 00:39:27.289
+Westina Matthews: You know, I'm mindful of time. I just have one other question. Well, it's a little bit about your spiritual journey.
+
+320
+00:39:27.680 --> 00:39:33.820
+Westina Matthews: While this is not a course on religion, I want to honor and recognize that you're Quaker.
+
+321
+00:39:35.320 --> 00:39:37.890
+Westina Matthews: And that you are iLearn.
+
+322
+00:39:38.010 --> 00:39:44.459
+Westina Matthews: There are ministers. I didn't know you were Reverend Margaret Benefo, if that is the preferment.
+
+323
+00:39:44.600 --> 00:39:49.840
+Westina Matthews: I'm just wondering, from your, Quaker tradition.
+
+324
+00:39:49.910 --> 00:40:07.139
+Westina Matthews: how has that helped to inform the work that you've been doing on solid work? Because we will have many different, denominations and faiths and whatever speaking during this course, but I'm just wondering about, for you, how has that
+
+325
+00:40:08.490 --> 00:40:12.949
+Westina Matthews: Informed your work, your research, and your publication.
+
+326
+00:40:13.900 --> 00:40:31.780
+Margaret Benefiel: Yes, well, Quaker spirituality is a contemplative spirituality, and so it's about deep listening, it's about discernment, it's about deep connection with people, and so it has helped me
+
+327
+00:40:32.030 --> 00:40:44.339
+Margaret Benefiel: Listen more deeply to soul in leaders and organizations, and has helped me teach people how to listen with soul and for soul.
+
+328
+00:40:45.360 --> 00:40:46.970
+Westina Matthews: And you are a gentle soul.
+
+329
+00:40:47.250 --> 00:40:50.769
+Westina Matthews: I shall say, my experience. A very gentle soul.
+
+330
+00:40:50.770 --> 00:40:59.970
+Margaret Benefiel: Thank you. Well, thank you both so much. I do need to go to another commitment, so it's been a pleasure.
+
+331
+00:40:59.970 --> 00:41:01.899
+Westina Matthews: Pleasure to be with you.
+
+332
+00:41:01.900 --> 00:41:04.419
+n0irvi01: Thank you so much, Margaret, and thank you for your work.
+
+333
+00:41:04.980 --> 00:41:08.660
+Margaret Benefiel: Thank you both for your good work. Bye-bye.
+
+334
+00:41:08.660 --> 00:41:09.500
+n0irvi01: Bye-bye.
+
+335
+00:41:15.480 --> 00:41:16.400
+Westina Matthews: Okay.
+
+336
+00:41:16.400 --> 00:41:20.669
+n0irvi01: All right, let me see if we can take off, take off the recording.
+
+337
+00:41:20.670 --> 00:41:21.750
+Westina Matthews: Huh.
+
+338
+00:41:23.670 --> 00:41:27.760
+n0irvi01: Go, let me just make sure that recordings… Dot.
+
+339
+00:41:28.740 --> 00:41:29.950
+n0irvi01: Yes. No?
+
+340
+00:41:29.950 --> 00:41:30.380
+Westina Matthews: Still…
+

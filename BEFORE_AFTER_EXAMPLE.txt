@@ -1,0 +1,36 @@
+====================================================================
+TRANSCRIPT CLEANING: BEFORE & AFTER COMPARISON
+====================================================================
+
+--- BEFORE (Original VTT Format) ---
+
+289
+00:37:09.320 --> 00:37:26.960
+Nat Irvin: Well, good afternoon, everybody. I am Nat Urban, joined by my co-host, Dr. Westina Matthews, for this, the third week of our special course called The Soul of Management, where we look at the intersection of spirituality, leadership, and core values.
+
+290
+00:37:27.040 --> 00:37:45.249
+Nat Irvin: Really delighted to have, really, two special guests that are going to be introduced by Westina in just a few minutes, but for the students who are joining us and who will be looking at this video later, I would just like for you to stay on at the end of our discussion today.
+
+291
+00:37:45.400 --> 00:38:02.930
+Nat Irvin: because Westina will be spending a little time following up from our class on this past Tuesday.
+
+--- AFTER (Cleaned Narrative Format) ---
+
+**Nat Irvin:**
+Well, good afternoon, everybody. I am Nat Urban, joined by my co-host, Dr. Westina Matthews, for this, the third week of our special course called The Soul of Management, where we look at the intersection of spirituality, leadership, and core values. Really delighted to have, really, two special guests that are going to be introduced by Westina in just a few minutes, but for the students who are joining us and who will be looking at this video later, I would just like for you to stay on at the end of our discussion today. because Westina will be spending a little time following up from our class on this past Tuesday.
+
+====================================================================
+KEY IMPROVEMENTS:
+====================================================================
+
+✓ No timestamps cluttering the text
+✓ No sequence numbers
+✓ Speaker clearly identified with bold formatting
+✓ Continuous narrative flow
+✓ All dialogue preserved
+✓ Easy to read and follow
+✓ Professional formatting suitable for publication
+
+====================================================================

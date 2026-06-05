@@ -1,0 +1,95 @@
+Week 4 Overview
+
+Welcome to week four. This week we're going to look at perspectives of AI.
+0:09
+So far in this course we focus primarily on practical questions like how does AI work?
+0:14
+How can you use it effectively? How should organizations govern it responsibly?
+0:20
+This week, we're stepping back to examine something equally important for you as a leader,
+0:25
+but something that often is not talked about the broader landscape of the perspectives surrounding AI.
+0:29
+Not everyone sees this technology the same way, and understanding why matters for how you'll lead.
+0:37
+Here's the reality you'll face when you're making decisions about AI whether it's adoption, governance, communication strategy.
+0:44
+You won't be operating in a vacuum. Your employees will have different opinions.
+0:51
+Your customers will have different concerns. Your investors will have expectations.
+0:55
+Regulators will have requirement. None of these stakeholders will necessarily agree with you or one another.
+1:00
+Some people in your organization will see AI is the most exciting opportunity of their careers.
+1:07
+Others will see it as an existential threat to their jobs.
+1:11
+Some of your customers will demand AI powered experiences.
+1:15
+Others will actively avoid companies using AI.
+1:19
+Some board members may push to move faster or slow down.
+1:23
+Uh, you're effective as a leader. Depends on your ability to understand and navigate these different perspectives.
+1:28
+It's not necessarily picking the right side because there really isn't a right side, but engaging thoughtfully with people across these spectrums.
+1:34
+This week, we'll explore the full range of AI perspectives, which generally fall along somewhat somewhat of a spectrum.
+1:43
+On one end, you have the transformational optimism, the view that AI it's going to revolutionize industry,
+1:49
+solve major global challenges, and create unprecedented prosperity.
+1:56
+Many technology leaders and investors hold this view. Moving along the spectrum, you'll find pragmatic enthusiasm.
+2:00
+AI is powerful and beneficial, but success depends on thoughtful implementation and realistic expectations.
+2:08
+Further along, there's cautious skepticism.
+2:14
+Current AI is overhyped, output quality is inconsistent, and organizations risks real harm by moving too fast.
+2:16
+Uh, and then there are the deep ethical concerns.
+2:24
+Uh, and we touched on a lot of those last week. AI raises serious questions about bias, privacy, labor displacement and concentration and power.
+2:28
+And I think it helps to revisit this, uh, when we talk about perspectives, to add that additional context.
+2:37
+And then at the far end, existential risks,
+2:43
+the concern that advanced AI systems could pose fundamental threats to human control or even human existence.
+2:46
+Most thoughtful people hold nuanced views that draw from multiple points on the spectrum.
+2:52
+Your goal this week isn't decide who is right.
+2:57
+It's the understanding which drives each perspective so that you can enjoy and engage productive productively with stakeholders wherever they fall.
+3:00
+Here's how we approach this. First, we'll examine, uh, the optimistic case in depth.
+3:08
+What are the genuine opportunities, what evidence supports this enthusiasm and what assumptions underlie this view?
+3:13
+Then we'll turn to the skeptical and critical perspectives. Where are the real limitations and quality concerns?
+3:20
+Where has I failed to deliver on its promises?
+3:25
+Next, we'll revisit those ethical, uh, and societal concerns bias, privacy, labor displacement, intellectual property, and concentration of power.
+3:28
+We'll also examine the existential risk arguments, both the case for taking them seriously and some counterarguments.
+3:37
+Finally, and this is crucial, we'll focus on bridging this divide. How can you engage productively with people who hold different views?
+3:44
+How do you build coalitions, anticipate reactions, and make decisions that account for legitimate concerns across the spectrum?
+3:51
+Your main assignment this week will ask you to put these skills into practice.
+3:58
+Your analyze a business scenario involving stakeholders with different AI perspectives,
+4:02
+and develop a leadership response that demonstrates your ability to understand and navigate those, uh, differences.
+4:06
+This is a skill that will serve you well beyond AI, the ability to understand what drives people with different views,
+4:13
+to find common ground and to lead through disagreement is fundamental to effective leadership in any domain.
+4:18
+Week four will also bring another. I will share out where you can explore something of interest to you and I.
+4:25
+I'm looking forward to seeing your work this week and let's get started.

@@ -1,0 +1,96 @@
+The Variables That Shape the Future: A Closer Look at Compute
+
+Before we look at the four scenarios, I want to demonstrate something about why scenario planning is essential for AI strategy.
+0:06
+The future of AI depends on dozens of interconnected variables energy availability, regulatory decisions,
+0:15
+workforce readiness, algorithmic breakthroughs, public trust, geo geopolitical stability, and many more.
+0:22
+Each one of these can act as either an accelerator or bottleneck in their interactions are what create the deep uncertainty we're navigating.
+0:30
+To show you what I mean.
+0:38
+Let us take a closer look at just one of these variables compute infrastructure, the chips, the data centers, the energy systems that power.
+0:39
+I watch what happens when we examine this one set of facts through some different lenses.
+0:47
+Here's what's happening right now is a February 2026.
+0:54
+The four largest tech companies Amazon, Google,
+0:57
+Microsoft and meta have announced that they have a combined capital expenditure that plans over 600 billion for this year alone.
+1:00
+That's around a 50% increase over just last year.
+1:09
+To put this in context, this level of technology advancement is a share of the GDP rivals,
+1:12
+the combined scale of the Interstate Highway system, the Apollo program, and broad in the broadband buildout.
+1:18
+Each of these companies is individually spending over $100 billion alone in AI infrastructure.
+1:25
+Here's the key insight the AI capabilities we're seeing today.
+1:32
+They're already impressive. The new model releases are consistently hitting higher and higher benchmarks,
+1:35
+but they actually were developed on a previous generation of infrastructure.
+1:41
+Meanwhile, we've yet to see a model trained on Nvidia's Blackwell Architecture,
+1:46
+which is delivering up to 30 times the inference compute performance of the chips that are powering our current wave.
+1:51
+And there are more advanced chips in the pipeline. Meanwhile, data center capacity is expected to roughly double over the next 12 quarters.
+2:00
+What this means is there's a massive amount of compute that has been purchased and is being deployed.
+2:08
+That has not been reflected in model capabilities.
+2:14
+Some analysts call this capability a capability overhang the potential for significant step change once new models are trained on this infrastructure.
+2:18
+If you're evaluating scenario A, this is a powerful accelerant.
+2:26
+But. If we look at the other side. Power availability, not capital.
+2:31
+It's now a primary constraint on data center construction.
+2:36
+A single AI task can consume up to 1000 times more electricity than a traditional web search.
+2:39
+Grid infrastructure was built decades ago and cannot be upgraded that quickly.
+2:45
+Lead times for high voltage transformers stretched from 2 to 4 years.
+2:50
+Supply chains for advanced chips depend on a small number of manufacturers.
+2:55
+For example, TSMC performs 90% of the fabrication of these chips,
+3:00
+while ASML creates 100% of the extreme ultraviolet lithography machines that are key to producing these chips,
+3:06
+and the financial model is under pressure.
+3:14
+These hyperscalers, as we've already discussed, are spinning up to 94% of their operating cash flows on AI infrastructure.
+3:17
+Um, increasingly, uh, turning to different debt markets and financial, uh, maneuvers to help pay for these, uh, build outs.
+3:24
+If these bottlenecks end up, uh, biting, they support slower scenarios, scenario B or C, and that energy footprint adds fuel to scenario D.
+3:35
+If communities start pushing back against these massive, uh, datacenter, uh, build outs.
+3:45
+Here's the point.
+3:51
+We just looked at one variable compute infrastructure in the same set of facts can reasonably support the case for rapid acceleration,
+3:52
+gradual progress, a plateau or backlash.
+3:59
+Now multiply that by every other variable regulation.
+4:03
+Public address. Workforce adaptation. Algorithmic breakthroughs.
+4:07
+Geopolitical risk.
+4:10
+Each one has the same dual nature accelerator or bottleneck, depending on how it plays out and how it interacts with everything else.
+4:12
+This is exactly why we use scenario planning instead of prediction.
+4:20
+No one single forecast can account for all these moving parts.
+4:24
+The four scenarios we are about to explore give you a structured ways to look and think about the different combinations of these variables.
+4:27

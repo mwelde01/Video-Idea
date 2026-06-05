@@ -1,0 +1,52 @@
+Welcome to week three.
+0:03
+Uh, this week we're diving into ethics, governance and risk.
+0:10
+And by the end of the week, you're going to create something that you can actually use beyond this class.
+0:14
+I'm going to start, though, with the question, how many of you have an employer with a clear I use policy.
+0:18
+And for those of you who do. How many of you have actually read it?
+0:24
+If your answer is I'm not sure, or the policy's probably somewhere you're not alone.
+0:29
+Most organizations are still figuring this out. Some have a detailed frameworks.
+0:35
+Others have single paragraphs that are buried somewhere in it.
+0:40
+Policy. Some have nothing at all. This week we're going to look at how leading organizations are approaching AI governance.
+0:44
+Uh, we'll examine, uh, what good governance looks like, the policies, the processes, the rows in the controls that make it work.
+0:52
+We'll also look at the regulatory landscape. Uh, the EU AI act is the most comprehensive framework, but the US uh, has, uh, done some initiatives.
+0:59
+Uh, if you're in a leadership role or heading towards one, uh,
+1:12
+you need to understand this landscape because it's going to shape what's possible and what's required.
+1:15
+Uh, then we're going to tackle some harder questions. Who's responsible when I causes harm?
+1:21
+We'll use the classic problem, uh, trolley problem as a starting point,
+1:27
+but apply it to real scenarios autonomous vehicles, algorithmic hiring, even autonomous weapons.
+1:31
+These aren't hypotheticals anymore. They're happening now.
+1:38
+And the answers aren't so simple. We'll look at bias and fairness challenges in hiring health care content platforms,
+1:42
+and we'll cover risk management and security everything from data privacy to hallucinations to prompt and prompt injections, uh, attacks.
+1:50
+But here's where it's going to get personal at the end of the week.
+1:59
+We're going to shift from an organizational frameworks to individual principles.
+2:03
+I'm going to introduce you to something called Quad's Constitution, the set of guiding principles that anthropic is using to build their AI.
+2:07
+It's an a recent example how values are being put into these models that are explicit and actionable.
+2:16
+Then you're going to build your own. Further details on this assignment can be found in this week's uh section.
+2:25
+This is one of my favorite weeks in the course because it's where the concepts become personal.
+2:32
+You're not just learning about any AI governance. Uh, you're going to to find what this means to you.
+2:37

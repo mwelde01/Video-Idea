@@ -1,0 +1,146 @@
+And. I want to take a couple minutes to give you a brief history of AI, um, and how it has positioned us for where we are today.
+0:06
+Um, when we think of AI, we can think of it is a series of waves, uh, brought in by the same forces, algorithms, data, compute economics.
+0:17
+Um, as a quick aside, a book I highly recommend is The Coming Wave, uh,
+0:27
+written by Mustafa Suleyman, uh, who is the co-founder and former CEO of Google DeepMind.
+0:32
+And we'll talk about Google DeepMind here in a minute.
+0:38
+Um, and then he is now the CEO of Microsoft AI in it in his book, uh, he looks at future waves of AI.
+0:42
+Uh, and I'll make sure to drop that, uh, information about the book in our team site.
+0:50
+Uh, but this this idea of waves is not something that is, uh, you know, that I thought of it, but, you know, I think it's a good framing.
+0:55
+So that first wave comes in, you know, the 1950s, Alan Turing framed, uh, that core question.
+1:05
+Can machines exhibit intelligent behavior? Can machines think?
+1:12
+Uh, you may have heard of the Turing test, which a human judge interacts with both machines and humans through test tech specs,
+1:17
+communication to see if they can reliably tell the computer apart from the human.
+1:24
+While this test has its critics, you know, passing the test doesn't necessarily mean the machine understands language or has general intelligence.
+1:29
+It means it's good at mimicking human behavior.
+1:39
+But it's been use is at, ah, an AI benchmark since its inception.
+1:42
+Do you think our current models can pass this test today?
+1:48
+And what do you think tests like this mean? Uh, is the benchmarks tend to shift with AI.
+1:53
+In 1956, the Dartmouth Workshop coined the term artificial intelligence in their paper A
+2:01
+proposal for the Dartmouth Summer Research Project on Artificial Intelligence.
+2:08
+The first major wave continued through the 1960s through 80s, focusing on symbolic systems and expert rules.
+2:13
+These systems were transparent and logical, and they worked in a tidy, well specified domains.
+2:21
+But once the environments became messy in ambiguous outputs shifting conditions, the rules became brittle.
+2:27
+It became expensive to maintain, and progress slowed during the 90s and 2000.
+2:36
+Statistical machine learning, uh, took, uh, its place.
+2:42
+Instead of hand coding rules, we trained models uh, from examples to, uh, help classify, predict and rank.
+2:47
+Um, it was really practical for business credit scoring, churn prediction, search, ranking recommendations.
+2:54
+Models were robust, uh, when we had labeled data and clear metrics, though, they required a lot of engineering humans deciding which inputs mattered.
+3:01
+In the 20 tens, deep learning advance with larger data sets, GPU acceleration, and algorithmic refinements.
+3:12
+Neural networks delivered major gains in vision, speech, and language.
+3:19
+A defining moment came in 2016, when Google DeepMind's AlphaGo defeated 18 time world champion Lee Sedol.
+3:23
+Alphago's move 37, a highly unconventional, low probabilistic play,
+3:30
+stunned the world and revealed a strategy that humans had not even conceived of, demonstrating the ability of AI to find novel solutions.
+3:36
+This leads us to 2017 with the transformer architecture. In your module, you'll see the seminal paper Attention is All You Need,
+3:45
+which introduced the transformer architecture found in today's foundational models transformer scale language understanding and generation.
+3:52
+By adding relevant context across long sequences, pre-training on a large corpus of data creates general capabilities,
+4:00
+instruction, and fine tuning shape those capabilities into assistant like behaviors.
+4:07
+This is the foundation of today's large language models and the broader move towards generative and multimodal systems.
+4:11
+These are the foundational models like ChatGPT, Claude, and Gemini.
+4:19
+To better understand how these transformers work, be sure to check out the How Large Language Models Work section in your module.
+4:24
+What makes this current moment different is that these models are increasingly embedded in workflows.
+4:32
+Retrieval. Augmented generation crowns outputs in an organization's own sources, reducing hallucinations and making answers are editable.
+4:36
+Function calling and agent patterns allow models not just to converse, but to act.
+4:46
+Query a spreadsheet. Draft a document so we move from chat to useful work.
+4:50
+Multimodality brings images, audio, and code into one assistant,
+4:55
+making it easier to integrate AI where people already spend their time in office suite CRMs and.
+4:59
+Developer or developer environments. Across these waves, each era brought its strengths and limits that prompted the next transition.
+5:05
+Some symbolic AI offered clarity but suffered from brittleness and maintenance overhead.
+5:13
+Statistical machine learning delivered robust performance in structured settings, but depended on human crafted features,
+5:18
+deep learning and lot perception and language at scale, but raise questions of costs and operational maturity.
+5:25
+Generative and AGI systems are versatile and fast,
+5:31
+yet they require deliberate controls to manage hallucinations, privacy, IP concerns, and, of course, costs.
+5:35
+So what's reliably working in your organizations right now?
+5:42
+Value shows up in a few repeatable patterns content operations with human review that cut cycle times
+5:45
+while maintaining quality research synthesis that condenses multiple sources into decision making briefs,
+5:50
+customer support assistance grounded in policies and knowledge bases that reduce time,
+5:57
+and spreadsheet code copilots that reduce rework and speed iteration.
+6:02
+These use cases succeed when they're scoped, narrowly measured, and paired with human in the loop.
+6:07
+Uh review. Check out the Gin a Divide article in the module for more of what is and what is not working that leads to leadership moves that matter.
+6:14
+Treat AI as something that you work with in a platform, not an oracle.
+6:23
+Start with grounded use cases. Maintain human in the loop.
+6:27
+Review where risk is higher and measure value explicitly.
+6:30
+Time saved in quality and rework.
+6:34
+Customer impact and risk incidents defined approved use cases in simple disclosure language, so it's clear when and how AI assistance is used.
+6:36
+Adopt verification checklists for facts calculations in citations.
+6:45
+Finally, this is where I think the importance comes in for scenario planning across multiple features rather than just betting on one.
+6:50
+If you look at the AI forecasting section, uh, from 1973, you'll see that not all predictions come to pass.
+6:57
+Capabilities may accelerate quickly. You'll want playbooks and training ready to scale.
+7:04
+Progress may be steady, so there may be a need to continue chipping away in efficiency and quality.
+7:09
+A plateau brings the need to focus on reliability and cost control.
+7:15
+If regulation or backlash grows, we must differentiate on trust in assurance.
+7:19
+Our goal here won't be to predict a single future. It's to be ready for several and to capture value responsibly.
+7:24
+As the next wave arrives, and we'll do that in week five.
+7:31
+Until then, continue to review this week's content to.
+7:34

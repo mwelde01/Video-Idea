@@ -1,0 +1,67 @@
+The Current State of AI and Week 2 Look Ahead
+Uh. Um. And. As we wrap up, uh, week one, I wanted to give some final thoughts on the current state of AI.
+0:03
+Uh, right now there are some cutting edge capabilities.
+0:18
+Uh, models can, you know, draft marketing copy.
+0:21
+Generate business reports at a click of a button. They can analyze contracts or financial statements faster than junior analyst medicine.
+0:25
+Large language models can outperform doctors on certain diagnostic tests.
+0:35
+Uh, in tech, agents are writing code and solving programing challenges at a high level.
+0:41
+Creative fields have been impacted. Image generators produce mockups and, uh, add graphics in merely seconds.
+0:48
+Your major players OpenAI, anthropic, Google, meta X, AI they're all competing.
+0:57
+They're all investing, uh, they want to achieve.
+1:08
+And if you talk to these founders, the the the leaders of these organizations,
+1:12
+they're all their main goal is to achieve artificial general intelligence, artificial superintelligence.
+1:17
+And we're going to talk a little bit more about what that means, uh, in future weeks.
+1:24
+But understand that, uh, this, uh, adoption has been rapid.
+1:29
+Uh, in fact, uh, ChatGPT did in two years what it it took us in the internet to do in 13 as far as, uh, the number of users.
+1:36
+While you can argue that ChatGPT had the benefit of the, uh, internet, uh, is the foundation it did allow, uh, that rapid expansion.
+1:47
+AI is also consuming the internet. Uh, there is more content being created by AI than humans.
+2:00
+Uh, as of right now. Uh, data centers are, uh, now eclipsing, uh, any type of office construction.
+2:08
+Is these companies race to invest to build bigger and better models?
+2:17
+Uh, in fact, these hyperscalers are spending, uh, 60% of their operating expenses on capital expenditures.
+2:25
+And it is becoming a little bit more, uh, incestuous as well, in the sense that open AI.
+2:36
+Uh, for example, makes up $330 billion of, uh, the $880 billion of future contracts for Microsoft.
+2:42
+Oracle in core. We've these entities are literally becoming too big to fail.
+2:52
+In fact, um.
+3:00
+The US, uh, contribution from, uh, capital expenditures, uh, from these tech companies, uh, was about 1.3% of the US GDP, um, uh, last year.
+3:03
+So, uh, it's, uh, interesting time.
+3:19
+Certainly an exciting time. Um, and we're going to explore, you know what this means?
+3:22
+You know, longer term, uh, the different perspectives around that, uh, in future weeks, next week.
+3:28
+Uh, I'm really looking forward to, uh, really diving, uh, in depth with some of these tools.
+3:35
+Uh, I think it'll be an opportunity for, for you to, to, uh, use these if you haven't,
+3:40
+or use them in a, in a different way, or experiment with something that you haven't tried before.
+3:46
+And, uh, I, I'm looking forward to that as well as, you know, looking forward to seeing, uh, all your, uh, case studies, uh, from this week.
+3:50
+Uh, and if you have any questions, as always, you can feel free to email me.
+4:00
+And I hope you have, uh, a great, wonderful, uh, rest of your day as you, as you go through this module.
+4
