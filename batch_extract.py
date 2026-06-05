@@ -34,25 +34,37 @@ def batch_extract_from_file(input_file, output_dir="transcripts"):
     # Read URLs from file
     try:
         with open(input_file, 'r') as f:
-            urls = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+            raw_lines = [line.strip() for line in f if line.strip() and not line.startswith('#')]
     except FileNotFoundError:
         print(f"Error: Input file '{input_file}' not found")
         return {}
 
-    if not urls:
+    if not raw_lines:
         print("Error: No URLs found in input file")
         return {}
 
-    print(f"Found {len(urls)} URLs to process\n")
+    # Parse lines: support both plain URLs and "Name|Type|URL" format
+    entries = []
+    for line in raw_lines:
+        parts = line.split('|')
+        if len(parts) == 3:
+            name, video_type, url = parts[0].strip(), parts[1].strip(), parts[2].strip()
+            entries.append((name, video_type, url))
+        else:
+            entries.append(('', '', line.strip()))
+
+    print(f"Found {len(entries)} URLs to process\n")
 
     results = {}
     success_count = 0
     failure_count = 0
 
     # Process each URL
-    for i, url in enumerate(urls, 1):
+    for i, (name, video_type, url) in enumerate(entries, 1):
+        label = f"{name} {video_type}".strip() if name else url
         print(f"\n{'='*80}")
-        print(f"Processing {i}/{len(urls)}: {url}")
+        print(f"Processing {i}/{len(entries)}: {label}")
+        print(f"URL: {url}")
         print('='*80)
 
         # Extract video ID for filename
@@ -73,8 +85,11 @@ def batch_extract_from_file(input_file, output_dir="transcripts"):
             failure_count += 1
             continue
 
-        # Save transcript to file
-        filename = sanitize_filename(f"{video_id}.txt")
+        # Build filename from name+type if available, otherwise use video ID
+        if name:
+            filename = sanitize_filename(f"{name}_{video_type}.txt")
+        else:
+            filename = sanitize_filename(f"{video_id}.txt")
         output_path = os.path.join(output_dir, filename)
 
         try:
