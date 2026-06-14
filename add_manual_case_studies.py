@@ -87,15 +87,9 @@ def parse_compiled_md(filepath):
             continue
         order.append(name)
 
-        # Extract positive and negative subsections
-        pos_match = re.search(r'### Positive AI Case\n\n(.*?)(?=\n### |\Z)', section, re.DOTALL)
-        neg_match = re.search(r'### Negative AI Case\n\n(.*?)(?=\n---|\Z)', section, re.DOTALL)
-
-        students[name] = {
-            'Positive': pos_match.group(1).strip() if pos_match else '',
-            'Negative': neg_match.group(1).strip() if neg_match else '',
-        }
-
+        # Extract all ### subsections dynamically
+        subsections = re.findall(r'### (.+?)\n\n(.*?)(?=\n### |\n---|\Z)', section, re.DOTALL)
+        students[name] = {title.strip(): body.strip() for title, body in subsections}
     return header, order, students
 
 
@@ -129,17 +123,20 @@ def write_compiled_md(filepath, header, order, students):
             f.write(f'- [{name}](#{anchor})\n')
         f.write('\n---\n\n')
 
+        # Collect all section types across all students
+        all_types = []
+        for s in students.values():
+            for t in s.keys():
+                if t not in all_types:
+                    all_types.append(t)
+
         # Student sections
         for name in order:
             f.write(f'## {name}\n\n')
-            f.write('### Positive AI Case\n\n')
-            pos = students[name].get('Positive', '')
-            f.write(f'{pos}\n\n' if pos else '*No video submitted*\n\n')
-
-            f.write('### Negative AI Case\n\n')
-            neg = students[name].get('Negative', '')
-            f.write(f'{neg}\n\n' if neg else '*No video submitted*\n\n')
-
+            for section_type in all_types:
+                f.write(f'### {section_type}\n\n')
+                content = students[name].get(section_type, '')
+                f.write(f'{content}\n\n' if content else '*No video submitted*\n\n')
             f.write('---\n\n')
 
 
