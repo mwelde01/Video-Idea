@@ -102,13 +102,17 @@ def process_all_videos(input_file='video_links.txt', output_file='compiled_trans
 
     print(f"Found {len(videos)} videos to process\n")
 
-    # Group by student
+    # Group by student, preserving all case types dynamically
     students = {}
+    case_types_seen = []
     for video in videos:
         student = video['student']
+        case_type = video['case_type']
         if student not in students:
-            students[student] = {'Positive': None, 'Negative': None}
-        students[student][video['case_type']] = video['url']
+            students[student] = {}
+        students[student][case_type] = video['url']
+        if case_type not in case_types_seen:
+            case_types_seen.append(case_type)
 
     # Process each student's videos
     results = {}
@@ -116,35 +120,34 @@ def process_all_videos(input_file='video_links.txt', output_file='compiled_trans
     processed = 0
 
     for student, urls in sorted(students.items()):
-        results[student] = {'Positive': None, 'Negative': None}
+        results[student] = {}
 
-        for case_type in ['Positive', 'Negative']:
-            if urls[case_type]:
-                processed += 1
-                print(f"[{processed}/{total}] Processing: {student} - {case_type} AI Case")
-                print(f"URL: {urls[case_type]}")
+        for case_type, url in urls.items():
+            processed += 1
+            print(f"[{processed}/{total}] Processing: {student} - {case_type}")
+            print(f"URL: {url}")
 
-                # Determine video platform and extract transcript
-                if 'drive.google.com' in urls[case_type]:
-                    print("Platform: Google Drive")
-                    transcript = extract_google_drive_transcript(urls[case_type])
-                elif 'panopto.com' in urls[case_type]:
-                    print("Platform: Panopto")
-                    transcript = extract_panopto_transcript(urls[case_type])
-                else:
-                    transcript = "Unknown video platform"
+            # Determine video platform and extract transcript
+            if 'drive.google.com' in url:
+                print("Platform: Google Drive")
+                transcript = extract_google_drive_transcript(url)
+            elif 'panopto.com' in url:
+                print("Platform: Panopto")
+                transcript = extract_panopto_transcript(url)
+            else:
+                transcript = "Unknown video platform"
 
-                results[student][case_type] = transcript
+            results[student][case_type] = transcript
 
-                # Show preview
-                if transcript and not transcript.startswith("Error") and not transcript.startswith("No"):
-                    preview = transcript[:150] + "..." if len(transcript) > 150 else transcript
-                    print(f"✓ Success! Preview: {preview}")
-                else:
-                    print(f"⚠ {transcript}")
+            # Show preview
+            if transcript and not transcript.startswith("Error") and not transcript.startswith("No"):
+                preview = transcript[:150] + "..." if len(transcript) > 150 else transcript
+                print(f"✓ Success! Preview: {preview}")
+            else:
+                print(f"⚠ {transcript}")
 
-                print("-" * 80)
-                print()
+            print("-" * 80)
+            print()
 
     # Compile results into markdown document
     print("Compiling results into document...")
@@ -164,25 +167,16 @@ def process_all_videos(input_file='video_links.txt', output_file='compiled_trans
         for student in sorted(students.keys()):
             f.write(f"## {student}\n\n")
 
-            # Positive AI Case
-            f.write(f"### Positive AI Case\n\n")
-            if results[student]['Positive']:
-                if results[student]['Positive'].startswith("Error") or results[student]['Positive'].startswith("No"):
-                    f.write(f"*{results[student]['Positive']}*\n\n")
+            for case_type in case_types_seen:
+                f.write(f"### {case_type}\n\n")
+                transcript = results[student].get(case_type)
+                if transcript:
+                    if transcript.startswith("Error") or transcript.startswith("No"):
+                        f.write(f"*{transcript}*\n\n")
+                    else:
+                        f.write(f"{transcript}\n\n")
                 else:
-                    f.write(f"{results[student]['Positive']}\n\n")
-            else:
-                f.write("*No video submitted*\n\n")
-
-            # Negative AI Case
-            f.write(f"### Negative AI Case\n\n")
-            if results[student]['Negative']:
-                if results[student]['Negative'].startswith("Error") or results[student]['Negative'].startswith("No"):
-                    f.write(f"*{results[student]['Negative']}*\n\n")
-                else:
-                    f.write(f"{results[student]['Negative']}\n\n")
-            else:
-                f.write("*No video submitted*\n\n")
+                    f.write("*No video submitted*\n\n")
 
             f.write("---\n\n")
 
@@ -192,8 +186,8 @@ def process_all_videos(input_file='video_links.txt', output_file='compiled_trans
 
     # Summary statistics
     success_count = sum(1 for student in results.values()
-                       for transcript in student.values()
-                       if transcript and not transcript.startswith("Error") and not transcript.startswith("No"))
+                        for transcript in student.values()
+                        if transcript and not transcript.startswith("Error") and not transcript.startswith("No"))
 
     print("="*80)
     print("SUMMARY")
