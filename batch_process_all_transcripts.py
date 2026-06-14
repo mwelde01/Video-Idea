@@ -72,6 +72,19 @@ def extract_google_drive_transcript(url):
     except Exception as e:
         return f"Error: {str(e)}"
 
+def last_name_sort_key(full_name):
+    """Sort by last name, handling compound last names like Haj Hussein and Zakizadeh Sedaghat."""
+    compound_last_names = {
+        'Haj Hussein': 'haj hussein',
+        'Zakizadeh Sedaghat': 'zakizadeh sedaghat',
+    }
+    for compound, key in compound_last_names.items():
+        if compound in full_name:
+            return key
+    parts = full_name.strip().split()
+    return parts[-1].lower() if parts else full_name.lower()
+
+
 def process_all_videos(input_file='video_links.txt', output_file='compiled_transcripts.md'):
     """Process all videos and compile transcripts into one document"""
 
@@ -159,12 +172,12 @@ def process_all_videos(input_file='video_links.txt', output_file='compiled_trans
 
         # Table of contents
         f.write("## Table of Contents\n\n")
-        for student in sorted(students.keys()):
+        for student in sorted(students.keys(), key=last_name_sort_key):
             f.write(f"- [{student}](#{student.lower().replace(' ', '-')})\n")
         f.write("\n---\n\n")
 
         # Individual student sections
-        for student in sorted(students.keys()):
+        for student in sorted(students.keys(), key=last_name_sort_key):
             f.write(f"## {student}\n\n")
 
             for case_type in case_types_seen:

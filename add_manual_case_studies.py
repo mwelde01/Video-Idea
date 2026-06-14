@@ -168,8 +168,16 @@ def merge(manual_file, compiled_file):
         else:
             print(f'  Skipping {student} - {video_type} (already has content)')
 
-    # Sort order alphabetically by last name
+    # Sort order alphabetically by last name, handling compound last names
+    compound_last_names = {
+        'Haj Hussein': 'haj hussein',
+        'Zakizadeh Sedaghat': 'zakizadeh sedaghat',
+    }
+
     def sort_key(name):
+        for compound, key in compound_last_names.items():
+            if compound in name:
+                return key
         parts = name.strip().split()
         return parts[-1].lower() if parts else name.lower()
 
