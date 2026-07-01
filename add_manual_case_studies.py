@@ -123,11 +123,12 @@ def write_compiled_md(filepath, header, order, students):
             f.write(f'- [{name}](#{anchor})\n')
         f.write('\n---\n\n')
 
-        # Collect all section types across all students
+        # Collect all section types, excluding legacy Positive/Negative placeholders
+        excluded_types = {'Positive', 'Negative', 'Positive AI Case', 'Negative AI Case'}
         all_types = []
         for s in students.values():
             for t in s.keys():
-                if t not in all_types:
+                if t not in all_types and t not in excluded_types:
                     all_types.append(t)
 
         # Student sections
